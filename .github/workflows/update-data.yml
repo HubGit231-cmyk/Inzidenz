@@ -14,7 +14,6 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.ACCESS_TOKEN }}
-        fetch-depth: 0  # Holt die komplette History
         
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -41,7 +40,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git pull --rebase origin main
         git add data/einbrueche_diebstaehle.txt
-        git diff --staged --quiet || git commit -m "Auto-update incident data"
-        git push origin main
+        # Nur committen wenn es Änderungen gibt
+        git diff --staged --quiet || (git commit -m "Auto-update incident data" && git push)
