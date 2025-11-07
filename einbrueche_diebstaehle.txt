@@ -83,3 +83,4 @@
 {"coords": [9.9592, 53.8392], "date": "2025-11-07"}, // Zeugen Kaltenkirchen, Diebstahl
 //{"coords": [], "date": "2025-11-07"} // Wittlich, Einbruch
 {"coords": [8.9592, 54.8392], "date": "2025-11-07"}, // Zeugen Kaltenkirchen, Diebstahl
+{"coords": [8.9592, 54.8392], "date": "2025-11-07"}, // Zeugen Kaltenkirchen, Diebstahl
