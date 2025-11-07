@@ -24,12 +24,11 @@ except ImportError as e:
 URL = "https://www.presseportal.de/blaulicht/d/polizei"
 KEYWORDS = ["Einbruch", "Diebstahl"]
 
-# AUSGABE-DATEI IM DATA/ ORDNER
-OUTPUT_FILE = "einbrueche_diebstaehle.txt"
-DATA_DIR = "."
+# AUSGABE-DATEI IM DATA/ ORDNER (EINE EBENE HÖHER)
+OUTPUT_FILE = "../data/einbrueche_diebstaehle.txt"
 
 # Stelle sicher, dass der Ausgabeordner existiert
-os.makedirs(DATA_DIR, exist_ok=True)
+os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 print(f"📁 Output file: {OUTPUT_FILE}")
 
 # Header
