@@ -1,1 +1,58 @@
-#Test
+name: Update Data and Deploy to Pages
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Täglich um 00:00 UTC (ändere zu '0 * * * *' für stündlich)
+  workflow_dispatch:  # Manueller Trigger über GitHub-UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # GitHub-Server (Linux)
+    permissions:
+      contents: write  # Erlaubt Commit/Push
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v4  # Holt dein Repo
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'  # Deine Python-Version (passe an)
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt  # Installiert re & Co.
+
+    - name: Run main.py to Generate Data
+      run: python main.py  # Hier läuft dein Skript – passe an, falls es Args braucht (z. B. python main.py --output data.json)
+      # Tipp: Wenn main.py Input braucht (z. B. Keywords), hardcode sie oder nutze Secrets (siehe unten)
+
+    - name: Commit Generated Data
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data.json  # Füge die neue Textdatei hinzu
+        git diff --staged --quiet || git commit -m "Update data.json [$(date +%Y-%m-%d)]"
+        git push  # Push zurück ins Repo
+
+  deploy:
+    needs: build  # Warte auf den Build-Job
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v4
+
+    - name: Deploy to GitHub Pages
+      uses: actions/configure-pages@v5  # Bereitet Pages vor
+      # Optional: Wenn du Build brauchst (z. B. für JS), füge hier hinzu
+
+    - name: Upload to Pages
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: '.'  # Denkt das gesamte Repo (inkl. index.html & data.json)
+
+    - name: Deploy
+      id: deployment
+      uses: actions/deploy-pages@v4  # Deployt die Site
