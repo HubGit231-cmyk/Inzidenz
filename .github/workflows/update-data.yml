@@ -1,0 +1,42 @@
+name: Update Incident Data
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Jede 10 Minuten zum Testen
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4
+        
+    - name: Run scraping script
+      run: |
+        python main.py
+        
+    - name: Show debug info
+      run: |
+        echo "=== Debug Info ==="
+        ls -la
+        echo "=== File content ==="
+        head -10 einbrueche_diebstaehle.txt
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add einbrueche_diebstaehle.txt
+        git diff --staged --quiet || git commit -m "Auto-update incident data"
+        git push
