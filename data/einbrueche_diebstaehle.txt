@@ -123,3 +123,4 @@
 //{"coords": [], "date": "2025-11-07"} // Jugendhaus Ludwigsburg, Einbruch
 //{"coords": [], "date": "2025-11-07"} // Jugendhaus Ludwigsburg, Einbruch
 //{"coords": [], "date": "2025-11-07"} // Jugendhaus Ludwigsburg, Einbruch
+{"coords": [9.95, 52.15], "date": "2025-11-08"}, // Einfamilienhaus Hildesheim, Einbruch
