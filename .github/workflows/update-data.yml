@@ -2,7 +2,7 @@ name: Update Incident Data
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Jede 10 Minuten zum Testen
+    - cron: '*/10 * * * *'  # Jede 10 Minuten
   workflow_dispatch:
 
 jobs:
@@ -24,14 +24,15 @@ jobs:
         
     - name: Run scraping script
       run: |
+        cd scripts
         python main.py
         
-    - name: Show debug info
+    - name: Show results
       run: |
-        echo "=== Debug Info ==="
+        echo "=== Ergebnisse ==="
         ls -la
-        echo "=== File content ==="
-        head -10 einbrueche_diebstaehle.txt
+        echo "=== Daten-Datei ==="
+        cat einbrueche_diebstaehle.txt | tail -5
         
     - name: Commit and push changes
       run: |
