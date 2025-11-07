@@ -2,7 +2,7 @@ name: Update Incident Data
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Jede 10 Minuten
+    - cron: '0 * * * *'  # Jede Stunde (einfacher zum Testen)
   workflow_dispatch:
 
 jobs:
@@ -29,17 +29,17 @@ jobs:
         cd scripts
         python main.py
         
-    - name: Show results
-      run: |
-        echo "=== Ergebnisse ==="
-        ls -la
-        echo "=== Daten-Datei ==="
-        cat data/einbrueche_diebstaehle.txt | tail -5
-        
-    - name: Commit and push changes
+    - name: Commit and push if changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/einbrueche_diebstaehle.txt
-        # Nur committen wenn es Änderungen gibt
-        git diff --staged --quiet || (git commit -m "Auto-update incident data" && git push)
+        
+        # Prüfe ob es Änderungen gibt
+        if git diff --staged --quiet; then
+          echo "✅ Keine neuen Daten - nichts zu committen"
+        else
+          git commit -m "Auto-update incident data"
+          git push
+          echo "✅ Daten erfolgreich aktualisiert"
+        fi
