@@ -119,13 +119,17 @@
             try {
                 // Cache-Buster: Fügt Timestamp hinzu, damit Browser nicht cached
                 const timestamp = new Date().getTime();
-                const response = await fetch(`einbrueche_diebstaehle.txt?t=${timestamp}`);
+                console.log("🔄 Lade Daten...");
+                
+                // KORRIGIERT: Textdatei aus dem data/ Ordner laden
+                const response = await fetch(`./data/einbrueche_diebstaehle.txt?t=${timestamp}`);
                 
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 
                 const text = await response.text();
+                console.log("✅ Daten geladen, Länge:", text.length);
                 
                 // Text in Array umwandeln und Kommentare entfernen
                 const lines = text.split('\n');
@@ -152,7 +156,7 @@
                         id: i,
                         coords: d.coords,
                         date: d.date,
-                        city: `Vorfall ${i + 1}` // Kann optional angepasst werden
+                        city: `Vorfall ${i + 1}`
                     }));
                 
                 // Update UI
