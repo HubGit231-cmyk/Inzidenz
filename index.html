@@ -70,10 +70,6 @@
             color: #ef4444;
             font-weight: bold;
         }
-        .countdown {
-            color: #10b981;
-            font-weight: bold;
-        }
     </style>
 </head>
 <body>
@@ -86,7 +82,6 @@
         <button id="weekBtn">Diese Woche</button>
         <button id="monthBtn">Dieser Monat</button>
         <button id="yearBtn">Dieses Jahr</button>
-        <button id="manualReloadBtn">Jetzt aktualisieren</button>
     </div>
     <svg id="map" width="700" height="800"></svg>
 
@@ -103,7 +98,7 @@
         const path = d3.geoPath().projection(projection);
 
         const zoom = d3.zoom()
-            .scaleExtent([1, 12])
+            .scaleExtent([1, 8])
             .on("zoom", (event) => {
                 g.attr("transform", event.transform);
                 const scale = event.transform.k;
@@ -118,24 +113,16 @@
         // ========================================
         let incidents = [];
         const jitterCache = new Map();
-        let reloadCountdown = 120; // 2 Minuten in Sekunden
 
         // Funktion zum Laden der Textdatei
         async function loadIncidents() {
             try {
-                // AGGRESSIVER CACHE-BUSTER
+                // Cache-Buster: Fügt Timestamp hinzu, damit Browser nicht cached
                 const timestamp = new Date().getTime();
-                const random = Math.random().toString(36).substring(7);
                 console.log("🔄 Lade Daten...");
                 
-                // Cache: no-cache erzwingt immer Server-Request
-                const response = await fetch(`./data/einbrueche_diebstaehle.txt?t=${timestamp}&r=${random}`, {
-                    cache: 'no-cache',
-                    headers: {
-                        'Cache-Control': 'no-cache',
-                        'Pragma': 'no-cache'
-                    }
-                });
+                // KORRIGIERT: Textdatei aus dem data/ Ordner laden
+                const response = await fetch(`./data/einbrueche_diebstaehle.txt?t=${timestamp}`);
                 
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
@@ -175,14 +162,14 @@
                 // Update UI
                 const now = new Date().toLocaleTimeString('de-DE');
                 document.getElementById('lastUpdate').innerHTML = 
-                    `Letzte Aktualisierung: ${now} - <span class="loading">${incidents.length} Vorfälle geladen</span> - <span class="countdown">Nächste Aktualisierung: ${reloadCountdown}s</span>`;
+                    `Letzte Aktualisierung: ${now} - <span class="loading">${incidents.length} Vorfälle geladen</span>`;
                 
                 updateIncidents();
                 
             } catch (error) {
                 console.error('Fehler beim Laden der Daten:', error);
                 document.getElementById('lastUpdate').innerHTML = 
-                    `<span class="error">Fehler beim Laden: ${error.message}</span> - <span class="countdown">Nächste Aktualisierung: ${reloadCountdown}s</span>`;
+                    `<span class="error">Fehler beim Laden: ${error.message}</span>`;
             }
         }
 
@@ -286,13 +273,6 @@
             updateIncidents();
         };
 
-        // Manueller Reload Button
-        document.getElementById("manualReloadBtn").onclick = () => {
-            console.log("🔃 Manuelles Neuladen...");
-            reloadCountdown = 120; // Reset Countdown
-            loadIncidents();
-        };
-
         // Karte laden
         const geojsonURL = "https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/main/2_bundeslaender/2_hoch.geo.json";
         d3.json(geojsonURL).then(data => {
@@ -317,36 +297,9 @@
         });
 
         // ========================================
-        // AUTOMATISCHER RELOAD ALLE 2 MINUTEN MIT COUNTDOWN
+        // AUTOMATISCHER RELOAD ALLE 30 MINUTEN
         // ========================================
-        function startAutoReload() {
-            setInterval(() => {
-                reloadCountdown--;
-                
-                // Countdown in der UI aktualisieren
-                const countdownElement = document.getElementById('lastUpdate');
-                const currentHTML = countdownElement.innerHTML;
-                
-                if (currentHTML.includes('Nächste Aktualisierung')) {
-                    countdownElement.innerHTML = currentHTML.replace(/Nächste Aktualisierung: \d+s/, `Nächste Aktualisierung: ${reloadCountdown}s`);
-                }
-                
-                if (reloadCountdown <= 0) {
-                    console.log("🔄 Automatisches Neuladen...");
-                    loadIncidents();
-                    reloadCountdown = 120; // Reset auf 2 Minuten
-                }
-            }, 1000); // Jede Sekunde
-        }
-
-        // Automatischen Reload starten
-        startAutoReload();
-
-        // Auch alle 2 Minuten als Backup (falls Countdown Probleme hat)
-        setInterval(() => {
-            console.log("🔄 Backup-Autoreload...");
-            loadIncidents();
-        }, 2 * 60 * 1000); // 2 Minuten
+        setInterval(loadIncidents, 30 * 60 * 1000); // 30 Minuten = 1.800.000 ms
     </script>
 </body>
 </html>
