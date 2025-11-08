@@ -4750,7 +4750,10 @@ CITY_COORDINATES = {
 "Neu Wulmstorf": [53.4667, 9.8000],  # Niedersachsen
 "Limburg": [50.3833, 8.0667],  # Hessen (Limburg an der Lahn)
 "Bad Langensalza": [51.1075, 10.6469],  # Thüringen
-"Gorxheimertal": [49.5358, 8.7197]  # Hessen
-
+"Gorxheimertal": [49.5358, 8.7197],  # Hessen
+"Frittlingen": [48.1272, 8.7075],  # Baden-Württemberg
+"Mundenheim": [49.4667, 8.4167],  # Rheinland-Pfalz (Stadtteil von Ludwigshafen)
+"Ludwigsburg": [48.8975, 9.1919],  # Baden-Württemberg
+"Freiburg": [47.9900, 7.8200],# Baden-Württemberg (Freiburg im Breisgau)
 
 }
