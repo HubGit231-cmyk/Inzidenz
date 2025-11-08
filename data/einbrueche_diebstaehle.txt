@@ -146,3 +146,6 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-08"}, // Ostalbkreis Aalen, Einbruch
 //{"coords": [], "date": "2025-11-08"} // Einbrecher Schwabhausen, Einbruch
 //{"coords": [], "date": "2025-11-08"} // Firmengebäude Kircheib, Einbruch
+//{"coords": [], "date": "2025-11-08"} // Einfamilienhaus Niederotterbach, Einbruch
+{"coords": [7.6, 49.2], "date": "2025-11-08"}, // Drogeriemarkt Müller Pirmasens, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-11-08"}, // Limburg, Einbruch
