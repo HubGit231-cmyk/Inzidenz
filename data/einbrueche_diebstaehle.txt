@@ -125,3 +125,7 @@
 //{"coords": [], "date": "2025-11-07"} // Jugendhaus Ludwigsburg, Einbruch
 {"coords": [9.95, 52.15], "date": "2025-11-08"}, // Einfamilienhaus Hildesheim, Einbruch
 {"coords": [9.95, 52.15], "date": "2025-11-08"}, // Zeugen Hildesheim, Diebstahl
+{"coords": [7.4842, 52.6742], "date": "2025-11-08"}, // Einfamilienhaus Haselünne, Einbruch
+{"coords": [6.0961, 51.0631], "date": "2025-11-08"}, // Heinsberg, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2025-11-08"}, // Meppen, Einbruch
+{"coords": [7.4667, 52.3667], "date": "2025-11-08"}, // Spelle, Einbruch
