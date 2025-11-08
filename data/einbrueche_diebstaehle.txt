@@ -135,3 +135,7 @@
 //{"coords": [], "date": "2025-11-08"} // Frittlingen, Einbruch
 //{"coords": [], "date": "2025-11-08"} // Mundenheim, Einbruch
 {"coords": [7.3328, 49.6133], "date": "2025-11-08"}, // Baumholder, Diebstahl
+//{"coords": [], "date": "2025-11-08"} // Firmengebäude Kircheib, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-11-08"}, // Hinweise Kaiserslautern, Diebstahl
+{"coords": [8.7075, 48.1272], "date": "2025-11-08"}, // Frittlingen, Einbruch
+{"coords": [8.4167, 49.4667], "date": "2025-11-08"}, // Mundenheim, Einbruch
