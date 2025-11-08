@@ -151,3 +151,4 @@
 {"coords": [8.0667, 50.3833], "date": "2025-11-08"}, // Limburg, Einbruch
 //{"coords": [], "date": "2025-11-08"} // Einfamilienhaus Niederotterbach, Einbruch
 //{"coords": [], "date": "2025-11-08"} // Einfamilienhaus Niederotterbach, Einbruch
+//{"coords": [], "date": "2025-11-08"} // Einfamilienhaus Niederotterbach, Einbruch
