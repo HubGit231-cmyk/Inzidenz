@@ -153,3 +153,4 @@
 //{"coords": [], "date": "2025-11-08"} // Einfamilienhaus Niederotterbach, Einbruch
 //{"coords": [], "date": "2025-11-08"} // Einfamilienhaus Niederotterbach, Einbruch
 //{"coords": [], "date": "2025-11-08"} // Einfamilienhaus Niederotterbach, Einbruch
+{"coords": [8.0456, 49.0603], "date": "2025-11-08"}, // Einfamilienhaus Niederotterbach, Einbruch
