@@ -1,5 +1,8 @@
 # koordinaten.py
 CITY_COORDINATES = {
+    "Niederotterbach": [49.0603, 8.0456],  # Rheinland-Pfalz
+    "Kircheib": [50.7083, 7.4569],  # Rheinland-Pfalz
+    "Schwabhausen": [48.3000, 11.3500],  # Bayern
     #NRW
     "Köln": [50.9375, 6.9603],
     "Düsseldorf": [51.2277, 6.7735],
