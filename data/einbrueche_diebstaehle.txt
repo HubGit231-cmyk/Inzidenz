@@ -143,3 +143,6 @@
 {"coords": [8.4311, 49.3194], "date": "2025-11-08"}, // Bäckerei Speyer, Einbruch
 //{"coords": [], "date": "2025-11-08"} // Einbrecher Schwabhausen, Einbruch
 //{"coords": [], "date": "2025-11-08"} // Firmengebäude Kircheib, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-08"}, // Ostalbkreis Aalen, Einbruch
+//{"coords": [], "date": "2025-11-08"} // Einbrecher Schwabhausen, Einbruch
+//{"coords": [], "date": "2025-11-08"} // Firmengebäude Kircheib, Einbruch
