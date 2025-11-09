@@ -190,3 +190,4 @@
 {"coords": [9.735, 52.1225], "date": "2025-11-09"}, // Elze Hildesheim, Diebstahl
 {"coords": [13.0639, 53.3611], "date": "2025-11-09"}, // Neustrelitz gesucht Neustrelitz, Einbruch
 {"coords": [9.8667, 51.8167], "date": "2025-11-09"}, // Wohnungseinbruchdiebstahl Einbeck, Einbruch
+{"coords": [9.95, 52.15], "date": "2025-11-09"}, // Duinger Friedhof Hildesheim, Diebstahl
