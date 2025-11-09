@@ -180,3 +180,5 @@
 {"coords": [10.4278, 51.9042], "date": "2025-11-09"}, // Goslar, Diebstahl
 {"coords": [11.0767, 49.4521], "date": "2025-11-09"}, // Zeugenaufruf Nürnberg, Einbruch
 //{"coords": [], "date": "2025-11-09"} // Scheuren, Diebstahl
+{"coords": [10.6833, 48.7833], "date": "2025-11-09"}, // Uhr Polizeiinspektion Harburg, Einbruch
+//{"coords": [], "date": "2025-11-09"} // Scheuren, Diebstahl
