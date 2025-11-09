@@ -187,3 +187,5 @@
 {"coords": [7.6, 49.2], "date": "2025-11-09"}, // Parfüm Polizei Pirmasens, Diebstahl
 //{"coords": [], "date": "2025-11-09"} // Scheuren, Diebstahl
 //{"coords": [], "date": "2025-11-09"} // Scheuren, Diebstahl
+{"coords": [9.735, 52.1225], "date": "2025-11-09"}, // Elze Hildesheim, Diebstahl
+{"coords": [13.0639, 53.3611], "date": "2025-11-09"}, // Neustrelitz gesucht Neustrelitz, Einbruch
