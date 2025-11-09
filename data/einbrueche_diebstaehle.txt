@@ -156,3 +156,6 @@
 {"coords": [8.0456, 49.0603], "date": "2025-11-08"}, // Einfamilienhaus Niederotterbach, Einbruch
 {"coords": [10.9147, 50.6856], "date": "2025-11-08"}, // derzeit unbekannter Mann in einen Einkaufsmarkt der Unterpörlitzer Straße in Ilmenau. Aus den Regalen steckte dieser Spirituosen im Wert von ca, Diebstahl
 //{"coords": [], "date": "2025-11-09"} // Wohnungseinbruchsdiebstahl Wörth, Einbruch
+{"coords": [6.0961, 51.0631], "date": "2025-11-09"}, // Kreis Heinsberg, Diebstahl
+//{"coords": [], "date": "2025-11-09"} // Eichen, Einbruch
+{"coords": [10.9167, 50.4167], "date": "2025-11-09"}, // Supermarkt Eisfeld, Diebstahl
