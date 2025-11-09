@@ -159,3 +159,5 @@
 {"coords": [6.0961, 51.0631], "date": "2025-11-09"}, // Kreis Heinsberg, Diebstahl
 //{"coords": [], "date": "2025-11-09"} // Eichen, Einbruch
 {"coords": [10.9167, 50.4167], "date": "2025-11-09"}, // Supermarkt Eisfeld, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2025-11-09"}, // Zeugenaufruf Delmenhorst, Diebstahl
+//{"coords": [], "date": "2025-11-09"} // Otterstadt, Einbruch
