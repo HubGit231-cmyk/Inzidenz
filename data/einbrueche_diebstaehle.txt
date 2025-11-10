@@ -268,3 +268,4 @@
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
