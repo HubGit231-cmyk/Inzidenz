@@ -193,3 +193,12 @@
 {"coords": [9.95, 52.15], "date": "2025-11-09"}, // Duinger Friedhof Hildesheim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2025-11-10"}, // Hildesheim, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Kreis Offenbach, Einbruch
+{"coords": [10.7956, 51.5019], "date": "2025-11-10"}, // Fleischereigeschäft Nordhausen, Einbruch
+{"coords": [10.135, 51.3783], "date": "2025-11-10"}, // Einfamilienhaus Heilbad Heiligenstadt, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-10"}, // Körperverletzung Aalen, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-11-10"}, // Erfurt, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Pkw Haren, Diebstahl
+{"coords": [8.6806, 49.9894], "date": "2025-11-10"}, // Langen, Einbruch
+{"coords": [8.975, 50.0431], "date": "2025-11-10"}, // Seligenstadt, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Rucksack Wittlich, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Vandalismus Salmtal, Diebstahl
