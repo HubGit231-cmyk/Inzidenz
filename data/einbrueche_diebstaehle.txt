@@ -248,3 +248,9 @@
 //{"coords": [], "date": "2025-11-10"} // Tönis, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Kreis, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Kreis Offenbach, Diebstahl    ///////////////////////////////////
+{"coords": [10.5369, 52.1622], "date": "2025-11-10"}, // Wolfenbüttel, Einbruch
+{"coords": [10.6866, 53.8655], "date": "2025-11-10"}, // Pkw Lübeck, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2025-11-10"}, // Hauswand Wiesbaden, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Ellerbek, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Münzen Vogelsbergkreis, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-11-10"}, // Rohbau Coesfeld, Diebstahl
