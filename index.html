@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Inzidenzkarte Deutschland</title>
+    <title>Einbrüche & Diebstähle Deutschland</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
         body {
@@ -17,6 +17,11 @@
             font-size: 2rem;
             margin: 20px 0 5px 0;
             color: #111827;
+        }
+        #countDisplay {
+            font-size: 1.1rem;
+            color: #374151;
+            margin-bottom: 10px;
         }
         #controls {
             display: flex;
@@ -64,7 +69,8 @@
     </style>
 </head>
 <body>
-    <h1>Blaulicht-Meldungen Deutschland</h1>
+    <h1>Einbrüche & Diebstähle Deutschland</h1>
+    <div id="countDisplay">Vorfälle im gewählten Zeitraum: 0</div>
     <div id="controls">
         <label>Von: <input type="date" id="fromDate"></label>
         <label>Bis: <input type="date" id="toDate"></label>
@@ -72,7 +78,6 @@
         <button id="weekBtn">Diese Woche</button>
         <button id="monthBtn">Dieser Monat</button>
         <button id="yearBtn">Dieses Jahr</button>
-        <button id="manualReloadBtn">Jetzt aktualisieren</button>
     </div>
     <svg id="map" width="700" height="800"></svg>
 
@@ -154,11 +159,6 @@
                 
             } catch (error) {
                 console.error('Fehler beim Laden der Daten:', error);
-                // Zeige Fehler nur kurz an
-                setTimeout(() => {
-                    // Fehleranzeige nach 5 Sekunden entfernen
-                    document.body.innerHTML = document.body.innerHTML.replace(/<div class="error">.*?<\/div>/, '');
-                }, 5000);
             }
         }
 
@@ -197,6 +197,9 @@
             if (!from || !to) return;
 
             const filtered = incidents.filter(d => d.date >= from && d.date <= to);
+            
+            // Aktualisiere die Anzeige der Vorfälle
+            document.getElementById("countDisplay").textContent = `Vorfälle im gewählten Zeitraum: ${filtered.length}`;
 
             const nested = d3.groups(filtered, d => `${d.city}-${d.date}`);
 
@@ -225,7 +228,7 @@
         fromInput.addEventListener("change", updateIncidents);
         toInput.addEventListener("change", updateIncidents);
 
-        // Buttons mit korrigierter Woche-Logik
+        // Buttons mit KORRIGIERTER Woche-Logik
         document.getElementById("todayBtn").onclick = () => {
             fromInput.value = todayStr;
             toInput.value = todayStr;
@@ -236,10 +239,18 @@
             const today = new Date();
             const startOfWeek = new Date(today);
             
-            // Berechne Montag dieser Woche (0 = Sonntag, 1 = Montag, ...)
-            const day = today.getDay();
-            const diffToMonday = day === 0 ? -6 : 1 - day;
-            startOfWeek.setDate(today.getDate() + diffToMonday);
+            // KORRIGIERT: Berechne Montag dieser Woche
+            // getDay() gibt 0 für Sonntag, 1 für Montag, ..., 6 für Samstag
+            const dayOfWeek = today.getDay();
+            
+            if (dayOfWeek === 0) { // Sonntag
+                // Wenn Sonntag, dann ist diese Woche nur der aktuelle Sonntag
+                startOfWeek.setDate(today.getDate());
+            } else {
+                // Für Montag-Samstag: Gehe zurück zum Montag
+                startOfWeek.setDate(today.getDate() - (dayOfWeek - 1));
+            }
+            
             startOfWeek.setHours(0, 0, 0, 0);
             
             fromInput.value = startOfWeek.toISOString().split("T")[0];
@@ -263,12 +274,6 @@
             fromInput.value = `${year}-01-01`;
             toInput.value = todayStr;
             updateIncidents();
-        };
-
-        // Manueller Reload Button
-        document.getElementById("manualReloadBtn").onclick = () => {
-            console.log("🔃 Manuelles Neuladen...");
-            loadIncidents();
         };
 
         // Karte laden
