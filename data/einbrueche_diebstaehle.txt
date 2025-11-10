@@ -258,3 +258,5 @@
 {"coords": [7.5658, 51.4458], "date": "2025-11-10"}, // Untersuchungshaft Schwerte, Diebstahl
 {"coords": [8.0667, 50.3833], "date": "2025-11-10"}, // Limburg, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Heidekreis, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Giessen, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Heidekreis, Einbruch
