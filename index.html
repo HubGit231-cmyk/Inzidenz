@@ -7,38 +7,41 @@
     <style>
         body {
             margin: 0;
+            padding: 10px;
             font-family: sans-serif;
             background: #f9fafb;
             display: flex;
             flex-direction: column;
             align-items: center;
+            height: 100vh;
+            overflow: hidden;
         }
         h1 {
-            font-size: 2rem;
-            margin: 20px 0 5px 0;
+            font-size: 1.8rem;
+            margin: 10px 0 5px 0;
             color: #111827;
         }
         #countDisplay {
-            font-size: 1.1rem;
+            font-size: 1rem;
             color: #374151;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
         }
         #controls {
             display: flex;
-            gap: 10px;
+            gap: 8px;
             align-items: center;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
             flex-wrap: wrap;
             justify-content: center;
         }
         #controls input, #controls button {
-            padding: 6px 10px;
-            font-size: 0.9rem;
+            padding: 5px 8px;
+            font-size: 0.85rem;
         }
         #map {
             background: white;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.1);
             cursor: grab;
         }
         .state {
@@ -54,17 +57,13 @@
             fill: rgba(220, 38, 38, 0.8);
             stroke: white;
             stroke-width: 1;
-            r: 6;
+            r: 5;
         }
         text {
-            font-size: 10px;
+            font-size: 9px;
             text-anchor: middle;
             fill: #1f2937;
             pointer-events: none;
-        }
-        .error {
-            color: #ef4444;
-            font-weight: bold;
         }
     </style>
 </head>
@@ -79,7 +78,7 @@
         <button id="monthBtn">Dieser Monat</button>
         <button id="yearBtn">Dieses Jahr</button>
     </div>
-    <svg id="map" width="700" height="800"></svg>
+    <svg id="map" width="650" height="550"></svg>
 
     <script>
         const svg = d3.select("#map");
@@ -88,13 +87,13 @@
 
         const projection = d3.geoMercator()
             .center([10.5, 51.3])
-            .scale(3500)
+            .scale(3300)
             .translate([width / 2, height / 2]);
 
         const path = d3.geoPath().projection(projection);
 
         const zoom = d3.zoom()
-            .scaleExtent([1, 12])
+            .scaleExtent([1, 10])
             .on("zoom", (event) => {
                 g.attr("transform", event.transform);
                 const scale = event.transform.k;
@@ -113,7 +112,6 @@
         // Funktion zum Laden der Textdatei
         async function loadIncidents() {
             try {
-                // Cache-Buster: Fügt Timestamp hinzu, damit Browser nicht cached
                 const timestamp = new Date().getTime();
                 console.log("🔄 Lade Daten...");
                 
@@ -131,20 +129,16 @@
                 const cleanedLines = [];
                 
                 for (let line of lines) {
-                    // Entferne inline Kommentare (alles nach // oder #)
                     let cleaned = line.split('//')[0].split('#')[0].trim();
                     
-                    // Behalte nur Zeilen, die JSON-Objekte enthalten
                     if (cleaned && cleaned.includes('{') && cleaned.includes('}')) {
                         cleanedLines.push(cleaned);
                     }
                 }
                 
-                // Füge Array-Klammern hinzu und parse
                 const jsonText = `[${cleanedLines.join('\n').replace(/,\s*$/, '')}]`;
                 const data = JSON.parse(jsonText);
                 
-                // Konvertiere in das richtige Format
                 incidents = data
                     .filter(d => d.coords && d.coords.length === 2)
                     .map((d, i) => ({
@@ -154,7 +148,6 @@
                         city: `Vorfall ${i + 1}`
                     }));
                 
-                // Sofortige Aktualisierung der Anzeige
                 updateIncidents();
                 
             } catch (error) {
@@ -162,8 +155,16 @@
             }
         }
 
+        // Hilfsfunktion für Datumsformatierung
+        function formatDate(date) {
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
         const today = new Date();
-        const todayStr = today.toISOString().split("T")[0];
+        const todayStr = formatDate(today);
         const fromInput = document.getElementById("fromDate");
         const toInput = document.getElementById("toDate");
 
@@ -179,7 +180,7 @@
             }
             const base = projection(d.coords);
             const count = group.length;
-            const radius = 18;
+            const radius = 15;
             const indexInGroup = group.indexOf(d);
             const angle = (indexInGroup / count) * 2 * Math.PI;
             const dist = (0.4 + (d.id % 10) * 0.06) * radius;
@@ -198,7 +199,6 @@
 
             const filtered = incidents.filter(d => d.date >= from && d.date <= to);
             
-            // Aktualisiere die Anzeige der Vorfälle
             document.getElementById("countDisplay").textContent = `Vorfälle im gewählten Zeitraum: ${filtered.length}`;
 
             const nested = d3.groups(filtered, d => `${d.city}-${d.date}`);
@@ -209,7 +209,7 @@
             points.enter()
                 .append("circle")
                 .attr("class", "incident")
-                .attr("r", 6)
+                .attr("r", 5)
                 .attr("opacity", 0.9)
                 .merge(points)
                 .attr("cx", function(d) {
@@ -239,21 +239,17 @@
             const today = new Date();
             const startOfWeek = new Date(today);
             
-            // KORRIGIERT: Berechne Montag dieser Woche
-            // getDay() gibt 0 für Sonntag, 1 für Montag, ..., 6 für Samstag
+            // KORRIGIERT: Berechnung des Wochenstarts (Montag)
+            // getDay() gibt 0=Sonntag, 1=Montag, ..., 6=Samstag zurück
             const dayOfWeek = today.getDay();
             
-            if (dayOfWeek === 0) { // Sonntag
-                // Wenn Sonntag, dann ist diese Woche nur der aktuelle Sonntag
-                startOfWeek.setDate(today.getDate());
-            } else {
-                // Für Montag-Samstag: Gehe zurück zum Montag
-                startOfWeek.setDate(today.getDate() - (dayOfWeek - 1));
-            }
+            // Berechne den Montag dieser Woche
+            // Wenn heute Sonntag (0) ist, dann ist Montag 6 Tage zurück
+            // Ansonsten: Montag = heute - (TagDerWoche - 1)
+            const diffToMonday = dayOfWeek === 0 ? -6 : 1 - dayOfWeek;
+            startOfWeek.setDate(today.getDate() + diffToMonday);
             
-            startOfWeek.setHours(0, 0, 0, 0);
-            
-            fromInput.value = startOfWeek.toISOString().split("T")[0];
+            fromInput.value = formatDate(startOfWeek);
             toInput.value = todayStr;
             updateIncidents();
         };
@@ -264,8 +260,8 @@
             const month = now.getMonth();
             const start = new Date(year, month, 1);
             const end = new Date(year, month + 1, 0);
-            fromInput.value = start.toISOString().split("T")[0];
-            toInput.value = end.toISOString().split("T")[0];
+            fromInput.value = formatDate(start);
+            toInput.value = formatDate(end);
             updateIncidents();
         };
 
@@ -302,7 +298,7 @@
         // ========================================
         // AUTOMATISCHER RELOAD ALLE 2 MINUTEN
         // ========================================
-        setInterval(loadIncidents, 2 * 60 * 1000); // 2 Minuten = 120.000 ms
+        setInterval(loadIncidents, 2 * 60 * 1000);
     </script>
 </body>
 </html>
