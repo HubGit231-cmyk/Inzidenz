@@ -237,3 +237,10 @@
 //{"coords": [], "date": "2025-11-10"} // Lippe, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2025-11-10"}, // Hinweise Oldenburg, Einbruch
 //{"coords": [], "date": "2025-11-10"} // Vereinsheim Alpen, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Tönis, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-11-10"}, // Hinweise Recklinghausen, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-11-10"}, // Zeugen Homberg, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Kreis, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Kreis Offenbach, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2025-11-10"}, // Zeugen Bochum, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Einbruchdiebstahl in Vogelsang-Warsin gemeldet. Bislang unbekannte Tatverdächtige waren augenscheinlich in ein Nebengebäude auf einem privaten Grundstück eingebrochen und hatten dort offenbar unter anderem DJ-Equipment, Gartengeräte und Räder entwendet. Nach bisherigen polizeilichen Erkenntnissen beträgt die, Einbruch
