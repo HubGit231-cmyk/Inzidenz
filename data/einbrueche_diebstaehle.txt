@@ -273,3 +273,16 @@
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
 //{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
 {"coords": [8.0667, 50.3833], "date": "2025-11-10"}, // Limburg, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Innenstadt, Unfall
+{"coords": [8.24, 50.0822], "date": "2025-11-10"}, // Vollsperrung Wiesbaden, Unfall
+//{"coords": [], "date": "2025-11-10"} // Krankenhaus Rheinbach, Unfall
+{"coords": [8.4043, 49.014], "date": "2025-11-10"}, // Karlsruhe, Unfall
+{"coords": [9.2167, 48.4833], "date": "2025-11-10"}, // Reutlingen, Unfall
+{"coords": [9.2108, 49.1425], "date": "2025-11-10"}, // Baum Landkreis Heilbronn, Unfall
+//{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Anschluss durch, Unfall
+{"coords": [7.82, 47.99], "date": "2025-11-10"}, // Supermarktparkplatz Freiburg, Unfall
+//{"coords": [], "date": "2025-11-10"} // Ost, Unfall
+{"coords": [10.0936, 48.8372], "date": "2025-11-10"}, // Kreisverkehr Aalen, Unfall
+{"coords": [7.82, 47.99], "date": "2025-11-10"}, // Freiburg, Unfall
+{"coords": [9.1919, 48.8975], "date": "2025-11-10"}, // Personen Ludwigsburg, Unfall
