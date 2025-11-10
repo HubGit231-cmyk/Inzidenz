@@ -192,3 +192,4 @@
 {"coords": [9.8667, 51.8167], "date": "2025-11-09"}, // Wohnungseinbruchdiebstahl Einbeck, Einbruch
 {"coords": [9.95, 52.15], "date": "2025-11-09"}, // Duinger Friedhof Hildesheim, Diebstahl
 {"coords": [9.95, 52.15], "date": "2025-11-10"}, // Hildesheim, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Kreis Offenbach, Einbruch
