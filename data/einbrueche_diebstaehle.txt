@@ -204,3 +204,11 @@
 //{"coords": [], "date": "2025-11-10"} // Vandalismus Salmtal, Diebstahl
 //{"coords": [], "date": "2025-11-10"} // Allerheiligenkirmes Soest, Diebstahl
 {"coords": [10.5667, 51.1167], "date": "2025-11-10"}, // Schönstedt, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Boke, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-11-10"}, // Einfamilienhaus Warendorf, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Remchingen, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Holtheim, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-11-10"}, // Northeim, Einbruch
+{"coords": [8.24, 50.0822], "date": "2025-11-10"}, // Einbrecher Wiesbaden, Einbruch
+//{"coords": [], "date": "2025-11-10"} // Bierdiebstahl Menden, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2025-11-10"}, // Vandalismus Lüdenscheid, Einbruch
