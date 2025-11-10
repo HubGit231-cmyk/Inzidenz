@@ -122,6 +122,38 @@
         let incidents = [];
         let statesData = [];
         const jitterCache = new Map();
+        
+        // Bundesland-Mapping: Koordinaten-Bereiche zu Bundesländern
+        const stateBoundaries = {
+            // Vereinfachte Koordinatenbereiche für Bundesländer
+            "Schleswig-Holstein": { minLat: 53.3, maxLat: 55.1, minLon: 8.0, maxLon: 11.2 },
+            "Hamburg": { minLat: 53.4, maxLat: 53.7, minLon: 9.7, maxLon: 10.3 },
+            "Niedersachsen": { minLat: 51.5, maxLat: 53.9, minLon: 6.7, maxLon: 11.6 },
+            "Bremen": { minLat: 53.0, maxLat: 53.2, minLon: 8.5, maxLon: 8.9 },
+            "Nordrhein-Westfalen": { minLat: 50.3, maxLat: 52.5, minLon: 5.9, maxLon: 9.3 },
+            "Hessen": { minLat: 49.4, maxLat: 51.6, minLon: 7.9, maxLon: 10.2 },
+            "Rheinland-Pfalz": { minLat: 48.9, maxLat: 50.9, minLon: 6.1, maxLon: 8.5 },
+            "Baden-Württemberg": { minLat: 47.5, maxLat: 49.8, minLon: 7.5, maxLon: 10.5 },
+            "Bayern": { minLat: 47.2, maxLat: 50.6, minLon: 9.0, maxLon: 13.8 },
+            "Saarland": { minLat: 49.1, maxLat: 49.6, minLon: 6.4, maxLon: 7.4 },
+            "Berlin": { minLat: 52.3, maxLat: 52.7, minLon: 13.1, maxLon: 13.8 },
+            "Brandenburg": { minLat: 51.3, maxLat: 53.5, minLon: 11.2, maxLon: 14.8 },
+            "Mecklenburg-Vorpommern": { minLat: 53.0, maxLat: 54.7, minLon: 10.5, maxLon: 14.4 },
+            "Sachsen": { minLat: 50.1, maxLat: 51.7, minLon: 11.8, maxLon: 15.0 },
+            "Sachsen-Anhalt": { minLat: 51.2, maxLat: 53.0, minLon: 10.5, maxLon: 13.0 },
+            "Thüringen": { minLat: 50.2, maxLat: 51.6, minLon: 9.9, maxLon: 12.6 }
+        };
+
+        // Funktion zum Bestimmen des Bundeslandes anhand von Koordinaten
+        function getStateByCoordinates(lat, lon) {
+            for (const [state, bounds] of Object.entries(stateBoundaries)) {
+                if (lat >= bounds.minLat && lat <= bounds.maxLat && 
+                    lon >= bounds.minLon && lon <= bounds.maxLon) {
+                    return state;
+                }
+            }
+            return "Unbekannt";
+        }
 
         // Funktion zum Laden der Textdatei
         async function loadIncidents() {
@@ -153,15 +185,22 @@
                 const jsonText = `[${cleanedLines.join('\n').replace(/,\s*$/, '')}]`;
                 const data = JSON.parse(jsonText);
                 
+                // BEI JEDEM VORFALL DAS BUNDESLAND BESTIMMEN
                 incidents = data
                     .filter(d => d.coords && d.coords.length === 2)
-                    .map((d, i) => ({
-                        id: i,
-                        coords: d.coords,
-                        date: d.date,
-                        city: `Vorfall ${i + 1}`
-                    }));
+                    .map((d, i) => {
+                        const [lon, lat] = d.coords; // Koordinaten sind [Längengrad, Breitengrad]
+                        const state = getStateByCoordinates(lat, lon);
+                        return {
+                            id: i,
+                            coords: d.coords,
+                            date: d.date,
+                            city: `Vorfall ${i + 1}`,
+                            state: state // Bundesland hinzufügen
+                        };
+                    });
                 
+                console.log("✅ Bundesländer zugeordnet");
                 updateIncidents();
                 
             } catch (error) {
@@ -238,36 +277,10 @@
             points.exit().remove();
         }
 
-        // VERBESSERTE Funktion zum Zählen der Vorfälle in einem Bundesland
-        function countIncidentsInState(stateFeature, incidents) {
-            let count = 0;
-            
-            incidents.forEach(incident => {
-                const point = projection(incident.coords);
-                if (point) {
-                    // Prüfe ob der Punkt innerhalb des Bundesland-Pfades liegt
-                    if (isPointInState(point, stateFeature)) {
-                        count++;
-                    }
-                }
-            });
-            
-            return count;
-        }
-
-        // Hilfsfunktion zur Überprüfung, ob ein Punkt in einem Bundesland liegt
-        function isPointInState(point, stateFeature) {
-            // Erstelle einen unsichtbaren Pfad für das Bundesland
-            const statePath = path(stateFeature);
-            if (!statePath) return false;
-            
-            // Erstelle ein SVG-Polygon aus dem Pfad
-            const svgNS = "http://www.w3.org/2000/svg";
-            const pathElement = document.createElementNS(svgNS, "path");
-            pathElement.setAttribute("d", statePath);
-            
-            // Prüfe ob der Punkt im Pfad liegt
-            return pathElement.isPointInFill(new DOMPoint(point[0], point[1]));
+        // EINFACHE Funktion zum Zählen der Vorfälle in einem Bundesland
+        function countIncidentsInState(stateName, incidents) {
+            // Zähle einfach alle Vorfälle, die diesem Bundesland zugeordnet sind
+            return incidents.filter(incident => incident.state === stateName).length;
         }
 
         // Automatische Aktualisierung bei Zeitraum-Änderung
@@ -334,8 +347,8 @@
                     const to = toInput.value;
                     const filtered = incidents.filter(incident => incident.date >= from && incident.date <= to);
                     
-                    const count = countIncidentsInState(d, filtered);
-                    const stateName = d.properties.NAME_1 || d.properties.name || "Unbekannt";
+                    const stateName = d.properties.NAME_1;
+                    const count = countIncidentsInState(stateName, filtered);
                     
                     // Zeige Bundesland-Info an
                     document.getElementById("stateInfo").textContent = 
