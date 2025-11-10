@@ -2,111 +2,422 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Einbrüche & Diebstähle Deutschland</title>
+    <title>Einbrüche & Diebstähle Dashboard</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        body {
+        * {
             margin: 0;
-            padding: 10px;
-            font-family: sans-serif;
-            background: #f9fafb;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #374151;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 24px;
+            height: calc(100vh - 40px);
+        }
+
+        /* Header Card */
+        .header-card {
+            grid-column: 1 / -1;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0;
+        }
+
+        .header-content h1 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #1f2937;
+            margin-bottom: 8px;
+        }
+
+        .header-content .subtitle {
+            font-size: 16px;
+            color: #6b7280;
+            font-weight: 400;
+        }
+
+        .stats {
+            display: flex;
+            gap: 32px;
+            text-align: center;
+        }
+
+        .stat-item {
+            padding: 0 20px;
+        }
+
+        .stat-number {
+            font-size: 32px;
+            font-weight: 700;
+            color: #dc2626;
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: #6b7280;
+            font-weight: 500;
+        }
+
+        /* Sidebar Card */
+        .sidebar-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
             display: flex;
             flex-direction: column;
-            align-items: center;
-            height: 100vh;
-            overflow: hidden;
+            gap: 20px;
         }
-        h1 {
-            font-size: 1.8rem;
-            margin: 10px 0 5px 0;
-            color: #111827;
-        }
-        #countDisplay {
-            font-size: 1rem;
-            color: #374151;
+
+        .card-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1f2937;
             margin-bottom: 8px;
         }
-        #stateInfo {
-            font-size: 1rem;
-            color: #dc2626;
-            margin-bottom: 8px;
-            font-weight: bold;
-            min-height: 1.2em;
-        }
-        #controls {
+
+        .date-inputs {
             display: flex;
-            gap: 8px;
-            align-items: center;
-            margin-bottom: 8px;
-            flex-wrap: wrap;
-            justify-content: center;
+            flex-direction: column;
+            gap: 12px;
         }
-        #controls input, #controls button {
-            padding: 5px 8px;
-            font-size: 0.85rem;
+
+        .date-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
         }
-        #map {
-            background: white;
+
+        .date-group label {
+            font-size: 14px;
+            font-weight: 500;
+            color: #4b5563;
+        }
+
+        .date-input {
+            padding: 12px;
+            border: 2px solid #e5e7eb;
             border-radius: 8px;
-            box-shadow: 0 0 8px rgba(0,0,0,0.1);
-            cursor: grab;
+            font-size: 14px;
+            transition: all 0.2s ease;
+            background: white;
         }
+
+        .date-input:focus {
+            outline: none;
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+        }
+
+        .filter-buttons {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+        }
+
+        .filter-btn {
+            padding: 12px 16px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            background: #f8fafc;
+            color: #4b5563;
+            border: 2px solid #e5e7eb;
+        }
+
+        .filter-btn:hover {
+            background: #3b82f6;
+            color: white;
+            border-color: #3b82f6;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+        }
+
+        .filter-btn.active {
+            background: #3b82f6;
+            color: white;
+            border-color: #3b82f6;
+        }
+
+        .state-info-card {
+            background: linear-gradient(135deg, #dc2626, #ef4444);
+            color: white;
+            padding: 16px;
+            border-radius: 12px;
+            text-align: center;
+        }
+
+        .state-info-card h3 {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .state-count {
+            font-size: 32px;
+            font-weight: 700;
+        }
+
+        /* Map Card */
+        .map-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .map-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .map-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: #1f2937;
+        }
+
+        .map-container {
+            flex: 1;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+            overflow: hidden;
+            position: relative;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+            background: #f8fafc;
+        }
+
+        /* Map Elements */
         .state {
             fill: white;
-            stroke: red;
+            stroke: #d1d5db;
             stroke-width: 1;
-            transition: fill 0.2s;
+            transition: all 0.3s ease;
         }
+
         .state:hover {
-            fill: #fee2e2;
+            fill: #fef2f2;
+            stroke: #dc2626;
+            stroke-width: 2;
         }
+
         .incident {
             fill: rgba(220, 38, 38, 0.8);
             stroke: white;
-            stroke-width: 1;
-            r: 5;
+            stroke-width: 1.5;
+            r: 6;
+            transition: all 0.3s ease;
         }
-        text {
-            font-size: 9px;
-            text-anchor: middle;
-            fill: #1f2937;
-            pointer-events: none;
+
+        .incident:hover {
+            r: 8;
+            fill: rgba(220, 38, 38, 1);
+            stroke-width: 2;
         }
+
         .state-highlight {
             fill: #fecaca !important;
             stroke: #dc2626 !important;
-            stroke-width: 2px !important;
+            stroke-width: 3px !important;
+        }
+
+        text {
+            font-size: 10px;
+            text-anchor: middle;
+            fill: #1f2937;
+            pointer-events: none;
+            font-weight: 500;
+        }
+
+        /* Loading Animation */
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f4f6;
+            border-radius: 50%;
+            border-top-color: #3b82f6;
+            animation: spin 1s ease-in-out infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .container {
+                grid-template-columns: 1fr;
+                height: auto;
+            }
+            
+            .sidebar-card {
+                order: 2;
+            }
+            
+            .map-card {
+                order: 1;
+                min-height: 500px;
+            }
+            
+            .header-card {
+                flex-direction: column;
+                gap: 20px;
+                text-align: center;
+            }
+            
+            .stats {
+                justify-content: center;
+            }
         }
     </style>
 </head>
 <body>
-    <h1>Einbrüche & Diebstähle Deutschland</h1>
-    <div id="countDisplay">Vorfälle im gewählten Zeitraum: 0</div>
-    <div id="stateInfo"></div>
-    <div id="controls">
-        <label>Von: <input type="date" id="fromDate"></label>
-        <label>Bis: <input type="date" id="toDate"></label>
-        <button id="todayBtn">Heute</button>
-        <button id="weekBtn">Diese Woche</button>
-        <button id="monthBtn">Dieser Monat</button>
-        <button id="yearBtn">Dieses Jahr</button>
+    <div class="container">
+        <!-- Header Card -->
+        <div class="header-card">
+            <div class="header-content">
+                <h1>Einbrüche & Diebstähle Dashboard</h1>
+                <div class="subtitle">Echtzeit-Überwachung von Vorfällen in Deutschland</div>
+            </div>
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="stat-number" id="totalCount">0</span>
+                    <div class="stat-label">Gesamt Vorfälle</div>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="todayCount">0</span>
+                    <div class="stat-label">Heute</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sidebar Card -->
+        <div class="sidebar-card">
+            <div>
+                <h3 class="card-title">Zeitfilter</h3>
+                <div class="date-inputs">
+                    <div class="date-group">
+                        <label for="fromDate">Von</label>
+                        <input type="date" id="fromDate" class="date-input">
+                    </div>
+                    <div class="date-group">
+                        <label for="toDate">Bis</label>
+                        <input type="date" id="toDate" class="date-input">
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <h3 class="card-title">Schnellfilter</h3>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" id="todayBtn">Heute</button>
+                    <button class="filter-btn" id="weekBtn">Diese Woche</button>
+                    <button class="filter-btn" id="monthBtn">Dieser Monat</button>
+                    <button class="filter-btn" id="yearBtn">Dieses Jahr</button>
+                </div>
+            </div>
+
+            <div class="state-info-card">
+                <h3>Ausgewähltes Bundesland</h3>
+                <div class="state-count" id="stateInfo">-</div>
+            </div>
+
+            <div>
+                <h3 class="card-title">Info</h3>
+                <div style="font-size: 14px; color: #6b7280; line-height: 1.5;">
+                    <p>• Fahren Sie über die Karte, um Bundesländer zu sehen</p>
+                    <p>• Klicken Sie auf Filter für schnelle Zeiträume</p>
+                    <p>• Daten aktualisieren automatisch alle 2 Minuten</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Map Card -->
+        <div class="map-card">
+            <div class="map-header">
+                <div class="map-title">Deutschland Karte</div>
+                <div style="display: flex; align-items: center; gap: 8px; font-size: 14px; color: #6b7280;">
+                    <div class="loading"></div>
+                    <span id="lastUpdate">Lädt Daten...</span>
+                </div>
+            </div>
+            <div class="map-container">
+                <svg id="map"></svg>
+            </div>
+        </div>
     </div>
-    <svg id="map" width="650" height="550"></svg>
 
     <script>
         const svg = d3.select("#map");
-        const width = +svg.attr("width");
-        const height = +svg.attr("height");
+        const width = 800;
+        const height = 600;
+
+        // Set SVG dimensions dynamically
+        function updateMapSize() {
+            const container = document.querySelector('.map-container');
+            const containerWidth = container.clientWidth;
+            const containerHeight = container.clientHeight;
+            
+            svg.attr("width", containerWidth)
+               .attr("height", containerHeight);
+            
+            projection.translate([containerWidth / 2, containerHeight / 2]);
+            
+            // Redraw map if already loaded
+            if (statesData.length > 0) {
+                g.selectAll("path").attr("d", path);
+                updateIncidents();
+            }
+        }
 
         const projection = d3.geoMercator()
             .center([10.5, 51.3])
-            .scale(3300)
+            .scale(2800)
             .translate([width / 2, height / 2]);
 
         const path = d3.geoPath().projection(projection);
 
         const zoom = d3.zoom()
-            .scaleExtent([0, 12])
+            .scaleExtent([0.5, 12])
             .on("zoom", (event) => {
                 g.attr("transform", event.transform);
                 const scale = event.transform.k;
@@ -123,9 +434,9 @@
         // Funktion zum Laden der Textdatei
         async function loadIncidents() {
             try {
-                const timestamp = new Date().getTime();
-                console.log("🔄 Lade Daten...");
+                document.getElementById('lastUpdate').innerHTML = '<div class="loading"></div> Aktualisiere...';
                 
+                const timestamp = new Date().getTime();
                 const response = await fetch(`./data/einbrueche_diebstaehle.txt?t=${timestamp}`);
                 
                 if (!response.ok) {
@@ -133,7 +444,6 @@
                 }
                 
                 const text = await response.text();
-                console.log("✅ Daten geladen, Länge:", text.length);
                 
                 const lines = text.split('\n');
                 const cleanedLines = [];
@@ -158,11 +468,25 @@
                         city: `Vorfall ${i + 1}`
                     }));
                 
+                // Update statistics
+                updateStatistics();
                 updateIncidents();
+                
+                const now = new Date().toLocaleTimeString('de-DE');
+                document.getElementById('lastUpdate').textContent = `Aktualisiert: ${now}`;
                 
             } catch (error) {
                 console.error('Fehler beim Laden der Daten:', error);
+                document.getElementById('lastUpdate').textContent = 'Fehler beim Laden';
             }
+        }
+
+        function updateStatistics() {
+            const todayStr = formatDate(new Date());
+            const todayCount = incidents.filter(d => d.date === todayStr).length;
+            
+            document.getElementById('totalCount').textContent = incidents.length;
+            document.getElementById('todayCount').textContent = todayCount;
         }
 
         function formatDate(date) {
@@ -187,7 +511,7 @@
             }
             const base = projection(d.coords);
             const count = group.length;
-            const radius = 15;
+            const radius = 18;
             const indexInGroup = group.indexOf(d);
             const angle = (indexInGroup / count) * 2 * Math.PI;
             const dist = (0.4 + (d.id % 10) * 0.06) * radius;
@@ -206,7 +530,7 @@
 
             const filtered = incidents.filter(d => d.date >= from && d.date <= to);
             
-            document.getElementById("countDisplay").textContent = `Vorfälle im gewählten Zeitraum: ${filtered.length}`;
+            document.getElementById("totalCount").textContent = filtered.length;
 
             const nested = d3.groups(filtered, d => `${d.city}-${d.date}`);
 
@@ -216,8 +540,8 @@
             points.enter()
                 .append("circle")
                 .attr("class", "incident")
-                .attr("r", 5)
-                .attr("opacity", 0.9)
+                .attr("r", 6)
+                .attr("opacity", 0.85)
                 .merge(points)
                 .attr("cx", function(d) {
                     const group = nested.find(gr => gr[0] === `${d.city}-${d.date}`)[1];
@@ -231,7 +555,7 @@
             points.exit().remove();
         }
 
-        // VERBESSERTER Algorithmus: Verwendet die originalen GeoJSON-Koordinaten
+        // Bundesland-Zählungslogik
         function isPointInPolygon(point, polygon) {
             const [lng, lat] = point;
             let inside = false;
@@ -281,16 +605,27 @@
             return count;
         }
 
+        // Event Listeners
         fromInput.addEventListener("change", updateIncidents);
         toInput.addEventListener("change", updateIncidents);
 
-        document.getElementById("todayBtn").onclick = () => {
+        // Button Handler mit aktiver Status-Verwaltung
+        function setActiveButton(activeBtn) {
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            activeBtn.classList.add('active');
+        }
+
+        document.getElementById("todayBtn").onclick = function() {
+            setActiveButton(this);
             fromInput.value = todayStr;
             toInput.value = todayStr;
             updateIncidents();
         };
 
-        document.getElementById("weekBtn").onclick = () => {
+        document.getElementById("weekBtn").onclick = function() {
+            setActiveButton(this);
             const today = new Date();
             const startOfWeek = new Date(today);
             const dayOfWeek = today.getDay();
@@ -302,7 +637,8 @@
             updateIncidents();
         };
 
-        document.getElementById("monthBtn").onclick = () => {
+        document.getElementById("monthBtn").onclick = function() {
+            setActiveButton(this);
             const now = new Date();
             const year = now.getFullYear();
             const month = now.getMonth();
@@ -313,7 +649,8 @@
             updateIncidents();
         };
 
-        document.getElementById("yearBtn").onclick = () => {
+        document.getElementById("yearBtn").onclick = function() {
+            setActiveButton(this);
             const year = today.getFullYear();
             fromInput.value = `${year}-01-01`;
             toInput.value = todayStr;
@@ -342,11 +679,11 @@
                     const stateName = d.properties.NAME_1 || d.properties.name || "Unbekannt";
                     
                     document.getElementById("stateInfo").textContent = 
-                        `${stateName}: ${count} Vorfall${count !== 1 ? 'e' : ''}`;
+                        `${stateName}: ${count}`;
                 })
                 .on("mouseout", function() {
                     d3.select(this).classed("state-highlight", false);
-                    document.getElementById("stateInfo").textContent = "";
+                    document.getElementById("stateInfo").textContent = "-";
                 });
 
             g.selectAll("text")
@@ -358,11 +695,16 @@
                 .text(d => d.properties.NAME_1)
                 .style("display", "none");
 
+            // Initiales Laden
             loadIncidents();
+            
+            // Responsive Map
+            window.addEventListener('resize', updateMapSize);
+            setTimeout(updateMapSize, 100);
         });
 
+        // Automatische Aktualisierung
         setInterval(loadIncidents, 2 * 60 * 1000);
     </script>
 </body>
 </html>
-
