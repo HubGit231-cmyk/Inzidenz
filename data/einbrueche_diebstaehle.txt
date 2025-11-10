@@ -286,3 +286,9 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-10"}, // Kreisverkehr Aalen, Unfall
 {"coords": [7.82, 47.99], "date": "2025-11-10"}, // Freiburg, Unfall
 {"coords": [9.1919, 48.8975], "date": "2025-11-10"}, // Personen Ludwigsburg, Unfall
+{"coords": [14.0142, 53.6347], "date": "2025-11-10"}, // Personen Torgelow, Unfall
+//{"coords": [], "date": "2025-11-10"} // Innenstadt, Unfall
+//{"coords": [], "date": "2025-11-10"} // Krankenhaus Rheinbach, Unfall
+//{"coords": [], "date": "2025-11-10"} // Wohnhaus Schweisweiler, Diebstahl
+//{"coords": [], "date": "2025-11-10"} // Anschluss durch, Unfall
+//{"coords": [], "date": "2025-11-10"} // Ost, Unfall
