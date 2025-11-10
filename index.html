@@ -38,10 +38,7 @@
             padding: 24px;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
             border: 1px solid rgba(255, 255, 255, 0.2);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 0;
+            text-align: center;
         }
 
         .header-content h1 {
@@ -55,29 +52,6 @@
             font-size: 16px;
             color: #6b7280;
             font-weight: 400;
-        }
-
-        .stats {
-            display: flex;
-            gap: 32px;
-            text-align: center;
-        }
-
-        .stat-item {
-            padding: 0 20px;
-        }
-
-        .stat-number {
-            font-size: 32px;
-            font-weight: 700;
-            color: #dc2626;
-            display: block;
-        }
-
-        .stat-label {
-            font-size: 14px;
-            color: #6b7280;
-            font-weight: 500;
         }
 
         /* Sidebar Card */
@@ -169,19 +143,24 @@
         .state-info-card {
             background: linear-gradient(135deg, #dc2626, #ef4444);
             color: white;
-            padding: 16px;
+            padding: 20px;
             border-radius: 12px;
             text-align: center;
+            min-height: 120px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
 
         .state-info-card h3 {
-            font-size: 16px;
+            font-size: 14px;
             font-weight: 600;
-            margin-bottom: 8px;
+            margin-bottom: 12px;
+            opacity: 0.9;
         }
 
         .state-count {
-            font-size: 32px;
+            font-size: 24px;
             font-weight: 700;
         }
 
@@ -210,6 +189,12 @@
             color: #1f2937;
         }
 
+        .vorfälle-count {
+            font-size: 18px;
+            font-weight: 600;
+            color: #dc2626;
+        }
+
         .map-container {
             flex: 1;
             background: white;
@@ -225,7 +210,7 @@
             background: #f8fafc;
         }
 
-        /* Map Elements */
+        /* Map Elements - KORRIGIERT */
         .state {
             fill: white;
             stroke: #d1d5db;
@@ -243,12 +228,12 @@
             fill: rgba(220, 38, 38, 0.8);
             stroke: white;
             stroke-width: 1.5;
-            r: 6;
+            r: 5;
             transition: all 0.3s ease;
         }
 
         .incident:hover {
-            r: 8;
+            r: 7;
             fill: rgba(220, 38, 38, 1);
             stroke-width: 2;
         }
@@ -260,26 +245,11 @@
         }
 
         text {
-            font-size: 10px;
+            font-size: 9px;
             text-anchor: middle;
             fill: #1f2937;
             pointer-events: none;
             font-weight: 500;
-        }
-
-        /* Loading Animation */
-        .loading {
-            display: inline-block;
-            width: 20px;
-            height: 20px;
-            border: 3px solid #f3f4f6;
-            border-radius: 50%;
-            border-top-color: #3b82f6;
-            animation: spin 1s ease-in-out infinite;
-        }
-
-        @keyframes spin {
-            to { transform: rotate(360deg); }
         }
 
         /* Responsive */
@@ -297,16 +267,6 @@
                 order: 1;
                 min-height: 500px;
             }
-            
-            .header-card {
-                flex-direction: column;
-                gap: 20px;
-                text-align: center;
-            }
-            
-            .stats {
-                justify-content: center;
-            }
         }
     </style>
 </head>
@@ -317,16 +277,6 @@
             <div class="header-content">
                 <h1>Einbrüche & Diebstähle Dashboard</h1>
                 <div class="subtitle">Echtzeit-Überwachung von Vorfällen in Deutschland</div>
-            </div>
-            <div class="stats">
-                <div class="stat-item">
-                    <span class="stat-number" id="totalCount">0</span>
-                    <div class="stat-label">Gesamt Vorfälle</div>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-number" id="todayCount">0</span>
-                    <div class="stat-label">Heute</div>
-                </div>
             </div>
         </div>
 
@@ -360,25 +310,13 @@
                 <h3>Ausgewähltes Bundesland</h3>
                 <div class="state-count" id="stateInfo">-</div>
             </div>
-
-            <div>
-                <h3 class="card-title">Info</h3>
-                <div style="font-size: 14px; color: #6b7280; line-height: 1.5;">
-                    <p>• Fahren Sie über die Karte, um Bundesländer zu sehen</p>
-                    <p>• Klicken Sie auf Filter für schnelle Zeiträume</p>
-                    <p>• Daten aktualisieren automatisch alle 2 Minuten</p>
-                </div>
-            </div>
         </div>
 
         <!-- Map Card -->
         <div class="map-card">
             <div class="map-header">
                 <div class="map-title">Deutschland Karte</div>
-                <div style="display: flex; align-items: center; gap: 8px; font-size: 14px; color: #6b7280;">
-                    <div class="loading"></div>
-                    <span id="lastUpdate">Lädt Daten...</span>
-                </div>
+                <div class="vorfälle-count" id="countDisplay">0 Vorfälle</div>
             </div>
             <div class="map-container">
                 <svg id="map"></svg>
@@ -388,31 +326,12 @@
 
     <script>
         const svg = d3.select("#map");
-        const width = 800;
-        const height = 600;
-
-        // Set SVG dimensions dynamically
-        function updateMapSize() {
-            const container = document.querySelector('.map-container');
-            const containerWidth = container.clientWidth;
-            const containerHeight = container.clientHeight;
-            
-            svg.attr("width", containerWidth)
-               .attr("height", containerHeight);
-            
-            projection.translate([containerWidth / 2, containerHeight / 2]);
-            
-            // Redraw map if already loaded
-            if (statesData.length > 0) {
-                g.selectAll("path").attr("d", path);
-                updateIncidents();
-            }
-        }
-
+        
+        // Projektion für Deutschland optimiert
         const projection = d3.geoMercator()
-            .center([10.5, 51.3])
-            .scale(2800)
-            .translate([width / 2, height / 2]);
+            .center([10.5, 51.0])  // Zentrum von Deutschland
+            .scale(2600)  // Skalierung angepasst
+            .translate([0, 0]);  // Übersetzung wird dynamisch gesetzt
 
         const path = d3.geoPath().projection(projection);
 
@@ -431,11 +350,28 @@
         let statesData = [];
         const jitterCache = new Map();
 
+        // Funktion zum Aktualisieren der Map-Größe und -Position
+        function updateMapSize() {
+            const container = document.querySelector('.map-container');
+            const containerWidth = container.clientWidth;
+            const containerHeight = container.clientHeight;
+            
+            svg.attr("width", containerWidth)
+               .attr("height", containerHeight);
+            
+            // Zentriere die Karte im Container
+            projection.translate([containerWidth / 2, containerHeight / 2]);
+            
+            // Redraw map if already loaded
+            if (statesData.length > 0) {
+                g.selectAll("path").attr("d", path);
+                updateIncidents();
+            }
+        }
+
         // Funktion zum Laden der Textdatei
         async function loadIncidents() {
             try {
-                document.getElementById('lastUpdate').innerHTML = '<div class="loading"></div> Aktualisiere...';
-                
                 const timestamp = new Date().getTime();
                 const response = await fetch(`./data/einbrueche_diebstaehle.txt?t=${timestamp}`);
                 
@@ -468,25 +404,11 @@
                         city: `Vorfall ${i + 1}`
                     }));
                 
-                // Update statistics
-                updateStatistics();
                 updateIncidents();
-                
-                const now = new Date().toLocaleTimeString('de-DE');
-                document.getElementById('lastUpdate').textContent = `Aktualisiert: ${now}`;
                 
             } catch (error) {
                 console.error('Fehler beim Laden der Daten:', error);
-                document.getElementById('lastUpdate').textContent = 'Fehler beim Laden';
             }
-        }
-
-        function updateStatistics() {
-            const todayStr = formatDate(new Date());
-            const todayCount = incidents.filter(d => d.date === todayStr).length;
-            
-            document.getElementById('totalCount').textContent = incidents.length;
-            document.getElementById('todayCount').textContent = todayCount;
         }
 
         function formatDate(date) {
@@ -504,17 +426,22 @@
         fromInput.value = todayStr;
         toInput.value = todayStr;
 
+        // KORRIGIERTE Jitter-Funktion mit richtiger Projektion
         function getJitterPosition(d, group) {
             const key = `${d.id}-${group.length}`;
             if (jitterCache.has(key)) {
                 return jitterCache.get(key);
             }
+            
+            // Verwende die originale Projektion für die Basis-Koordinaten
             const base = projection(d.coords);
+            if (!base) return [0, 0]; // Fallback falls Projektion fehlschlägt
+            
             const count = group.length;
-            const radius = 18;
+            const radius = 12;
             const indexInGroup = group.indexOf(d);
             const angle = (indexInGroup / count) * 2 * Math.PI;
-            const dist = (0.4 + (d.id % 10) * 0.06) * radius;
+            const dist = (0.3 + (d.id % 10) * 0.05) * radius;
             const pos = [
                 base[0] + dist * Math.cos(angle),
                 base[1] + dist * Math.sin(angle)
@@ -530,7 +457,8 @@
 
             const filtered = incidents.filter(d => d.date >= from && d.date <= to);
             
-            document.getElementById("totalCount").textContent = filtered.length;
+            // Aktualisiere die Vorfälle-Anzeige
+            document.getElementById("countDisplay").textContent = `${filtered.length} Vorfälle`;
 
             const nested = d3.groups(filtered, d => `${d.city}-${d.date}`);
 
@@ -540,16 +468,18 @@
             points.enter()
                 .append("circle")
                 .attr("class", "incident")
-                .attr("r", 6)
+                .attr("r", 5)
                 .attr("opacity", 0.85)
                 .merge(points)
                 .attr("cx", function(d) {
                     const group = nested.find(gr => gr[0] === `${d.city}-${d.date}`)[1];
-                    return getJitterPosition(d, group)[0];
+                    const pos = getJitterPosition(d, group);
+                    return pos[0];
                 })
                 .attr("cy", function(d) {
                     const group = nested.find(gr => gr[0] === `${d.city}-${d.date}`)[1];
-                    return getJitterPosition(d, group)[1];
+                    const pos = getJitterPosition(d, group);
+                    return pos[1];
                 });
 
             points.exit().remove();
