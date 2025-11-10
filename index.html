@@ -238,31 +238,36 @@
             points.exit().remove();
         }
 
-        // Funktion zum Zählen der Vorfälle in einem Bundesland
+        // VERBESSERTE Funktion zum Zählen der Vorfälle in einem Bundesland
         function countIncidentsInState(stateFeature, incidents) {
-            const stateBounds = path.bounds(stateFeature);
-            const stateCenter = path.centroid(stateFeature);
-            
-            // Vereinfachte Zählung: Zähle Vorfälle in der Nähe des Zentrums
-            // In einer echten Implementierung würde man Punkt-in-Polygon-Tests verwenden
             let count = 0;
             
             incidents.forEach(incident => {
                 const point = projection(incident.coords);
                 if (point) {
-                    // Prüfe ob Punkt innerhalb der ungefähren Grenzen des Bundeslandes liegt
-                    const dx = point[0] - stateCenter[0];
-                    const dy = point[1] - stateCenter[1];
-                    const distance = Math.sqrt(dx * dx + dy * dy);
-                    
-                    // Wenn der Punkt nah genug am Zentrum ist, zähle ihn
-                    if (distance < 50) { // Dieser Wert kann angepasst werden
+                    // Prüfe ob der Punkt innerhalb des Bundesland-Pfades liegt
+                    if (isPointInState(point, stateFeature)) {
                         count++;
                     }
                 }
             });
             
             return count;
+        }
+
+        // Hilfsfunktion zur Überprüfung, ob ein Punkt in einem Bundesland liegt
+        function isPointInState(point, stateFeature) {
+            // Erstelle einen unsichtbaren Pfad für das Bundesland
+            const statePath = path(stateFeature);
+            if (!statePath) return false;
+            
+            // Erstelle ein SVG-Polygon aus dem Pfad
+            const svgNS = "http://www.w3.org/2000/svg";
+            const pathElement = document.createElementNS(svgNS, "path");
+            pathElement.setAttribute("d", statePath);
+            
+            // Prüfe ob der Punkt im Pfad liegt
+            return pathElement.isPointInFill(new DOMPoint(point[0], point[1]));
         }
 
         // Automatische Aktualisierung bei Zeitraum-Änderung
@@ -330,10 +335,11 @@
                     const filtered = incidents.filter(incident => incident.date >= from && incident.date <= to);
                     
                     const count = countIncidentsInState(d, filtered);
+                    const stateName = d.properties.NAME_1 || d.properties.name || "Unbekannt";
                     
                     // Zeige Bundesland-Info an
                     document.getElementById("stateInfo").textContent = 
-                        `${d.properties.NAME_1}: ${count} Vorfälle`;
+                        `${stateName}: ${count} Vorfälle`;
                 })
                 .on("mouseout", function() {
                     // Entferne Highlight
