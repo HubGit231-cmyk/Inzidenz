@@ -427,3 +427,5 @@
 //{"coords": [], "date": "2025-11-11"} // Windenergieanlagen mehr, Einbrüche
 //{"coords": [], "date": "2025-11-11"} // Anreppen, Einbruch
 {"coords": [9.9158, 51.5413], "date": "2025-11-11"}, // Göttingen, Einbruch
+{"coords": [9.9937, 53.5511], "date": "2025-11-11"}, // Eigentumskriminalität Hamburg, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2025-11-11"}, // Wittmund, Einbruch
