@@ -473,3 +473,10 @@
 {"coords": [8.0667, 50.3833], "date": "2025-11-11"}, // Limburg, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2025-11-11"}, // Autobahn Wiesbaden, Diebstahl
 {"coords": [13.2611, 53.5569], "date": "2025-11-11"}, // Neubrandenburg, gestohlen
+{"coords": [8.4353, 49.4811], "date": "2025-11-11"}, // Ludwigshafen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-11-11"}, // Erfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-11-11"}, // Arztpraxis Erfurt, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Landkreis Sömmerda, Einbrecher
+{"coords": [11.0299, 50.9848], "date": "2025-11-11"}, // Universitätsgelände Erfurt, Dieb
+{"coords": [8.4353, 49.4811], "date": "2025-11-11"}, // Ludwigshafen, Diebstahl
+{"coords": [9.9937, 53.5511], "date": "2025-11-11"}, // Altstadt Hamburg, Raub
