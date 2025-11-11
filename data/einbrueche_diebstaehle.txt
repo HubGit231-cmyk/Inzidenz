@@ -445,3 +445,11 @@
 {"coords": [7.1675, 51.9436], "date": "2025-11-11"}, // Coesfeld, gestohlen
 {"coords": [9.0333, 50.15], "date": "2025-11-11"}, // Wohnhaus eingebrochen Rodenbach, eingebrochen
 {"coords": [9.1919, 48.8975], "date": "2025-11-11"}, // Wohnhaus Ludwigsburg, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Kreis, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-11-11"}, // Zeugenaufruf Heidelberg, entwendet
+{"coords": [9.6775, 50.5528], "date": "2025-11-11"}, // Trickdiebstahl Fulda, Diebstahl
+{"coords": [10.5464, 52.4886], "date": "2025-11-11"}, // Gifhorn, Diebstähle
+//{"coords": [], "date": "2025-11-11"} // Kein Ort gefunden, entwendet
+{"coords": [12.0991, 54.0924], "date": "2025-11-11"}, // Einbruchsserie Rostock, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2025-11-11"}, // Badstraße Landau, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Höhe, Einbrecher
