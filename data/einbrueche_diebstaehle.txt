@@ -453,3 +453,6 @@
 {"coords": [12.0991, 54.0924], "date": "2025-11-11"}, // Einbruchsserie Rostock, Einbruch
 {"coords": [8.1128, 49.1994], "date": "2025-11-11"}, // Badstraße Landau, Einbruch
 //{"coords": [], "date": "2025-11-11"} // Höhe, Einbrecher
+//{"coords": [], "date": "2025-11-11"} // Giessen, geklaut
+{"coords": [8.7708, 50.8086], "date": "2025-11-11"}, // Marburg Giessen, aufbrüche
+//{"coords": [], "date": "2025-11-11"} // Münsterland, Einbrüche
