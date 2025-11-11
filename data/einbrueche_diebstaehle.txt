@@ -407,3 +407,6 @@
 {"coords": [10.0075, 53.7064], "date": "2025-11-11"}, // Zeugen Norderstedt, Einbruch
 {"coords": [9.732, 52.3759], "date": "2025-11-11"}, // Hannover, stehlen
 {"coords": [8.4661, 49.4878], "date": "2025-11-11"}, // Zeugenaufruf Mannheim, entwendet
+//{"coords": [], "date": "2025-11-11"} // Lippe, Einbrüche
+//{"coords": [], "date": "2025-11-11"} // Lippe, gestohlen
+{"coords": [7.2431, 51.3464], "date": "2025-11-11"}, // Fällen Werkzeug Sprockhövel, Einbruch
