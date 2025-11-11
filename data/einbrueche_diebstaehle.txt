@@ -490,3 +490,4 @@
 {"coords": [9.95, 52.15], "date": "2025-11-11"}, // Diebstahl Geldbörse Hildesheim, Diebstahl
 {"coords": [8.9833, 50.1667], "date": "2025-11-11"}, // Doppelhaushälfte Erlensee, Dieb
 //{"coords": [], "date": "2025-11-11"} // Binger Landstraße, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-11"}, // Wohnhaus Freiburg, Einbruch
