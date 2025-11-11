@@ -485,3 +485,4 @@
 {"coords": [9.2167, 48.4833], "date": "2025-11-11"}, // Friedhof Reutlingen, Einbrecher
 {"coords": [11.582, 48.1351], "date": "2025-11-11"}, // München, klau
 {"coords": [7.4614, 50.4286], "date": "2025-11-11"}, // Neuwied Neuwied, Einbruch
+{"coords": [8.6167, 49.6833], "date": "2025-11-11"}, // Bensheim, gestohlen
