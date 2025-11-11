@@ -424,3 +424,6 @@
 {"coords": [9.95, 52.15], "date": "2025-11-11"}, // Hildesheim, Einbruch
 {"coords": [7.1508, 51.2562], "date": "2025-11-11"}, // Polizeiarbeit Wuppertal, Diebstahl
 {"coords": [9.9333, 52.9667], "date": "2025-11-11"}, // Heidekreis, entwendet
+//{"coords": [], "date": "2025-11-11"} // Windenergieanlagen mehr, Einbrüche
+//{"coords": [], "date": "2025-11-11"} // Anreppen, Einbruch
+{"coords": [9.9158, 51.5413], "date": "2025-11-11"}, // Göttingen, Einbruch
