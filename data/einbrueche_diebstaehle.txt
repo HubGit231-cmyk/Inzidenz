@@ -353,3 +353,8 @@
 {"coords": [8.1075, 53.5219], "date": "2025-11-11"}, // Wilhelmshaven Wilhelmshaven, Diebstahl
 {"coords": [7.9019, 53.5736], "date": "2025-11-11"}, // Jever Jever, Diebstahl
 {"coords": [9.8333, 53.95], "date": "2025-11-11"}, // Rohbau Hagen, stehlen
+//{"coords": [], "date": "2025-11-11"} // Wetten, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Zeugen Geldern, Einbrüche
+//{"coords": [], "date": "2025-11-11"} // Tipps Alsbach, hab und gut
+//{"coords": [], "date": "2025-11-11"} // Glückstadt, gestohlen
+//{"coords": [], "date": "2025-11-11"} // Kürten, entwendet
