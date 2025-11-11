@@ -488,3 +488,4 @@
 {"coords": [8.6167, 49.6833], "date": "2025-11-11"}, // Bensheim, gestohlen
 //{"coords": [], "date": "2025-11-11"} // Ortslage Puderbach Puderbach, Einbruch
 {"coords": [9.95, 52.15], "date": "2025-11-11"}, // Diebstahl Geldbörse Hildesheim, Diebstahl
+{"coords": [8.9833, 50.1667], "date": "2025-11-11"}, // Doppelhaushälfte Erlensee, Dieb
