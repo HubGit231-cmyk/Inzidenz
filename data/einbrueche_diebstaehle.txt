@@ -373,3 +373,17 @@
 {"coords": [7.9733, 51.1681], "date": "2025-11-11"}, // Finnentrop, gestohlen
 {"coords": [8.4942, 49.8342], "date": "2025-11-11"}, // Riedstadt, entwendet
 {"coords": [10.7833, 49.3333], "date": "2025-11-11"}, // Heilsbronn, Dieb
+{"coords": [6.3583, 50.9222], "date": "2025-11-11"}, // Lagerhalle Jülich, Einbruch
+{"coords": [6.4833, 50.8], "date": "2025-11-11"}, // Düren, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2025-11-11"}, // Bürogebäude Unna, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2025-11-11"}, // Emden, Diebstahl
+{"coords": [8.3708, 52.6078], "date": "2025-11-11"}, // Diepholz, Diebstähle
+{"coords": [9.984, 54.0714], "date": "2025-11-11"}, // Neumünster Neumünster, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-11-11"}, // Bochum, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Landau, geklaut
+{"coords": [7.2, 51.6167], "date": "2025-11-11"}, // Recklinghausen, Diebstahl
+{"coords": [11.5419, 49.7564], "date": "2025-11-11"}, // Pegnitz, Einbruch
+{"coords": [7.2197, 51.5428], "date": "2025-11-11"}, // Herne, Einbruch
+{"coords": [9.5164, 53.925], "date": "2025-11-11"}, // Hinweise Itzehoe, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Michaelisdonn, Einbruch
+//{"coords": [], "date": "2025-11-11"} // Reichelsheim, Einbruch
