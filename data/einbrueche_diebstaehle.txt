@@ -352,3 +352,4 @@
 {"coords": [10.0, 51.7064], "date": "2025-11-11"}, // Northeim, geklaut
 {"coords": [8.1075, 53.5219], "date": "2025-11-11"}, // Wilhelmshaven Wilhelmshaven, Diebstahl
 {"coords": [7.9019, 53.5736], "date": "2025-11-11"}, // Jever Jever, Diebstahl
+{"coords": [9.8333, 53.95], "date": "2025-11-11"}, // Rohbau Hagen, stehlen
