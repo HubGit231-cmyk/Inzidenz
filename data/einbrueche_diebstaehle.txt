@@ -326,3 +326,5 @@
 //{"coords": [], "date": "2025-11-11"} // Hargesheim Raum Bad Kreuznach, Einbruch
 {"coords": [9.1833, 50.2], "date": "2025-11-11"}, // Zahnarztpraxis Gelnhausen, Dieb
 {"coords": [9.5167, 50.35], "date": "2025-11-11"}, // Schlüchtern, Dieb
+{"coords": [10.0936, 48.8372], "date": "2025-11-11"}, // Aalen, Einbruch
+{"coords": [7.6458, 50.6878], "date": "2025-11-11"}, // Schulzentrum Altenkirchen, Einbruch
