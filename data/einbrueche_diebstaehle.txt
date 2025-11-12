@@ -589,3 +589,12 @@
 {"coords": [9.0, 50.7333], "date": "2025-11-12"}, // Kupferkessel Homberg, Diebstahl
 {"coords": [7.7689, 49.4447], "date": "2025-11-12"}, // Kaiserslautern, eingebrochen
 {"coords": [7.1508, 51.2562], "date": "2025-11-12"}, // Wuppertal, Raub
+{"coords": [10.7753, 49.7544], "date": "2025-11-12"}, // Einbruch Mühlhausen, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Einbrechern Leinefelde, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-11-12"}, // Schuhen Warendorf, Raub
+//{"coords": [], "date": "2025-11-12"} // Fokus, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Frankfurt, Dieb
+//{"coords": [], "date": "2025-11-12"} // Kellerräume Gronau, Einbruch
+{"coords": [6.4667, 51.8333], "date": "2025-11-12"}, // Isselburg, entwendet
+{"coords": [10.7183, 50.9489], "date": "2025-11-12"}, // Gotha, entwendet
+{"coords": [10.9147, 50.6856], "date": "2025-11-12"}, // Ilmenau, entwendet
