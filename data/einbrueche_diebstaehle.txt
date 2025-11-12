@@ -570,3 +570,7 @@
 {"coords": [9.2108, 49.1425], "date": "2025-11-12"}, // Einbruch Heilbronn, Einbruch
 {"coords": [9.2167, 48.4833], "date": "2025-11-12"}, // Autos Reutlingen, Einbrüche
 {"coords": [8.1075, 53.5219], "date": "2025-11-12"}, // Beute Wilhelmshaven, entwendet
+//{"coords": [], "date": "2025-11-12"} // Praxisräumlichkeit Werne, Einbruch
+{"coords": [8.875, 53.05], "date": "2025-11-12"}, // Osterholz, Einbrecher
+{"coords": [7.2197, 51.5428], "date": "2025-11-12"}, // Audi Herne, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Herford, Einbruch
