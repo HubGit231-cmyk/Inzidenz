@@ -539,3 +539,16 @@
 //{"coords": [], "date": "2025-11-12"} // Lienen, gestohlen
 //{"coords": [], "date": "2025-11-12"} // Oldtimer Kaarst, Dieb
 //{"coords": [], "date": "2025-11-12"} // Wohnmobil Dormagen, Dieb
+{"coords": [8.4043, 49.014], "date": "2025-11-12"}, // Odenheim Karlsruhe, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2025-11-12"}, // Masche Stade, Diebstahl
+{"coords": [8.6944, 49.4092], "date": "2025-11-12"}, // Zeugenaufruf Heidelberg, gestohlen
+{"coords": [7.1675, 51.9436], "date": "2025-11-12"}, // Wohnung Coesfeld, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2025-11-12"}, // Wohnungseinbruch Vogelsbergkreis, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2025-11-12"}, // Rotenburg, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2025-11-12"}, // Zeugen Osnabrück, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2025-11-12"}, // Fulda, Diebstahl
+{"coords": [7.3392, 51.3197], "date": "2025-11-12"}, // Gevelsberg, Einbrüche
+//{"coords": [], "date": "2025-11-12"} // auf E-Leichtmofa, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-11-12"}, // Bielefeld, Einbrecher
+//{"coords": [], "date": "2025-11-12"} // Sennelager, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Untersuchungshaft Palzem, Einbruch
