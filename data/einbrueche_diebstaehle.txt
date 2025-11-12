@@ -586,3 +586,6 @@
 {"coords": [11.0299, 50.9848], "date": "2025-11-12"}, // Erfurt, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2025-11-12"}, // Polizeieinsatz Erfurt, Raub
 //{"coords": [], "date": "2025-11-12"} // Ost, Raub
+{"coords": [9.0, 50.7333], "date": "2025-11-12"}, // Kupferkessel Homberg, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2025-11-12"}, // Kaiserslautern, eingebrochen
+{"coords": [7.1508, 51.2562], "date": "2025-11-12"}, // Wuppertal, Raub
