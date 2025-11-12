@@ -523,3 +523,7 @@
 //{"coords": [], "date": "2025-11-12"} // Gustavsburg, gestohlen
 {"coords": [9.9916, 48.3984], "date": "2025-11-12"}, // Ulm, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2025-11-12"}, // Ulm, Raub
+{"coords": [6.5875, 51.0883], "date": "2025-11-12"}, // Grevenbroich, Diebstahl
+//{"coords": [], "date": "2025-11-12"} // Zeugensuche Bergheim, entwendet
+{"coords": [7.9833, 51.95], "date": "2025-11-12"}, // Einbruchversuch Warendorf, Einbruch
+{"coords": [9.5164, 53.925], "date": "2025-11-12"}, // Hinweise Itzehoe, Einbrüche
