@@ -527,3 +527,15 @@
 //{"coords": [], "date": "2025-11-12"} // Zeugensuche Bergheim, entwendet
 {"coords": [7.9833, 51.95], "date": "2025-11-12"}, // Einbruchversuch Warendorf, Einbruch
 {"coords": [9.5164, 53.925], "date": "2025-11-12"}, // Hinweise Itzehoe, Einbrüche
+{"coords": [13.2611, 53.5569], "date": "2025-11-12"}, // Neubrandenburg, Dieb
+//{"coords": [], "date": "2025-11-12"} // Kreis, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Reinheim, Einbrecher
+{"coords": [8.8431, 49.8978], "date": "2025-11-12"}, // Dieburg, Dieb
+{"coords": [8.6306, 53.05], "date": "2025-11-12"}, // Einsatz Delmenhorst, Raub
+//{"coords": [], "date": "2025-11-12"} // Keltern, Dieb
+//{"coords": [], "date": "2025-11-12"} // Westerkappeln, Einbrüche
+{"coords": [7.8139, 52.2194], "date": "2025-11-12"}, // Tecklenburg, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Iggelheim, Diebstahl
+//{"coords": [], "date": "2025-11-12"} // Lienen, gestohlen
+//{"coords": [], "date": "2025-11-12"} // Oldtimer Kaarst, Dieb
+//{"coords": [], "date": "2025-11-12"} // Wohnmobil Dormagen, Dieb
