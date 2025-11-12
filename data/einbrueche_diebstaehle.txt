@@ -606,3 +606,5 @@
 {"coords": [6.45, 51.3167], "date": "2025-11-12"}, // Tönis, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2025-11-12"}, // Limburg, Einbruch
 //{"coords": [], "date": "2025-11-12"} // Giessen, Einbruch
+{"coords": [6.9603, 50.9375], "date": "2025-11-12"}, // Blut Köln, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-11-12"}, // Hinweise Recklinghausen, Einbruch
