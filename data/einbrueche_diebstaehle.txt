@@ -603,3 +603,6 @@
 //{"coords": [], "date": "2025-11-12"} // Quad Bad Langensalza, entwendet
 {"coords": [6.7735, 51.2277], "date": "2025-11-12"}, // Düsseldorf, Raub
 {"coords": [10.7753, 49.7544], "date": "2025-11-12"}, // Mühlhausen, Einbruch
+{"coords": [6.45, 51.3167], "date": "2025-11-12"}, // Tönis, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-11-12"}, // Limburg, Einbruch
+//{"coords": [], "date": "2025-11-12"} // Giessen, Einbruch
