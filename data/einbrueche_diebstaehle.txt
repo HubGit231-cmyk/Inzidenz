@@ -561,3 +561,5 @@
 {"coords": [10.7753, 49.7544], "date": "2025-11-12"}, // Zeugen Mühlhausen, Einbrecher
 {"coords": [7.6889, 51.5347], "date": "2025-11-12"}, // Tankstelle Unna, Raub
 {"coords": [10.5722, 51.4403], "date": "2025-11-12"}, // Bleicherode, Einbruch
+{"coords": [8.0667, 51.1167], "date": "2025-11-12"}, // Kindertagesstätte Lennestadt, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-11-12"}, // Recklinghausen, Einbruch
