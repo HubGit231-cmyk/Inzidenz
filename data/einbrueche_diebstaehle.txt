@@ -517,3 +517,9 @@
 //{"coords": [], "date": "2025-11-12"} // Kein Ort gefunden, Einbruch
 {"coords": [8.4833, 49.9167], "date": "2025-11-12"}, // Gerau, Einbruch
 {"coords": [8.35, 51.6667], "date": "2025-11-12"}, // Bargeld Lippstadt, eingebrochen
+{"coords": [8.6514, 49.8728], "date": "2025-11-12"}, // Darmstadt, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2025-11-12"}, // Sonstiges Aalen, Einbruch
+//{"coords": [], "date": "2025-11-12"} // einem Parkplatz gestohlen mehr, gestohlen
+//{"coords": [], "date": "2025-11-12"} // Gustavsburg, gestohlen
+{"coords": [9.9916, 48.3984], "date": "2025-11-12"}, // Ulm, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-12"}, // Ulm, Raub
