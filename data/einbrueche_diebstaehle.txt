@@ -661,3 +661,6 @@
 {"coords": [9.9916, 48.3984], "date": "2025-11-13"}, // Ulm, Diebstahl
 //{"coords": [], "date": "2025-11-13"} // Feuerwehrgerätehaus Selm, Einbruch
 {"coords": [6.7623, 51.4344], "date": "2025-11-13"}, // Zeugen Duisburg, Raub
+{"coords": [8.3708, 52.6078], "date": "2025-11-13"}, // Diepholz, Diebstahl
+//{"coords": [], "date": "2025-11-13"} // Linnich, Einbrüche
+{"coords": [8.6306, 53.05], "date": "2025-11-13"}, // Delmenhorst, Diebstähle
