@@ -664,3 +664,14 @@
 {"coords": [8.3708, 52.6078], "date": "2025-11-13"}, // Diepholz, Diebstahl
 //{"coords": [], "date": "2025-11-13"} // Linnich, Einbrüche
 {"coords": [8.6306, 53.05], "date": "2025-11-13"}, // Delmenhorst, Diebstähle
+{"coords": [8.875, 53.05], "date": "2025-11-13"}, // Osterholz, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Tawern, eingebrochen
+//{"coords": [], "date": "2025-11-13"} // Multivan Vreden, Diebstahl
+//{"coords": [], "date": "2025-11-13"} // Erdgeschosswohnung Gronau, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Kein Ort gefunden, Einbruch
+{"coords": [7.2056, 50.8014], "date": "2025-11-13"}, // Siegburg, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2025-11-13"}, // Hinweise Bonn, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Kreis, entwendet
+{"coords": [9.9916, 48.3984], "date": "2025-11-13"}, // Ulm, klau
+//{"coords": [], "date": "2025-11-13"} // Bergneustadt, gestohlen
+//{"coords": [], "date": "2025-11-13"} // Rastplatz Wiehl, Diebstahl
