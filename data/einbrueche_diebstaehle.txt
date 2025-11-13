@@ -633,3 +633,10 @@
 //{"coords": [], "date": "2025-11-13"} // Fahrstreifenwechsel Neu Wulmstorf, Einbrüche
 {"coords": [7.1508, 51.2562], "date": "2025-11-13"}, // Polizei Wuppertal Wuppertal, Einbruch
 {"coords": [10.0, 51.7064], "date": "2025-11-13"}, // Northeim, Diebstähle
+//{"coords": [], "date": "2025-11-13"} // Ratzeburg, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-11-13"}, // Einbrüche Aalen, Einbrüche
+//{"coords": [], "date": "2025-11-13"} // Einbruch Ratzeburg, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Schapen, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Sögel, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-13"}, // Müllentsorgung Aalen, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2025-11-13"}, // Nordhorn, Einbruch
