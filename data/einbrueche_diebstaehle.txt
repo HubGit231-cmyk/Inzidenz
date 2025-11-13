@@ -689,3 +689,9 @@
 {"coords": [6.8, 51.0], "date": "2025-11-13"}, // Büro Pulheim, Einbruch
 {"coords": [8.5331, 52.021], "date": "2025-11-13"}, // Haft Bielefeld, Diebstahl
 {"coords": [10.6944, 50.6111], "date": "2025-11-13"}, // Versuchter Einbruch Suhl, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Möhringen, eingebrochen
+//{"coords": [], "date": "2025-11-13"} // Kevelaer, gestohlen
+{"coords": [8.4043, 49.014], "date": "2025-11-13"}, // Stupferich Karlsruhe, Einbruch
+{"coords": [8.3667, 50.0], "date": "2025-11-13"}, // Haft Bischofsheim, eigentumsdelikt
+{"coords": [8.4043, 49.014], "date": "2025-11-13"}, // Einfamilienhaus Karlsruhe, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-11-13"}, // Ludwigsburg, Einbruch
