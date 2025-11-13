@@ -746,3 +746,4 @@
 {"coords": [8.24, 50.0822], "date": "2025-11-13"}, // Stadtgebiet Wiesbaden, Einbrüche
 //{"coords": [], "date": "2025-11-13"} // Untergruppenbach, entwendet
 //{"coords": [], "date": "2025-11-13"} // helllichten Tag mehr, Diebstahl
+//{"coords": [], "date": "2025-11-13"} // Kein Ort gefunden, entwendet
