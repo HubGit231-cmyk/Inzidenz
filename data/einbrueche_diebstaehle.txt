@@ -683,3 +683,9 @@
 {"coords": [8.1361, 53.3969], "date": "2025-11-13"}, // Euro Varel, Diebstahl
 {"coords": [12.0799, 50.8772], "date": "2025-11-13"}, // Mithilfe Gera, Raub
 {"coords": [12.0799, 50.8772], "date": "2025-11-13"}, // Vollstreckungsbeamte Gera, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2025-11-13"}, // Wohnhäuser Ludwigsburg, Einbrüche
+//{"coords": [], "date": "2025-11-13"} // Haffen, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2025-11-13"}, // Vechta, Diebstahl
+{"coords": [6.8, 51.0], "date": "2025-11-13"}, // Büro Pulheim, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-11-13"}, // Haft Bielefeld, Diebstahl
+{"coords": [10.6944, 50.6111], "date": "2025-11-13"}, // Versuchter Einbruch Suhl, Einbruch
