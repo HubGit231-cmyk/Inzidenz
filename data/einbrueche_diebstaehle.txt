@@ -695,3 +695,14 @@
 {"coords": [8.3667, 50.0], "date": "2025-11-13"}, // Haft Bischofsheim, eigentumsdelikt
 {"coords": [8.4043, 49.014], "date": "2025-11-13"}, // Einfamilienhaus Karlsruhe, Einbruch
 {"coords": [9.1919, 48.8975], "date": "2025-11-13"}, // Ludwigsburg, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Neckar, Einbruch
+{"coords": [10.6866, 53.8655], "date": "2025-11-13"}, // Zeugen Lübeck, Raub
+{"coords": [9.2108, 49.1425], "date": "2025-11-13"}, // Unfallflucht Heilbronn, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-11-13"}, // Ludwigshafen, Einbruch
+{"coords": [9.9333, 52.9667], "date": "2025-11-13"}, // Heidekreis, Einbruch
+{"coords": [11.5164, 51.0264], "date": "2025-11-13"}, // Apolda, Räuber
+//{"coords": [], "date": "2025-11-13"} // Zeugensuche Bergheim, eingebrochen
+//{"coords": [], "date": "2025-11-13"} // Plittersdorf, Diebstähle
+{"coords": [9.2167, 48.4833], "date": "2025-11-13"}, // Scamming Betrügern Reutlingen, Einbrüche
+{"coords": [6.7623, 51.4344], "date": "2025-11-13"}, // Duisburg, gestohlen
+{"coords": [8.1075, 53.5219], "date": "2025-11-13"}, // Wilhelmshaven, Einbruch
