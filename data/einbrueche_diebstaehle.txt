@@ -706,3 +706,5 @@
 {"coords": [9.2167, 48.4833], "date": "2025-11-13"}, // Scamming Betrügern Reutlingen, Einbrüche
 {"coords": [6.7623, 51.4344], "date": "2025-11-13"}, // Duisburg, gestohlen
 {"coords": [8.1075, 53.5219], "date": "2025-11-13"}, // Wilhelmshaven, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Kreis, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2025-11-13"}, // Festnahme Düsseldorf, Diebstahl
