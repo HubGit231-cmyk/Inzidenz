@@ -621,3 +621,4 @@
 //{"coords": [], "date": "2025-11-12"} // Lieser Lieser, entwendet
 //{"coords": [], "date": "2025-11-12"} // Birkenfeld Birkenfeld, Diebstahl
 //{"coords": [], "date": "2025-11-13"} // Paketdiebstahl Daleiden, Diebstahl
+{"coords": [10.0119, 51.9603], "date": "2025-11-13"}, // Lamspringe Hildesheim, Einbruch
