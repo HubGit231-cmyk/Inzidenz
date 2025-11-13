@@ -645,3 +645,4 @@
 {"coords": [7.1833, 50.9], "date": "2025-11-13"}, // Rösrath, Einbrecher
 {"coords": [8.0472, 52.2799], "date": "2025-11-13"}, // Zeugen Osnabrück, Diebstahl
 //{"coords": [], "date": "2025-11-13"} // Rickelshof, Einbruch
+//{"coords": [], "date": "2025-11-13"} // Herscheid, gestohlen
