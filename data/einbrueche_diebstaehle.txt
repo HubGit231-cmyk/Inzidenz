@@ -804,3 +804,9 @@
 {"coords": [9.5164, 53.925], "date": "2025-11-14"}, // Einfamilienhaus Itzehoe, Einbruch
 //{"coords": [], "date": "2025-11-14"} // Merzenich, gestohlen
 {"coords": [6.8, 51.0], "date": "2025-11-14"}, // Vereinsheim Pulheim, Einbruch
+{"coords": [10.3243, 50.9746], "date": "2025-11-14"}, // Bäckereifilialen Eisenach, Diebstähle
+{"coords": [9.4764, 53.6008], "date": "2025-11-14"}, // Stade, Dieb
+//{"coords": [], "date": "2025-11-14"} // Weisenau, Einbruch
+{"coords": [9.95, 52.15], "date": "2025-11-14"}, // Tätern Hildesheim, Einbruch
+{"coords": [6.6833, 51.2], "date": "2025-11-14"}, // Neuss Neuss, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2025-11-14"}, // Wohnungen Wolfsburg, Einbrüche
