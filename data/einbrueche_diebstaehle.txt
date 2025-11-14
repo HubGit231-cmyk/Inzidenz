@@ -779,3 +779,14 @@
 {"coords": [7.82, 47.99], "date": "2025-11-14"}, // Freiburg, Raub
 //{"coords": [], "date": "2025-11-14"} // oder mehrere Unbekannte aus einer Garage in der Straße, entwendet
 //{"coords": [], "date": "2025-11-14"} // Zeugen Anröchte, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-11-14"}, // Schuhen Northeim, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2025-11-14"}, // Gartenhütte Homberg, Einbruch
+//{"coords": [], "date": "2025-11-14"} // Leinefelde, Dieb
+//{"coords": [], "date": "2025-11-14"} // Erdgeschosswohnung Bergisch Gladbach, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2025-11-14"}, // Mühlhausen, Einbrecher
+{"coords": [8.3708, 52.6078], "date": "2025-11-14"}, // Diepholz, Einbrüche
+{"coords": [8.5833, 53.55], "date": "2025-11-14"}, // Mitte, Dieb
+//{"coords": [], "date": "2025-11-14"} // Bremerhaven, Einbrecher
+//{"coords": [], "date": "2025-11-14"} // Polizei Rüsselsheim, entwendet
+{"coords": [12.0333, 49.8667], "date": "2025-11-14"}, // Haus Isselburg, Einbruch
+{"coords": [10.8, 53.4833], "date": "2025-11-14"}, // Einfamilienhaus Greven, Einbruch
