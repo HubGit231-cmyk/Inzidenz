@@ -874,3 +874,4 @@
 {"coords": [9.9916, 48.3984], "date": "2025-11-14"}, // Ulm, Diebstahl
 //{"coords": [], "date": "2025-11-14"} // Haft Lahr, Einbruch
 //{"coords": [], "date": "2025-11-14"} // Lebenstedt, Diebstahl
+//{"coords": [], "date": "2025-11-14"} // Einfamilienhaus Straßenhaus, Diebstahl
