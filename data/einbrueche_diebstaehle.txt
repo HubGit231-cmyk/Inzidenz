@@ -855,3 +855,16 @@
 {"coords": [10.4278, 51.9042], "date": "2025-11-14"}, // Goslar, Einbruch
 {"coords": [8.705, 48.895], "date": "2025-11-14"}, // Zeugenhinweise Pforzheim, Diebstahl
 {"coords": [9.2108, 49.1425], "date": "2025-11-14"}, // Einbruch Heilbronn, Einbruch
+//{"coords": [], "date": "2025-11-14"} // Beute Sömmerda, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-11-14"}, // Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-14"}, // Verkehrsunfall Aalen, Diebstahl
+{"coords": [13.2611, 53.5569], "date": "2025-11-14"}, // Haft Neubrandenburg, Dieb
+{"coords": [10.0936, 48.8372], "date": "2025-11-14"}, // Diebstahl Aalen, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2025-11-14"}, // Offenburg, Raub
+//{"coords": [], "date": "2025-11-14"} // Höhe, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-14"}, // Haft Reutlingen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-11-14"}, // Sachbeschädigung Aalen, Diebstahl
+//{"coords": [], "date": "2025-11-14"} // Kita Westerkappeln, Einbruch
+//{"coords": [], "date": "2025-11-14"} // Giessen, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-11-14"}, // Coesfeld, gestohlen
+//{"coords": [], "date": "2025-11-14"} // oder mehrere Unbekannte drangen gewaltsam in eine Fleischereifiliale in der Inselsbergstraße ein und entwendeten von dort Bargeld. Die Tat wurde in der Zeit zwischen dem, entwendet
