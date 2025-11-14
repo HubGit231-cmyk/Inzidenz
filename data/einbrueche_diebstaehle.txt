@@ -748,3 +748,4 @@
 //{"coords": [], "date": "2025-11-13"} // helllichten Tag mehr, Diebstahl
 //{"coords": [], "date": "2025-11-13"} // Kein Ort gefunden, entwendet
 {"coords": [6.8889, 49.9858], "date": "2025-11-14"}, // Ladendiebstahl Wittlich, Diebstahl
+//{"coords": [], "date": "2025-11-14"} // Kfz Landscheid, Diebstahl
