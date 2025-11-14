@@ -872,3 +872,4 @@
 {"coords": [8.8678, 49.9228], "date": "2025-11-14"}, // Juli Münster, Raub
 {"coords": [8.24, 50.0822], "date": "2025-11-14"}, // Schule Wiesbaden, Diebstähle
 {"coords": [9.9916, 48.3984], "date": "2025-11-14"}, // Ulm, Diebstahl
+//{"coords": [], "date": "2025-11-14"} // Haft Lahr, Einbruch
