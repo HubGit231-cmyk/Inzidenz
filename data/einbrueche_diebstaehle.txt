@@ -790,3 +790,9 @@
 //{"coords": [], "date": "2025-11-14"} // Polizei Rüsselsheim, entwendet
 {"coords": [12.0333, 49.8667], "date": "2025-11-14"}, // Haus Isselburg, Einbruch
 {"coords": [10.8, 53.4833], "date": "2025-11-14"}, // Einfamilienhaus Greven, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-11-14"}, // Northeim, gestohlen
+{"coords": [10.7753, 49.7544], "date": "2025-11-14"}, // Mühlhausen, Dieb
+//{"coords": [], "date": "2025-11-14"} // Lippe, Einbruch
+//{"coords": [], "date": "2025-11-14"} // Einfamilienhaus Dudenhofen, Einbruch
+{"coords": [8.4478, 49.3722], "date": "2025-11-14"}, // Halskette Otterstadt, Raub
+//{"coords": [], "date": "2025-11-14"} // Bad Langensalza, Einbruch
