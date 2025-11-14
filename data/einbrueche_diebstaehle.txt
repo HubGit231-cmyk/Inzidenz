@@ -829,3 +829,6 @@
 {"coords": [7.4653, 51.5136], "date": "2025-11-14"}, // Zeugen Dortmund, Raub
 //{"coords": [], "date": "2025-11-14"} // Bäckereifiliale Boizenburg, Einbruch
 {"coords": [12.4333, 50.985], "date": "2025-11-14"}, // Mithilfe Altenburg, klau
+//{"coords": [], "date": "2025-11-14"} // Lippe, entwendet
+//{"coords": [], "date": "2025-11-14"} // Kreis, Einbruch
+{"coords": [7.05, 49.3739], "date": "2025-11-14"}, // Zeugen Illingen, Einbrecher
