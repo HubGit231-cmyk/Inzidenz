@@ -796,3 +796,9 @@
 //{"coords": [], "date": "2025-11-14"} // Einfamilienhaus Dudenhofen, Einbruch
 {"coords": [8.4478, 49.3722], "date": "2025-11-14"}, // Halskette Otterstadt, Raub
 //{"coords": [], "date": "2025-11-14"} // Bad Langensalza, Einbruch
+//{"coords": [], "date": "2025-11-14"} // Enkirch, Raub
+{"coords": [10.4, 53.25], "date": "2025-11-14"}, // Lüneburg, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-11-14"}, // Nadorster Straße Oldenburg, Einbruch
+//{"coords": [], "date": "2025-11-14"} // Kreis, Einbrüche
+{"coords": [9.5164, 53.925], "date": "2025-11-14"}, // Itzehoe, Diebstahl
+{"coords": [9.5164, 53.925], "date": "2025-11-14"}, // Einfamilienhaus Itzehoe, Einbruch
