@@ -770,3 +770,6 @@
 {"coords": [11.3239, 50.9795], "date": "2025-11-14"}, // Weimar, Dieb
 {"coords": [11.5862, 50.9271], "date": "2025-11-14"}, // Jena, Diebstahl
 {"coords": [10.5833, 50.55], "date": "2025-11-14"}, // Oberstadt, Raub
+{"coords": [7.1675, 51.9436], "date": "2025-11-14"}, // Einfamilienhaus Coesfeld, Einbruch
+{"coords": [8.1075, 53.5219], "date": "2025-11-14"}, // Selbstbedienungskasse Wilhelmshaven, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2025-11-14"}, // Osnabrück, Diebstahl
