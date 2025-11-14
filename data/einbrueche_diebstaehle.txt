@@ -868,3 +868,4 @@
 //{"coords": [], "date": "2025-11-14"} // Giessen, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2025-11-14"}, // Coesfeld, gestohlen
 //{"coords": [], "date": "2025-11-14"} // oder mehrere Unbekannte drangen gewaltsam in eine Fleischereifiliale in der Inselsbergstraße ein und entwendeten von dort Bargeld. Die Tat wurde in der Zeit zwischen dem, entwendet
+{"coords": [7.2, 51.6167], "date": "2025-11-14"}, // Hinweise Recklinghausen, Einbrüche
