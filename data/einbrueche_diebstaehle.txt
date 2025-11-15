@@ -891,3 +891,6 @@
 //{"coords": [], "date": "2025-11-15"} // Grafschaft, Einbruch
 {"coords": [7.3194, 52.5236], "date": "2025-11-15"}, // Jugendhaus Lingen, Einbruch
 //{"coords": [], "date": "2025-11-15"} // Mittelstadt, Diebstahl
+//{"coords": [], "date": "2025-11-15"} // Flußbach, entwendet
+//{"coords": [], "date": "2025-11-15"} // Wohnung Lambrecht, Einbruch
+//{"coords": [], "date": "2025-11-15"} // Weinstraße, Diebstahl
