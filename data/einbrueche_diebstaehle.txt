@@ -879,3 +879,4 @@
 {"coords": [8.0722, 49.5608], "date": "2025-11-15"}, // Einkaufsmarkt Eisenberg, Einbruch
 {"coords": [7.2162, 51.4818], "date": "2025-11-15"}, // Zeugen Bochum, Raub
 {"coords": [7.1, 51.5167], "date": "2025-11-15"}, // Gesetz Gelsenkirchen, Dieb
+//{"coords": [], "date": "2025-11-15"} // Nagelstudio Kamen, Einbruch
