@@ -876,3 +876,5 @@
 //{"coords": [], "date": "2025-11-14"} // Lebenstedt, Diebstahl
 //{"coords": [], "date": "2025-11-14"} // Einfamilienhaus Straßenhaus, Diebstahl
 {"coords": [7.2162, 51.4818], "date": "2025-11-15"}, // Zeugenhinweise Bochum, Raub
+{"coords": [8.0722, 49.5608], "date": "2025-11-15"}, // Einkaufsmarkt Eisenberg, Einbruch
+{"coords": [7.2162, 51.4818], "date": "2025-11-15"}, // Zeugen Bochum, Raub
