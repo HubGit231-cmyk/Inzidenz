@@ -894,3 +894,4 @@
 //{"coords": [], "date": "2025-11-15"} // Flußbach, entwendet
 //{"coords": [], "date": "2025-11-15"} // Wohnung Lambrecht, Einbruch
 //{"coords": [], "date": "2025-11-15"} // Weinstraße, Diebstahl
+{"coords": [8.6306, 53.05], "date": "2025-11-15"}, // Delmenhorst, Einbruch
