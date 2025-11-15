@@ -881,3 +881,4 @@
 {"coords": [7.1, 51.5167], "date": "2025-11-15"}, // Gesetz Gelsenkirchen, Dieb
 //{"coords": [], "date": "2025-11-15"} // Nagelstudio Kamen, Einbruch
 {"coords": [7.6889, 51.5347], "date": "2025-11-15"}, // Unna, entwendet
+{"coords": [7.6889, 51.5347], "date": "2025-11-15"}, // Vereinsheim Unna, Einbruch
