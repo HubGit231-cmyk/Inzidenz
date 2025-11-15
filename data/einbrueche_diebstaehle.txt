@@ -875,3 +875,4 @@
 //{"coords": [], "date": "2025-11-14"} // Haft Lahr, Einbruch
 //{"coords": [], "date": "2025-11-14"} // Lebenstedt, Diebstahl
 //{"coords": [], "date": "2025-11-14"} // Einfamilienhaus Straßenhaus, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2025-11-15"}, // Zeugenhinweise Bochum, Raub
