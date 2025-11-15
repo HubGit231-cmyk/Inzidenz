@@ -904,3 +904,4 @@
 {"coords": [8.25, 49.0244], "date": "2025-11-15"}, // ein Wohnhaus in Hagenbach ein. Hierbei entstand ein Schaden im, Einbruch
 {"coords": [10.4278, 51.9042], "date": "2025-11-15"}, // Goslar, entwendet
 {"coords": [8.0667, 50.3833], "date": "2025-11-15"}, // Limburg, Diebstahl
+//{"coords": [], "date": "2025-11-15"} // Sachschaden Hofheim, Einbruch
