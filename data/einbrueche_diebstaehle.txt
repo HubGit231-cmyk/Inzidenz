@@ -899,3 +899,4 @@
 {"coords": [9.2167, 48.4833], "date": "2025-11-15"}, // Verletzten Reutlingen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-15"}, // Wohnungseinbrüche Aalen, Einbrüche
 {"coords": [7.6458, 50.6878], "date": "2025-11-15"}, // Einbruchsdiebstahl Altenkirchen, Einbruch
+{"coords": [9.5167, 54.2167], "date": "2025-11-15"}, // Hamdorf gesucht Hamdorf, Einbruch
