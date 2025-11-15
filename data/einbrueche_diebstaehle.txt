@@ -890,3 +890,4 @@
 {"coords": [7.4547, 53.2311], "date": "2025-11-15"}, // Leer, Einbruch
 //{"coords": [], "date": "2025-11-15"} // Grafschaft, Einbruch
 {"coords": [7.3194, 52.5236], "date": "2025-11-15"}, // Jugendhaus Lingen, Einbruch
+//{"coords": [], "date": "2025-11-15"} // Mittelstadt, Diebstahl
