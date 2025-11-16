@@ -971,3 +971,4 @@
 {"coords": [10.8978, 48.3705], "date": "2025-11-16"}, // Ladendiebstahl Augsburg, Diebstahl
 {"coords": [7.4614, 50.4286], "date": "2025-11-16"}, // Zeugen Neuwied, Diebstähle
 {"coords": [7.7806, 53.5769], "date": "2025-11-16"}, // Wittmund, eingebrochen
+{"coords": [11.0299, 50.9848], "date": "2025-11-16"}, // Festnahme Erfurt, gestohlen
