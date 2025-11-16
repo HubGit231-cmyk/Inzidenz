@@ -910,3 +910,13 @@
 {"coords": [7.6333, 51.6167], "date": "2025-11-16"}, // Einfamilienhaus Bergkamen, Einbruch
 {"coords": [7.5658, 51.4458], "date": "2025-11-16"}, // Wohnungseinbruch Schwerte, Einbruch
 //{"coords": [], "date": "2025-11-16"} // Einfamilienhaus Unkel, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-11-16"}, // Weimar, entwendet
+{"coords": [10.135, 51.3783], "date": "2025-11-16"}, // Straftaten Heiligenstadt, entwendet
+{"coords": [6.0961, 51.0631], "date": "2025-11-16"}, // Kreis Heinsberg, Diebstahl
+{"coords": [11.5164, 51.0264], "date": "2025-11-16"}, // Quads Apolda, Diebstahl
+{"coords": [11.5164, 51.0264], "date": "2025-11-16"}, // Einfamilienhaus Apolda, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2025-11-16"}, // Greiz, entwendet
+{"coords": [10.7956, 51.5019], "date": "2025-11-16"}, // Steuer Nordhausen, Diebstahl
+{"coords": [10.7292, 50.4258], "date": "2025-11-16"}, // Hildburghausen, Diebstahl
+{"coords": [10.7753, 49.7544], "date": "2025-11-16"}, // Dunkelheit Mühlhausen, Einbruch
+//{"coords": [], "date": "2025-11-16"} // Bad, Diebstahl
