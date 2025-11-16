@@ -972,3 +972,7 @@
 {"coords": [7.4614, 50.4286], "date": "2025-11-16"}, // Zeugen Neuwied, Diebstähle
 {"coords": [7.7806, 53.5769], "date": "2025-11-16"}, // Wittmund, eingebrochen
 {"coords": [11.0299, 50.9848], "date": "2025-11-16"}, // Festnahme Erfurt, gestohlen
+//{"coords": [], "date": "2025-11-16"} // Personen Hördt, Einbrüche
+//{"coords": [], "date": "2025-11-16"} // Einfamilienhaus Leimersheim, Einbruch
+//{"coords": [], "date": "2025-11-16"} // Alsweiler Alsweiler, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-11-16"}, // Limburg, Einbruch
