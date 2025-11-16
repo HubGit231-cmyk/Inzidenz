@@ -955,3 +955,6 @@
 {"coords": [7.5408, 50.9056], "date": "2025-11-16"}, // Pedelec Nümbrecht, gestohlen
 //{"coords": [], "date": "2025-11-16"} // Marienheide, Diebstahl
 //{"coords": [], "date": "2025-11-16"} // Kosmetikstudio Hückeswagen, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2025-11-16"}, // Wittmund, entwendet
+//{"coords": [], "date": "2025-11-16"} // Pelkum, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2025-11-16"}, // Tageswohnungseinbruch Wittlich, Einbruch
