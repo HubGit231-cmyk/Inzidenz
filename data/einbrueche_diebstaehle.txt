@@ -907,3 +907,5 @@
 //{"coords": [], "date": "2025-11-15"} // Sachschaden Hofheim, Einbruch
 //{"coords": [], "date": "2025-11-15"} // Haßloch Haßloch, Diebstähle
 {"coords": [7.5, 50.5], "date": "2025-11-15"}, // Urlaubsabwesenheit Rengsdorf, Einbruch
+{"coords": [7.6333, 51.6167], "date": "2025-11-16"}, // Einfamilienhaus Bergkamen, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2025-11-16"}, // Wohnungseinbruch Schwerte, Einbruch
