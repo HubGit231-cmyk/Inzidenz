@@ -925,3 +925,5 @@
 {"coords": [9.4108, 53.1111], "date": "2025-11-16"}, // Rotenburg, Einbruch
 {"coords": [8.3539, 49.5342], "date": "2025-11-16"}, // Versuchter Wohnungseinbruchsdiebstahl Frankenthal, Einbruch
 {"coords": [8.24, 50.0822], "date": "2025-11-16"}, // Wiesbaden, Einbrüche
+{"coords": [10.9147, 50.6856], "date": "2025-11-16"}, // Ilmenau, entwendet
+{"coords": [10.4167, 50.55], "date": "2025-11-16"}, // Handeln Meiningen, stehlen
