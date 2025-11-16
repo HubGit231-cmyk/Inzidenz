@@ -939,3 +939,5 @@
 //{"coords": [], "date": "2025-11-16"} // Schauernheim, Diebstahl
 {"coords": [7.1, 51.5167], "date": "2025-11-16"}, // Buer Gelsenkirchen, Raub
 //{"coords": [], "date": "2025-11-16"} // Anhänger Elmstein, Diebstahl
+//{"coords": [], "date": "2025-11-16"} // Motorrad Frankfurt, gestohlen
+//{"coords": [], "date": "2025-11-16"} // der Wittelsbachstraße. Während einer der Frauen die Seniorin in ein Gespräch verwickelte, gab die zweite Frau vor, die Toilette aufsuchen zu müssen und betrat das Arbeitszimmer. Dort entwendete sie Bargeld in, Diebstahl
