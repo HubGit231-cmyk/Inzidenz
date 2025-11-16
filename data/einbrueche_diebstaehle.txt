@@ -952,3 +952,6 @@
 {"coords": [6.85, 49.3], "date": "2025-11-16"}, // Bad Schwalbach, Einbrüche
 {"coords": [7.2667, 49.35], "date": "2025-11-16"}, // Bexbach Bexbach, entwendet
 //{"coords": [], "date": "2025-11-16"} // Lippe, Einbrüche
+{"coords": [7.5408, 50.9056], "date": "2025-11-16"}, // Pedelec Nümbrecht, gestohlen
+//{"coords": [], "date": "2025-11-16"} // Marienheide, Diebstahl
+//{"coords": [], "date": "2025-11-16"} // Kosmetikstudio Hückeswagen, Einbruch
