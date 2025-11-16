@@ -927,3 +927,4 @@
 {"coords": [8.24, 50.0822], "date": "2025-11-16"}, // Wiesbaden, Einbrüche
 {"coords": [10.9147, 50.6856], "date": "2025-11-16"}, // Ilmenau, entwendet
 {"coords": [10.4167, 50.55], "date": "2025-11-16"}, // Handeln Meiningen, stehlen
+{"coords": [10.3333, 50.7667], "date": "2025-11-16"}, // Breitungen, Diebstahl
