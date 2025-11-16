@@ -920,3 +920,7 @@
 {"coords": [10.7292, 50.4258], "date": "2025-11-16"}, // Hildburghausen, Diebstahl
 {"coords": [10.7753, 49.7544], "date": "2025-11-16"}, // Dunkelheit Mühlhausen, Einbruch
 //{"coords": [], "date": "2025-11-16"} // Bad, Diebstahl
+{"coords": [10.9464, 50.8342], "date": "2025-11-16"}, // Gartenlaube Arnstadt, Einbruch
+{"coords": [8.6944, 49.4092], "date": "2025-11-16"}, // Polizeieinsatz Heidelberg, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2025-11-16"}, // Rotenburg, Einbruch
+{"coords": [8.3539, 49.5342], "date": "2025-11-16"}, // Versuchter Wohnungseinbruchsdiebstahl Frankenthal, Einbruch
