@@ -968,3 +968,4 @@
 {"coords": [10.6833, 48.7833], "date": "2025-11-16"}, // Harburg, Einbrüche
 {"coords": [6.7735, 51.2277], "date": "2025-11-16"}, // Beute Düsseldorf, Diebstahl
 {"coords": [10.4, 53.25], "date": "2025-11-16"}, // Lüneburg, Einbrüche
+{"coords": [10.8978, 48.3705], "date": "2025-11-16"}, // Ladendiebstahl Augsburg, Diebstahl
