@@ -941,3 +941,13 @@
 //{"coords": [], "date": "2025-11-16"} // Anhänger Elmstein, Diebstahl
 //{"coords": [], "date": "2025-11-16"} // Motorrad Frankfurt, gestohlen
 //{"coords": [], "date": "2025-11-16"} // der Wittelsbachstraße. Während einer der Frauen die Seniorin in ein Gespräch verwickelte, gab die zweite Frau vor, die Toilette aufsuchen zu müssen und betrat das Arbeitszimmer. Dort entwendete sie Bargeld in, Diebstahl
+{"coords": [8.1128, 49.1994], "date": "2025-11-16"}, // Landau, entwendet
+{"coords": [10.3243, 50.9746], "date": "2025-11-16"}, // Diebstahl Eisenach, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-11-16"}, // Aufbruch Aalen, aufbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-16"}, // Versuchter Wohnungseinbruch Aalen, Einbruch
+//{"coords": [], "date": "2025-11-16"} // Höhe, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-16"}, // Wohnungseinbrüche Aalen, Einbrüche
+{"coords": [8.0472, 52.2799], "date": "2025-11-16"}, // Zeugen Osnabrück, Diebstahl
+//{"coords": [], "date": "2025-11-16"} // Hofheim, entwendet
+{"coords": [6.85, 49.3], "date": "2025-11-16"}, // Bad Schwalbach, Einbrüche
+{"coords": [7.2667, 49.35], "date": "2025-11-16"}, // Bexbach Bexbach, entwendet
