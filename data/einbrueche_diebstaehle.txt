@@ -1106,3 +1106,4 @@
 {"coords": [8.4043, 49.014], "date": "2025-11-17"}, // Einbrüchen Karlsruhe, Einbrüche
 //{"coords": [], "date": "2025-11-17"} // Schnellrestaurant Lahr, Einbruch
 //{"coords": [], "date": "2025-11-17"} // Kreis, Einbruch
+//{"coords": [], "date": "2025-11-17"} // den Wintermonaten besonders wichtig, Einbruch
