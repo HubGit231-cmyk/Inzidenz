@@ -982,3 +982,9 @@
 {"coords": [8.4661, 49.4878], "date": "2025-11-16"}, // Mannheim, Einbruch
 {"coords": [11.0299, 50.9848], "date": "2025-11-17"}, // Einbruch Erfurt, Einbruch
 {"coords": [7.5978, 50.3597], "date": "2025-11-17"}, // Koblenz, Diebstahl
+{"coords": [8.7667, 50.1], "date": "2025-11-17"}, // Tatverdächtiger Offenbach, Raub
+{"coords": [7.2417, 52.7922], "date": "2025-11-17"}, // Pkw Haren, entwendet
+{"coords": [7.2417, 52.7922], "date": "2025-11-17"}, // Garage Haren, Einbruch
+{"coords": [7.1333, 52.5333], "date": "2025-11-17"}, // Wietmarschen, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-11-17"}, // Nordhorn, Einbruch
+{"coords": [8.9, 50.25], "date": "2025-11-17"}, // Nidderau, Einbruch
