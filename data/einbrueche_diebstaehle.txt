@@ -1011,3 +1011,4 @@
 {"coords": [8.1361, 53.3969], "date": "2025-11-17"}, // Varel Varel, entwendet
 {"coords": [7.1675, 51.9436], "date": "2025-11-17"}, // Einbruch Coesfeld, Einbruch
 //{"coords": [], "date": "2025-11-17"} // Gustavsburg, Einbrecher
+{"coords": [8.4153, 49.6917], "date": "2025-11-17"}, // Biblis, Einbruch
