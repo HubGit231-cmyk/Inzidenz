@@ -1085,3 +1085,9 @@
 {"coords": [8.3833, 51.9], "date": "2025-11-17"}, // Mehrfamilienhaus Gütersloh, Einbruch
 //{"coords": [], "date": "2025-11-17"} // Giessen, Einbrüche
 {"coords": [12.0333, 49.8667], "date": "2025-11-17"}, // Haus Coesfeld, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2025-11-17"}, // Zeugenaufruf Mannheim, Raub
+//{"coords": [], "date": "2025-11-17"} // Zeil Frankfurt, Raub
+{"coords": [8.0472, 52.2799], "date": "2025-11-17"}, // Osnabrück, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2025-11-17"}, // Supermärkten Homberg, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2025-11-17"}, // Tat Hannover, Räuber
+{"coords": [6.85, 49.3], "date": "2025-11-17"}, // Bad Schwalbach, Einbruch
