@@ -1054,3 +1054,7 @@
 //{"coords": [], "date": "2025-11-17"} // Keller gestohlen mehr, gestohlen
 {"coords": [9.2108, 49.1425], "date": "2025-11-17"}, // Heilbronn, Einbruch
 {"coords": [9.4764, 53.6008], "date": "2025-11-17"}, // Verursacher Stade, entwendet
+{"coords": [10.0042, 53.3125], "date": "2025-11-17"}, // Vereinsheim Marxen, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Hövel, Einbruch
+{"coords": [7.8508, 51.0281], "date": "2025-11-17"}, // Olpe, entwendet
+//{"coords": [], "date": "2025-11-17"} // Wohnung Vreden, Einbruch
