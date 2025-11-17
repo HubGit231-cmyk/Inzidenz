@@ -1107,3 +1107,4 @@
 //{"coords": [], "date": "2025-11-17"} // Schnellrestaurant Lahr, Einbruch
 //{"coords": [], "date": "2025-11-17"} // Kreis, Einbruch
 //{"coords": [], "date": "2025-11-17"} // den Wintermonaten besonders wichtig, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Nord, Raub
