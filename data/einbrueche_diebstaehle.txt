@@ -1073,3 +1073,11 @@
 {"coords": [6.1667, 51.6833], "date": "2025-11-17"}, // Goch, Einbruch
 {"coords": [10.4, 53.25], "date": "2025-11-17"}, // Kollision Lüneburg, Einbrecher
 {"coords": [7.2061, 53.3669], "date": "2025-11-17"}, // Emden, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2025-11-17"}, // Farbschmierereien Aalen, Einbruch
+//{"coords": [], "date": "2025-11-17"} // Lippe, stahl
+{"coords": [7.4653, 51.5136], "date": "2025-11-17"}, // Dortmunder Nordstadt Dortmund, Diebstahl
+//{"coords": [], "date": "2025-11-17"} // dem Kreisgebiet, Einbrüche
+{"coords": [9.5, 51.3167], "date": "2025-11-17"}, // Verkaufstreffen Kassel, Einbruch
+{"coords": [6.7735, 51.2277], "date": "2025-11-17"}, // Ermittlungsrichter Düsseldorf, Einbrecher
+{"coords": [13.2611, 53.5569], "date": "2025-11-17"}, // Neubrandenburg, Raub
+{"coords": [9.4764, 53.6008], "date": "2025-11-17"}, // Fredenbeck Stade, Einbrecher
