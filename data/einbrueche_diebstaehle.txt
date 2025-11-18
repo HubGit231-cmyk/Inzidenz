@@ -1195,3 +1195,11 @@
 {"coords": [11.0299, 50.9848], "date": "2025-11-18"}, // Berliner Platz Erfurt, Einbruch
 //{"coords": [], "date": "2025-11-18"} // Reinbeker Kriminalpolizei Ratzeburg, Einbruch
 //{"coords": [], "date": "2025-11-18"} // Baden, Raub
+{"coords": [10.0936, 48.8372], "date": "2025-11-18"}, // Bahnhof Aalen, entwendet
+//{"coords": [], "date": "2025-11-18"} // Verkehrsunfall mit mehreren Beteiligten, bei dem eine Person leicht verletzt wurde und ein, Raub
+{"coords": [8.24, 50.0822], "date": "2025-11-18"}, // Falsche Polizeibeamte Wiesbaden, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-18"}, // Aalen, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2025-11-18"}, // Speyer, Einbruch
+{"coords": [6.85, 49.3], "date": "2025-11-18"}, // Kreis Bad Schwalbach, entwendet
+//{"coords": [], "date": "2025-11-18"} // Dülken, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-11-18"}, // Tankstelle Freiburg, Einbruch
