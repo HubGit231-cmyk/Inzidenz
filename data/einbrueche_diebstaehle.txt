@@ -1131,3 +1131,9 @@
 {"coords": [11.3239, 50.9795], "date": "2025-11-18"}, // Weimar, entwendet
 //{"coords": [], "date": "2025-11-18"} // Kreis, Diebstahl
 {"coords": [11.5862, 50.9271], "date": "2025-11-18"}, // Büro Jena, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2025-11-18"}, // Einfamilienhaus Lingen, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2025-11-18"}, // Gemeindezentrum Meppen, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-11-18"}, // Heilbronn, entwendet
+{"coords": [7.4044, 53.0772], "date": "2025-11-18"}, // Stadtwerkemitarbeiter Papenburg, Diebstahl
+//{"coords": [], "date": "2025-11-18"} // Ratzeburg, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-18"}, // Ulm, gestohlen
