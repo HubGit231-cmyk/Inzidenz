@@ -1119,3 +1119,4 @@
 //{"coords": [], "date": "2025-11-18"} // Lantershofen, Einbruch
 //{"coords": [], "date": "2025-11-18"} // Haspe, Einbrecher
 {"coords": [8.35, 51.6667], "date": "2025-11-18"}, // Zeugen Lippstadt, Einbrüche
+//{"coords": [], "date": "2025-11-18"} // Vorhalle, entwendet
