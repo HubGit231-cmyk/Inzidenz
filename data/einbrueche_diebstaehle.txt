@@ -1212,3 +1212,4 @@
 {"coords": [10.8978, 48.3705], "date": "2025-11-18"}, // Fahrrads Augsburg, Diebstahl
 //{"coords": [], "date": "2025-11-18"} // Wohnung Schweich, Diebstahl
 {"coords": [6.6393, 49.7556], "date": "2025-11-18"}, // Trier, Diebstahl
+{"coords": [6.6393, 49.7556], "date": "2025-11-18"}, // Trier, Einbruch
