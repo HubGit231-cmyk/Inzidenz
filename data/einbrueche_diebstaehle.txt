@@ -1207,3 +1207,6 @@
 {"coords": [9.732, 52.3759], "date": "2025-11-18"}, // Hannover-Südstadt, stehlen
 {"coords": [8.8678, 49.9228], "date": "2025-11-18"}, // Münster, Diebstahl
 {"coords": [8.8678, 49.9228], "date": "2025-11-18"}, // Zeugen Münster, Räuber
+{"coords": [6.9603, 50.9375], "date": "2025-11-18"}, // Köln, Raub
+{"coords": [8.0472, 52.2799], "date": "2025-11-18"}, // Zeugen Osnabrück, Räuber
+{"coords": [10.8978, 48.3705], "date": "2025-11-18"}, // Fahrrads Augsburg, Diebstahl
