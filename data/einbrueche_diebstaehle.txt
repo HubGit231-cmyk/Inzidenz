@@ -1176,3 +1176,8 @@
 {"coords": [8.6944, 53.8619], "date": "2025-11-18"}, // Einfamilienhaus Cuxhaven, Einbruch
 //{"coords": [], "date": "2025-11-18"} // Lippe, Diebstahl
 //{"coords": [], "date": "2025-11-18"} // Verkehrsunfall mit mehreren Beteiligten, bei dem eine Person leicht verletzt wurde und ein Rettungshubschrauber im Einsatz war. Ein, Raub
+{"coords": [8.8678, 49.9228], "date": "2025-11-18"}, // Zeugen Münster, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2025-11-18"}, // Cuxhaven, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-11-18"}, // Kreis Offenbach, gestohlen
+{"coords": [8.2146, 53.1434], "date": "2025-11-18"}, // Stadtgebiet Oldenburg, Einbrüche
+//{"coords": [], "date": "2025-11-18"} // Armaturen Bremerhaven, Einbruch
