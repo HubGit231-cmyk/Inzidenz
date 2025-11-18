@@ -1193,3 +1193,5 @@
 {"coords": [8.8678, 49.9228], "date": "2025-11-18"}, // Zeugen Münster, Dieb
 {"coords": [11.0299, 50.9848], "date": "2025-11-18"}, // Erfurter Anger Erfurt, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2025-11-18"}, // Berliner Platz Erfurt, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Reinbeker Kriminalpolizei Ratzeburg, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Baden, Raub
