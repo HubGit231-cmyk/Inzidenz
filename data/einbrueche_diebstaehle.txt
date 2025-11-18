@@ -1122,3 +1122,12 @@
 //{"coords": [], "date": "2025-11-18"} // Vorhalle, entwendet
 {"coords": [6.4333, 51.2], "date": "2025-11-18"}, // Mönchengladbach, Diebstahl
 {"coords": [8.875, 53.05], "date": "2025-11-18"}, // Osterholz, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-18"}, // Ulm, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2025-11-18"}, // Diepholz, Diebstahl
+//{"coords": [], "date": "2025-11-18"} // Polizei Mettmann POL-ME, Dieb
+//{"coords": [], "date": "2025-11-18"} // Kein Ort gefunden, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-11-18"}, // Zerstörungstour Weimar, entwendet
+{"coords": [11.3239, 50.9795], "date": "2025-11-18"}, // Dreiste Ladendiebe Weimar, Dieb
+{"coords": [11.3239, 50.9795], "date": "2025-11-18"}, // Weimar, entwendet
+//{"coords": [], "date": "2025-11-18"} // Kreis, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2025-11-18"}, // Büro Jena, Diebstahl
