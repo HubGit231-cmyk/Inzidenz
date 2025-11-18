@@ -1120,3 +1120,5 @@
 //{"coords": [], "date": "2025-11-18"} // Haspe, Einbrecher
 {"coords": [8.35, 51.6667], "date": "2025-11-18"}, // Zeugen Lippstadt, Einbrüche
 //{"coords": [], "date": "2025-11-18"} // Vorhalle, entwendet
+{"coords": [6.4333, 51.2], "date": "2025-11-18"}, // Mönchengladbach, Diebstahl
+{"coords": [8.875, 53.05], "date": "2025-11-18"}, // Osterholz, Einbruch
