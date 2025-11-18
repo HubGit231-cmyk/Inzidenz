@@ -1137,3 +1137,10 @@
 {"coords": [7.4044, 53.0772], "date": "2025-11-18"}, // Stadtwerkemitarbeiter Papenburg, Diebstahl
 //{"coords": [], "date": "2025-11-18"} // Ratzeburg, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2025-11-18"}, // Ulm, gestohlen
+{"coords": [8.1075, 53.5219], "date": "2025-11-18"}, // Supermarkt Wilhelmshaven, Diebstahl
+//{"coords": [], "date": "2025-11-18"} // Aisch, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-11-18"}, // Discounter Oldenburg, Diebstahl
+{"coords": [10.3333, 49.1667], "date": "2025-11-18"}, // Feuchtwangen, Einbruch
+{"coords": [10.45, 51.15], "date": "2025-11-18"}, // Niederdorla, Einbrecher
+{"coords": [8.5331, 52.021], "date": "2025-11-18"}, // Bielefeld, gestohlen
+{"coords": [9.8222, 53.6028], "date": "2025-11-18"}, // Mehrfamilienhaus Schenefeld, Einbruch
