@@ -1152,3 +1152,14 @@
 //{"coords": [], "date": "2025-11-18"} // Kein Ort gefunden, Diebstahl
 //{"coords": [], "date": "2025-11-18"} // Griesheim, aufbruch
 {"coords": [9.4764, 53.6008], "date": "2025-11-18"}, // Stade entwendet, Bei Parkmanöver Auto in Stade beschädigt, entwendet
+{"coords": [10.4, 53.25], "date": "2025-11-18"}, // Lüneburg, Einbruch
+{"coords": [8.6167, 52.1667], "date": "2025-11-18"}, // Zeugen Hiddenhausen, entwendet
+{"coords": [9.2167, 48.4833], "date": "2025-11-18"}, // Einbruch Reutlingen, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Pkw Voerde, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2025-11-18"}, // Zeugenaufruf Nürnberg, Raub
+{"coords": [6.7735, 51.2277], "date": "2025-11-18"}, // Ermittlungsrichter Düsseldorf, Einbruch
+{"coords": [6.4833, 50.8], "date": "2025-11-18"}, // Düren, eingebrochen
+//{"coords": [], "date": "2025-11-18"} // Reken, Einbrecher
+//{"coords": [], "date": "2025-11-18"} // Polizei Mettmann POL-ME, Einbrecher
+{"coords": [8.2869, 52.7303], "date": "2025-11-18"}, // Vechta, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2025-11-18"}, // Vechta, entwendet
