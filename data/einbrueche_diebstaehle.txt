@@ -1114,3 +1114,8 @@
 {"coords": [6.6264, 51.4519], "date": "2025-11-18"}, // Einfamilienhaus Moers, Einbruch
 {"coords": [10.0, 51.7064], "date": "2025-11-18"}, // Entwendungsschaden Northeim, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-18"}, // Anhaltezeichen Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-18"}, // Unfall Aalen, entwendet
+//{"coords": [], "date": "2025-11-18"} // Einfamilienhaus Bad Gandersheim, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Lantershofen, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Haspe, Einbrecher
+{"coords": [8.35, 51.6667], "date": "2025-11-18"}, // Zeugen Lippstadt, Einbrüche
