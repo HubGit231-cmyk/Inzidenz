@@ -1165,3 +1165,14 @@
 {"coords": [8.2869, 52.7303], "date": "2025-11-18"}, // Vechta, entwendet
 //{"coords": [], "date": "2025-11-18"} // Kein Ort gefunden, gestohlen
 {"coords": [8.5331, 52.021], "date": "2025-11-18"}, // Bielefeld, Einbrecher
+{"coords": [7.2, 51.6167], "date": "2025-11-18"}, // Recklinghausen, Diebstahl
+{"coords": [10.3333, 52.15], "date": "2025-11-18"}, // Salzgitter, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Kaisersbach gerettet mehr, Raub
+//{"coords": [], "date": "2025-11-18"} // Wohnungseinbruchsdiebstahl Kuppenheim, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2025-11-18"}, // Tankstelle Unna, Einbruch
+{"coords": [8.1528, 52.0403], "date": "2025-11-18"}, // Versmold Gütersloh, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Worblingen, Einbruch
+//{"coords": [], "date": "2025-11-18"} // dem Kreisgebiet, Einbrüche
+{"coords": [8.6944, 53.8619], "date": "2025-11-18"}, // Einfamilienhaus Cuxhaven, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Lippe, Diebstahl
+//{"coords": [], "date": "2025-11-18"} // Verkehrsunfall mit mehreren Beteiligten, bei dem eine Person leicht verletzt wurde und ein Rettungshubschrauber im Einsatz war. Ein, Raub
