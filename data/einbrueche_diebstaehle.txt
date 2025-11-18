@@ -1183,3 +1183,13 @@
 //{"coords": [], "date": "2025-11-18"} // Armaturen Bremerhaven, Einbruch
 {"coords": [6.9889, 51.8944], "date": "2025-11-18"}, // Velen, entwendet
 {"coords": [6.9889, 51.8944], "date": "2025-11-18"}, // Firmenhalle Velen, Einbruch
+{"coords": [8.3833, 51.9], "date": "2025-11-18"}, // Auto Gütersloh, gestohlen
+{"coords": [9.3833, 50.6333], "date": "2025-11-18"}, // Gartenhütte Vogelsbergkreis, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-11-18"}, // Autodiebstahl Recklinghausen, Diebstahl
+{"coords": [9.5694, 54.5153], "date": "2025-11-18"}, // Schleswig, Raub
+{"coords": [11.9333, 53.6667], "date": "2025-11-18"}, // Euro Borkow, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-11-18"}, // Hinweise Recklinghausen, Einbruch
+//{"coords": [], "date": "2025-11-18"} // Giessen, gestohlen
+{"coords": [8.8678, 49.9228], "date": "2025-11-18"}, // Zeugen Münster, Dieb
+{"coords": [11.0299, 50.9848], "date": "2025-11-18"}, // Erfurter Anger Erfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-11-18"}, // Berliner Platz Erfurt, Einbruch
