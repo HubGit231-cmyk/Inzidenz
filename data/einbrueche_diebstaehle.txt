@@ -1203,3 +1203,7 @@
 {"coords": [6.85, 49.3], "date": "2025-11-18"}, // Kreis Bad Schwalbach, entwendet
 //{"coords": [], "date": "2025-11-18"} // Dülken, Diebstahl
 {"coords": [7.82, 47.99], "date": "2025-11-18"}, // Tankstelle Freiburg, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2025-11-18"}, // Essen, Einbrecher
+{"coords": [9.732, 52.3759], "date": "2025-11-18"}, // Hannover-Südstadt, stehlen
+{"coords": [8.8678, 49.9228], "date": "2025-11-18"}, // Münster, Diebstahl
+{"coords": [8.8678, 49.9228], "date": "2025-11-18"}, // Zeugen Münster, Räuber
