@@ -1181,3 +1181,5 @@
 {"coords": [8.7667, 50.1], "date": "2025-11-18"}, // Kreis Offenbach, gestohlen
 {"coords": [8.2146, 53.1434], "date": "2025-11-18"}, // Stadtgebiet Oldenburg, Einbrüche
 //{"coords": [], "date": "2025-11-18"} // Armaturen Bremerhaven, Einbruch
+{"coords": [6.9889, 51.8944], "date": "2025-11-18"}, // Velen, entwendet
+{"coords": [6.9889, 51.8944], "date": "2025-11-18"}, // Firmenhalle Velen, Einbruch
