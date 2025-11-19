@@ -1329,3 +1329,4 @@
 //{"coords": [], "date": "2025-11-19"} // Weilimdorf, Räuber
 {"coords": [10.8978, 48.3705], "date": "2025-11-19"}, // Augsburg, entwendet
 //{"coords": [], "date": "2025-11-19"} // Scheid Scheid, Diebstahl
+//{"coords": [], "date": "2025-11-19"} // Steinalben, Einbruch
