@@ -1218,3 +1218,4 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-19"}, // Unfall Aalen, Diebstahl
 //{"coords": [], "date": "2025-11-19"} // Alzey Alzey, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-19"}, // Körperverletzung Aalen, entwendet
+{"coords": [9.1919, 48.8975], "date": "2025-11-19"}, // Mehrfamilienhaus Ludwigsburg, Einbruch
