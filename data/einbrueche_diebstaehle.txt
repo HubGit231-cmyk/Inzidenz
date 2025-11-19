@@ -1300,3 +1300,5 @@
 {"coords": [7.5978, 50.3597], "date": "2025-11-19"}, // Zeugen Koblenz, Raub
 {"coords": [8.3708, 52.6078], "date": "2025-11-19"}, // Diepholz, Diebstahl
 {"coords": [7.8153, 48.5708], "date": "2025-11-19"}, // Folgen Kehl, Diebstahl
+{"coords": [9.3833, 50.6333], "date": "2025-11-19"}, // Autos Vogelsbergkreis, Einbruch
+//{"coords": [], "date": "2025-11-19"} // Höhe, Raub
