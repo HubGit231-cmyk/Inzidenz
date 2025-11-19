@@ -1219,3 +1219,13 @@
 //{"coords": [], "date": "2025-11-19"} // Alzey Alzey, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-19"}, // Körperverletzung Aalen, entwendet
 {"coords": [9.1919, 48.8975], "date": "2025-11-19"}, // Mehrfamilienhaus Ludwigsburg, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-19"}, // Aalen, Einbruch
+//{"coords": [], "date": "2025-11-19"} // Messel, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-11-19"}, // Northeim, Diebstahl
+{"coords": [7.3481, 52.3236], "date": "2025-11-19"}, // Supermarktparkplatz Salzbergen, Diebstahl
+{"coords": [6.8833, 52.5], "date": "2025-11-19"}, // Uelsen, gestohlen
+{"coords": [12.0333, 49.8667], "date": "2025-11-19"}, // Haus Messingen, Einbruch
+//{"coords": [], "date": "2025-11-19"} // Stahlplatten Emsbüren, Diebstahl
+//{"coords": [], "date": "2025-11-19"} // Bremen, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-11-19"}, // Geräte Homberg, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2025-11-19"}, // Präventionshinweise Essen, Diebstähle
