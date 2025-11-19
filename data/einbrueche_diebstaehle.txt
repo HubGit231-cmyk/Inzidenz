@@ -1282,3 +1282,7 @@
 {"coords": [8.0472, 52.2799], "date": "2025-11-19"}, // Osnabrück, Diebstahl
 {"coords": [8.3667, 50.0], "date": "2025-11-19"}, // Bischofsheim, gestohlen
 //{"coords": [], "date": "2025-11-19"} // Möbeltresor Bremerhaven, Einbruch
+{"coords": [7.2056, 50.8014], "date": "2025-11-19"}, // Diebstahl Siegburg, Diebstahl
+{"coords": [6.4333, 51.2], "date": "2025-11-19"}, // Stadtgebiet Mönchengladbach, Einbruch
+{"coords": [7.7806, 53.5769], "date": "2025-11-19"}, // Wittmund, Einbruch
+{"coords": [6.6178, 51.6589], "date": "2025-11-19"}, // Bäckerei Wesel, Einbruch
