@@ -1254,3 +1254,15 @@
 //{"coords": [], "date": "2025-11-19"} // Baum, Einbruch
 {"coords": [6.7735, 51.2277], "date": "2025-11-19"}, // Zeugenaufruf Düsseldorf, Raub
 //{"coords": [], "date": "2025-11-19"} // Kreis, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2025-11-19"}, // Vechta, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-11-19"}, // Zeugen Münster, Raub
+//{"coords": [], "date": "2025-11-19"} // Tankstelle Heek, Einbruch
+{"coords": [7.0083, 52.075], "date": "2025-11-19"}, // Ahaus, Dieb
+{"coords": [9.9916, 48.3984], "date": "2025-11-19"}, // Ulm, Diebstahl
+{"coords": [6.7623, 51.4344], "date": "2025-11-19"}, // Zeugen Duisburg, Raub
+{"coords": [7.0982, 50.7374], "date": "2025-11-19"}, // Bonn, Dieb
+{"coords": [9.2167, 48.4833], "date": "2025-11-19"}, // Blockierte Fahrbahn Reutlingen, Einbrüche
+{"coords": [8.705, 48.895], "date": "2025-11-19"}, // Pforzheim, Einbruch
+{"coords": [8.4043, 49.014], "date": "2025-11-19"}, // Karlsruher Waldstadt Karlsruhe, Einbrüche
+{"coords": [7.9833, 51.95], "date": "2025-11-19"}, // Warendorf, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2025-11-19"}, // Warendorf, Einbruch
