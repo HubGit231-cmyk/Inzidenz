@@ -1245,3 +1245,9 @@
 {"coords": [8.1075, 53.5219], "date": "2025-11-19"}, // Wilhelmshaven, Diebstahl
 {"coords": [7.2, 51.6167], "date": "2025-11-19"}, // Recklinghausen, Diebstahl
 {"coords": [8.6372, 49.6419], "date": "2025-11-19"}, // Einfamilienhaus Heppenheim, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-11-19"}, // Oldenburg, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2025-11-19"}, // Zeugen Karlsruhe, Einbruch
+//{"coords": [], "date": "2025-11-19"} // Einbrüchen Ratzeburg, Einbrüche
+//{"coords": [], "date": "2025-11-19"} // Polizei Mettmann POL-ME, Diebstähle
+//{"coords": [], "date": "2025-11-19"} // Bad Segeberg, Einbruch
+{"coords": [8.5331, 52.021], "date": "2025-11-19"}, // Bielefeld, gestohlen
