@@ -1288,3 +1288,4 @@
 {"coords": [6.6178, 51.6589], "date": "2025-11-19"}, // Bäckerei Wesel, Einbruch
 {"coords": [8.2146, 53.1434], "date": "2025-11-19"}, // Wiefelstede Oldenburg, Einbruch
 //{"coords": [], "date": "2025-11-19"} // Einfamilienhaus Uslar, Einbruch
+{"coords": [9.9158, 51.5413], "date": "2025-11-19"}, // Göttingen, Einbruch
