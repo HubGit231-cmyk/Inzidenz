@@ -1266,3 +1266,10 @@
 {"coords": [8.4043, 49.014], "date": "2025-11-19"}, // Karlsruher Waldstadt Karlsruhe, Einbrüche
 {"coords": [7.9833, 51.95], "date": "2025-11-19"}, // Warendorf, Diebstahl
 {"coords": [7.9833, 51.95], "date": "2025-11-19"}, // Warendorf, Einbruch
+{"coords": [7.1667, 50.8167], "date": "2025-11-19"}, // Troisdorf, Diebstahl
+{"coords": [7.1667, 50.8167], "date": "2025-11-19"}, // Troisdorf, Dieb
+{"coords": [8.875, 53.05], "date": "2025-11-19"}, // Osterholz, Einbruch
+{"coords": [9.7, 53.5833], "date": "2025-11-19"}, // Wochenmarkt Wedel, Diebstahl
+{"coords": [8.2869, 52.7303], "date": "2025-11-19"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2025-11-19"} // Hohenlimburg, Einbruch
+{"coords": [11.4012, 53.6355], "date": "2025-11-19"}, // Schwerin, Einbruch
