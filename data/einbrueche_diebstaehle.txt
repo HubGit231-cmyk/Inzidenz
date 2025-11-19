@@ -1214,3 +1214,7 @@
 {"coords": [6.6393, 49.7556], "date": "2025-11-18"}, // Trier, Diebstahl
 {"coords": [6.6393, 49.7556], "date": "2025-11-18"}, // Trier, Einbruch
 //{"coords": [], "date": "2025-11-19"} // Oerlsdorf, entwendet
+{"coords": [11.1, 48.7167], "date": "2025-11-19"}, // Oberhausen Ein Dokument mehr, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-19"}, // Unfall Aalen, Diebstahl
+//{"coords": [], "date": "2025-11-19"} // Alzey Alzey, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-19"}, // Körperverletzung Aalen, entwendet
