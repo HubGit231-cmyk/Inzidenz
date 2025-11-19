@@ -1302,3 +1302,16 @@
 {"coords": [7.8153, 48.5708], "date": "2025-11-19"}, // Folgen Kehl, Diebstahl
 {"coords": [9.3833, 50.6333], "date": "2025-11-19"}, // Autos Vogelsbergkreis, Einbruch
 //{"coords": [], "date": "2025-11-19"} // Höhe, Raub
+{"coords": [10.9833, 53.9167], "date": "2025-11-19"}, // Dassow, entwendet
+//{"coords": [], "date": "2025-11-19"} // Werne, Diebstahl
+//{"coords": [], "date": "2025-11-19"} // Scheuern, Einbruch
+//{"coords": [], "date": "2025-11-19"} // Zeugenaufruf Abenberg, Einbrüche
+{"coords": [10.4167, 51.15], "date": "2025-11-19"}, // Feuerwehrvereinsheim Langula, Einbrecher
+{"coords": [8.0667, 50.3833], "date": "2025-11-19"}, // Limburg, Einbrüche
+{"coords": [6.85, 49.3], "date": "2025-11-19"}, // Abbiegen Bad Schwalbach, Einbrecher
+{"coords": [10.7956, 51.5019], "date": "2025-11-19"}, // Nordhausen, Einbrecher
+{"coords": [9.6775, 50.5528], "date": "2025-11-19"}, // Einbruchsdiebstahl Fulda, Einbruch
+{"coords": [10.7753, 49.7544], "date": "2025-11-19"}, // Mühlhausen, Einbrecher
+//{"coords": [], "date": "2025-11-19"} // dem Kreisgebiet, Einbrüche
+{"coords": [10.65, 52.25], "date": "2025-11-19"}, // Cremlingen, Einbruch
+{"coords": [8.3194, 48.8039], "date": "2025-11-19"}, // Wohnungseinbruch Gaggenau, Einbruch
