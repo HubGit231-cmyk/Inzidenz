@@ -1402,3 +1402,14 @@
 {"coords": [13.0819, 54.3092], "date": "2025-11-20"}, // Stralsund, Diebstahl
 {"coords": [9.9916, 48.3984], "date": "2025-11-20"}, // Ulm, Einbruch
 //{"coords": [], "date": "2025-11-20"} // Kreis, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2025-11-20"}, // Nürnberg, Raub
+//{"coords": [], "date": "2025-11-20"} // Höhe, Einbrecher
+//{"coords": [], "date": "2025-11-20"} // Landkreis Sömmerda, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-11-20"}, // Untersuchungshaft Erfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-11-20"}, // Transporter Erfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-11-20"}, // Erfurter Innenstadt Erfurt, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-11-20"}, // Pizzalieferdienst Erfurt, Einbruch
+//{"coords": [], "date": "2025-11-20"} // Pkw Hofheim, Einbruch
+{"coords": [6.6393, 49.7556], "date": "2025-11-20"}, // Trier, Dieb
+{"coords": [10.9464, 50.8342], "date": "2025-11-20"}, // Arnstadt, entwendet
+//{"coords": [], "date": "2025-11-20"} // Landkreis Sigmaringen Landkreis Sigmaringen, gestohlen
