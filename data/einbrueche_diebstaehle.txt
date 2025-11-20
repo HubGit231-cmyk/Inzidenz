@@ -1375,3 +1375,6 @@
 {"coords": [9.9333, 54.3], "date": "2025-11-20"}, // Felde gesucht Felde, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2025-11-20"}, // Kaiserslautern, Dieb
 {"coords": [8.1075, 53.5219], "date": "2025-11-20"}, // Wilhelmshaven, Diebstahl
+//{"coords": [], "date": "2025-11-20"} // Bergisch Gladbach, Diebstahl
+{"coords": [10.0528, 51.1889], "date": "2025-11-20"}, // Eschwege, Diebstahl
+{"coords": [6.0167, 51.7917], "date": "2025-11-20"}, // Kranenburg, Einbruch
