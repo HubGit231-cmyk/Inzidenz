@@ -1413,3 +1413,8 @@
 {"coords": [6.6393, 49.7556], "date": "2025-11-20"}, // Trier, Dieb
 {"coords": [10.9464, 50.8342], "date": "2025-11-20"}, // Arnstadt, entwendet
 //{"coords": [], "date": "2025-11-20"} // Landkreis Sigmaringen Landkreis Sigmaringen, gestohlen
+//{"coords": [], "date": "2025-11-20"} // Giessen, gestohlen
+//{"coords": [], "date": "2025-11-20"} // Giessen, aufbrüche
+//{"coords": [], "date": "2025-11-20"} // Freinsheim, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-11-20"}, // Ludwigsburg, Diebstahl
+{"coords": [8.5167, 53.65], "date": "2025-11-20"}, // Wremen Cuxhaven, Diebstahl
