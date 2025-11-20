@@ -1351,3 +1351,5 @@
 //{"coords": [], "date": "2025-11-20"} // Bergisch Gladbach, aufbruch
 //{"coords": [], "date": "2025-11-20"} // Straubenhardt, Einbruch
 {"coords": [6.0839, 50.7753], "date": "2025-11-20"}, // Geldsumme Aachen, Diebstahl
+//{"coords": [], "date": "2025-11-20"} // Hinweise Rheinberg, Einbruch
+{"coords": [12.9667, 53.2833], "date": "2025-11-20"}, // Wesenberg, Einbruch
