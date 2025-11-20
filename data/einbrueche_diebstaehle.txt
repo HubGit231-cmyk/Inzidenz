@@ -1343,3 +1343,11 @@
 //{"coords": [], "date": "2025-11-20"} // Mehrparteienhaus gestohlen mehr, gestohlen
 {"coords": [10.0936, 48.8372], "date": "2025-11-20"}, // Einbruch Aalen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-20"}, // Aalen, aufbruch
+{"coords": [8.4833, 49.9167], "date": "2025-11-20"}, // Gerau, Einbruch
+{"coords": [6.5492, 51.2631], "date": "2025-11-20"}, // Willich, Einbruch
+{"coords": [6.45, 51.3167], "date": "2025-11-20"}, // Tönis, Einbruch
+{"coords": [11.7667, 51.8333], "date": "2025-11-20"}, // Zeugen Nienburg, aufbruch
+{"coords": [6.75, 49.3167], "date": "2025-11-20"}, // Saarlouis, Diebstahl
+//{"coords": [], "date": "2025-11-20"} // Bergisch Gladbach, aufbruch
+//{"coords": [], "date": "2025-11-20"} // Straubenhardt, Einbruch
+{"coords": [6.0839, 50.7753], "date": "2025-11-20"}, // Geldsumme Aachen, Diebstahl
