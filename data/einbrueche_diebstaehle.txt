@@ -1399,3 +1399,6 @@
 {"coords": [10.4167, 50.55], "date": "2025-11-20"}, // Shop Meiningen, Einbruch
 //{"coords": [], "date": "2025-11-20"} // Schortens Schortens, Einbruch
 {"coords": [6.7735, 51.2277], "date": "2025-11-20"}, // Düsseldorf, Diebstahl
+{"coords": [13.0819, 54.3092], "date": "2025-11-20"}, // Stralsund, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-11-20"}, // Ulm, Einbruch
+//{"coords": [], "date": "2025-11-20"} // Kreis, Diebstahl
