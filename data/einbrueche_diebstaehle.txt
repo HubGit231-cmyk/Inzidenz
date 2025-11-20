@@ -1342,3 +1342,4 @@
 //{"coords": [], "date": "2025-11-20"} // Biebergemünd, Raub
 //{"coords": [], "date": "2025-11-20"} // Mehrparteienhaus gestohlen mehr, gestohlen
 {"coords": [10.0936, 48.8372], "date": "2025-11-20"}, // Einbruch Aalen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-20"}, // Aalen, aufbruch
