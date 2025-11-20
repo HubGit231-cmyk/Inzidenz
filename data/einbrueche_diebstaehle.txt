@@ -1331,3 +1331,14 @@
 //{"coords": [], "date": "2025-11-19"} // Scheid Scheid, Diebstahl
 //{"coords": [], "date": "2025-11-19"} // Steinalben, Einbruch
 {"coords": [12.75, 53.7], "date": "2025-11-20"}, // Einfamilienhäuser in Gielow, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2025-11-20"}, // Speyer, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-11-20"}, // Pkw Lingen, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-11-20"}, // Nordhorn, Diebstahl
+//{"coords": [], "date": "2025-11-20"} // Dillingen Dillingen, Diebstahl
+{"coords": [7.3481, 52.3236], "date": "2025-11-20"}, // Rohbau Salzbergen, Einbruch
+{"coords": [7.8, 51.4333], "date": "2025-11-20"}, // Menden, gestohlen
+//{"coords": [], "date": "2025-11-20"} // POL-SI, Dieb
+//{"coords": [], "date": "2025-11-20"} // Friedhofhaus Jockgrim, entwendet
+//{"coords": [], "date": "2025-11-20"} // Biebergemünd, Raub
+//{"coords": [], "date": "2025-11-20"} // Mehrparteienhaus gestohlen mehr, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2025-11-20"}, // Einbruch Aalen, Einbruch
