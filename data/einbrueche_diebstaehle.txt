@@ -1427,3 +1427,4 @@
 {"coords": [11.2333, 51.3333], "date": "2025-11-20"}, // Jährigen Bretleben, entwendet
 {"coords": [10.4, 53.25], "date": "2025-11-20"}, // Lüneburg, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-11-20"}, // Freiburg, gestohlen
+//{"coords": [], "date": "2025-11-20"} // Einfamilienhaus Siershahn, Einbruch
