@@ -1388,3 +1388,7 @@
 //{"coords": [], "date": "2025-11-20"} // Haspe, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2025-11-20"}, // Ludwigshafen, gestohlen
 {"coords": [7.5658, 51.4458], "date": "2025-11-20"}, // Schwerte, Einbruch
+{"coords": [7.4842, 50.8436], "date": "2025-11-20"}, // Dach Ruppichteroth, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-11-20"}, // Recklinghausen, aufbrüche
+{"coords": [8.2869, 52.7303], "date": "2025-11-20"}, // Vechta, Einbruch
+{"coords": [9.984, 54.0714], "date": "2025-11-20"}, // Neumünster Neumünster, Einbrüche
