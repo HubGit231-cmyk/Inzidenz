@@ -1438,3 +1438,4 @@
 {"coords": [7.82, 47.99], "date": "2025-11-20"}, // Freiburg, Einbruch
 {"coords": [10.8978, 48.3705], "date": "2025-11-20"}, // Traktors Augsburg, Diebstahl
 {"coords": [9.6536, 53.7547], "date": "2025-11-20"}, // Anflug Elmshorn, Raub
+//{"coords": [], "date": "2025-11-20"} // Einfamilienhaus Hilgert, Einbruch
