@@ -1463,3 +1463,16 @@
 //{"coords": [], "date": "2025-11-21"} // Haspe, stahl
 {"coords": [7.0667, 52.4333], "date": "2025-11-21"}, // Nordhorn, gestohlen
 {"coords": [7.2908, 52.6906], "date": "2025-11-21"}, // Einfamilienhaus Meppen, Einbruch
+{"coords": [7.4139, 50.9889], "date": "2025-11-21"}, // Pedelec Engelskirchen, gestohlen
+{"coords": [8.5667, 49.65], "date": "2025-11-21"}, // Zeugen Lorsch, Einbruch
+{"coords": [8.9519, 49.9667], "date": "2025-11-21"}, // Babenhausen, Raub
+{"coords": [13.0819, 54.3092], "date": "2025-11-21"}, // Zeugen Stralsund, Diebstahl
+//{"coords": [], "date": "2025-11-21"} // Höchst, gestohlen
+{"coords": [10.4667, 50.5167], "date": "2025-11-21"}, // Einhausen, Einbrüche
+//{"coords": [], "date": "2025-11-21"} // Wohnhaus Boostedt, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Zeugen Ratzeburg, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Einbruch Ratzeburg, Einbruch
+{"coords": [8.7236, 48.5522], "date": "2025-11-21"}, // Zeugen Nagold, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Steinhausen, Einbruch
+{"coords": [8.7667, 51.7167], "date": "2025-11-21"}, // Paderborn, aufbruch
+//{"coords": [], "date": "2025-11-21"} // Garenfeld, Raub
