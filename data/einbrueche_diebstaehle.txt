@@ -1545,3 +1545,5 @@
 {"coords": [8.8731, 51.275], "date": "2025-11-21"}, // Bäckereifiliale Korbach, Einbrecher
 {"coords": [6.85, 49.3], "date": "2025-11-21"}, // Bad Schwalbach, Einbrecher
 {"coords": [8.6514, 49.8728], "date": "2025-11-21"}, // Darmstadt, Einbrüche
+{"coords": [7.82, 47.99], "date": "2025-11-21"}, // Unternehmens Freiburg, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2025-11-21"}, // Zeugenaufruf Mannheim, Einbruch
