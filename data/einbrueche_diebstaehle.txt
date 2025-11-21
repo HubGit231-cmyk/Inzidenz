@@ -1440,3 +1440,4 @@
 {"coords": [9.6536, 53.7547], "date": "2025-11-20"}, // Anflug Elmshorn, Raub
 //{"coords": [], "date": "2025-11-20"} // Einfamilienhaus Hilgert, Einbruch
 //{"coords": [], "date": "2025-11-20"} // Prüm Reginostraße Prüm, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Diebstahl Pfeilwegweiser Wallersheim, Diebstahl
