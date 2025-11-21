@@ -1488,3 +1488,5 @@
 //{"coords": [], "date": "2025-11-21"} // Oberasbach, Einbruch
 {"coords": [8.3708, 52.6078], "date": "2025-11-21"}, // Diepholz, Einbruch
 {"coords": [10.7865, 52.4226], "date": "2025-11-21"}, // Wolfsburg, entwendet
+//{"coords": [], "date": "2025-11-21"} // Kevelaer, Diebstahl
+{"coords": [9.4108, 53.1111], "date": "2025-11-21"}, // Rotenburg, Diebstahl
