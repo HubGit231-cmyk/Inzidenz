@@ -1511,3 +1511,15 @@
 //{"coords": [], "date": "2025-11-21"} // Lagerhalle Reken, Einbruch
 //{"coords": [], "date": "2025-11-21"} // gestohlener E-Scooter mehr, gestohlen
 //{"coords": [], "date": "2025-11-21"} // Lippe, entwendet
+{"coords": [8.7667, 50.1], "date": "2025-11-21"}, // Kreis Offenbach, geklaut
+{"coords": [12.1997, 50.6544], "date": "2025-11-21"}, // Sportverein Greiz, Einbruch
+{"coords": [12.4333, 50.985], "date": "2025-11-21"}, // Einbruch Baucontainer Altenburg, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Giessen, Dieb
+{"coords": [7.3333, 51.4333], "date": "2025-11-21"}, // Witten, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Mudersbach, Diebstahl
+{"coords": [7.82, 47.99], "date": "2025-11-21"}, // Zeugen Freiburg, Einbruch
+{"coords": [9.8028, 51.9417], "date": "2025-11-21"}, // Delligsen, Raub
+{"coords": [7.82, 47.99], "date": "2025-11-21"}, // Zeugen Freiburg, Diebstähle
+//{"coords": [], "date": "2025-11-21"} // Kein Ort gefunden, gestohlen
+//{"coords": [], "date": "2025-11-21"} // Diebesgut Bremerhaven, Dieb
+{"coords": [9.6775, 50.5528], "date": "2025-11-21"}, // Farbschmierereien Fulda, gestohlen
