@@ -1502,3 +1502,9 @@
 {"coords": [10.6944, 50.6111], "date": "2025-11-21"}, // Bäckereifiliale Suhl, Einbruch
 {"coords": [9.4456, 51.8281], "date": "2025-11-21"}, // Holzminden, Diebstähle
 //{"coords": [], "date": "2025-11-21"} // Kein Ort gefunden, Diebstähle
+//{"coords": [], "date": "2025-11-21"} // Sömmerda Sömmerda, Diebstahl
+//{"coords": [], "date": "2025-11-21"} // Lippe, Einbruch
+{"coords": [9.3833, 50.6333], "date": "2025-11-21"}, // Scooter Vogelsbergkreis, Diebstahl
+//{"coords": [], "date": "2025-11-21"} // Oos, Einbrüche
+{"coords": [9.6775, 50.5528], "date": "2025-11-21"}, // Fulda, gestohlen
+//{"coords": [], "date": "2025-11-21"} // Iggelheim, eingebrochen
