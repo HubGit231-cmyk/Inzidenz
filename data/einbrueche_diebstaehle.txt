@@ -1446,3 +1446,13 @@
 //{"coords": [], "date": "2025-11-21"} // Wittbende, entwendet
 {"coords": [10.0936, 48.8372], "date": "2025-11-21"}, // Verkehrsunfälle Aalen, Dieb
 //{"coords": [], "date": "2025-11-21"} // Einbruchsdiebstahl Almersbach, Einbruch
+{"coords": [9.1167, 50.85], "date": "2025-11-21"}, // Polizeidirektion Neustadt, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Zeugen Kreis Plön, Raub
+//{"coords": [], "date": "2025-11-21"} // Pelkum, Einbruch
+{"coords": [8.35, 51.6667], "date": "2025-11-21"}, // Fußgängerzone Lippstadt, Einbruch
+{"coords": [7.1667, 50.8167], "date": "2025-11-21"}, // Troisdorf, entwendet
+{"coords": [8.1092, 51.5711], "date": "2025-11-21"}, // Zahn Soest, Dieb
+{"coords": [8.6925, 52.1986], "date": "2025-11-21"}, // Löhne, Diebstahl
+{"coords": [7.7, 51.375], "date": "2025-11-21"}, // Sümmern Iserlohn, Einbruch
+{"coords": [7.8, 51.4333], "date": "2025-11-21"}, // Diebstahl Menden, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2025-11-21"}, // Zeugen Bonn, Einbruch
