@@ -1476,3 +1476,4 @@
 //{"coords": [], "date": "2025-11-21"} // Steinhausen, Einbruch
 {"coords": [8.7667, 51.7167], "date": "2025-11-21"}, // Paderborn, aufbruch
 //{"coords": [], "date": "2025-11-21"} // Garenfeld, Raub
+//{"coords": [], "date": "2025-11-21"} // Kirn, Einbruch
