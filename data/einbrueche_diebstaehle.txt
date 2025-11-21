@@ -1442,3 +1442,7 @@
 //{"coords": [], "date": "2025-11-20"} // Prüm Reginostraße Prüm, Einbruch
 //{"coords": [], "date": "2025-11-21"} // Diebstahl Pfeilwegweiser Wallersheim, Diebstahl
 {"coords": [7.6667, 50.55], "date": "2025-11-21"}, // Kennzeichendiebstahl Dierdorf, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-11-21"}, // Fahrraddiebstahl Aalen, Einbruch
+//{"coords": [], "date": "2025-11-21"} // Wittbende, entwendet
+{"coords": [10.0936, 48.8372], "date": "2025-11-21"}, // Verkehrsunfälle Aalen, Dieb
+//{"coords": [], "date": "2025-11-21"} // Einbruchsdiebstahl Almersbach, Einbruch
