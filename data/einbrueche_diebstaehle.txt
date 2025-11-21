@@ -1551,3 +1551,4 @@
 {"coords": [7.82, 47.99], "date": "2025-11-21"}, // Einsatz Freiburg, Raub
 {"coords": [6.0839, 50.7753], "date": "2025-11-21"}, // Zeugen Aachen, Raub
 {"coords": [7.82, 47.99], "date": "2025-11-21"}, // Wohnung Freiburg, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-21"}, // Ulm, Diebstahl
