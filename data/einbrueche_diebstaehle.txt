@@ -1508,3 +1508,6 @@
 //{"coords": [], "date": "2025-11-21"} // Oos, Einbrüche
 {"coords": [9.6775, 50.5528], "date": "2025-11-21"}, // Fulda, gestohlen
 //{"coords": [], "date": "2025-11-21"} // Iggelheim, eingebrochen
+//{"coords": [], "date": "2025-11-21"} // Lagerhalle Reken, Einbruch
+//{"coords": [], "date": "2025-11-21"} // gestohlener E-Scooter mehr, gestohlen
+//{"coords": [], "date": "2025-11-21"} // Lippe, entwendet
