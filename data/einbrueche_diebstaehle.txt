@@ -1562,3 +1562,4 @@
 //{"coords": [], "date": "2025-11-21"} // Thiede, Einbruch
 //{"coords": [], "date": "2025-11-21"} // Ilsede, Diebstahl
 {"coords": [10.7865, 52.4226], "date": "2025-11-21"}, // Schwerer Raub Wolfsburg, Raub
+{"coords": [6.5492, 51.2631], "date": "2025-11-22"}, // Willich, Einbrecher
