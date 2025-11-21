@@ -1542,3 +1542,6 @@
 //{"coords": [], "date": "2025-11-21"} // Frontalzusammenstoß Hofheim, Einbrüche
 {"coords": [9.95, 52.15], "date": "2025-11-21"}, // Ochtersum Hildesheim, Einbruch
 {"coords": [8.5333, 50.0667], "date": "2025-11-21"}, // Kelsterbach, entwendet
+{"coords": [8.8731, 51.275], "date": "2025-11-21"}, // Bäckereifiliale Korbach, Einbrecher
+{"coords": [6.85, 49.3], "date": "2025-11-21"}, // Bad Schwalbach, Einbrecher
+{"coords": [8.6514, 49.8728], "date": "2025-11-21"}, // Darmstadt, Einbrüche
