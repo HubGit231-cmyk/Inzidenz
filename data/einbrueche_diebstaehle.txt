@@ -1566,3 +1566,5 @@
 {"coords": [10.9667, 50.8833], "date": "2025-11-22"}, // Zeugenaufruf Ichtershausen, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2025-11-22"}, // Reihenhaus Ludwigsburg, Einbruch
 //{"coords": [], "date": "2025-11-22"} // Herzfeld, Raub
+{"coords": [8.6306, 53.05], "date": "2025-11-22"}, // Hasportsee Delmenhorst, Raub
+{"coords": [7.4547, 53.2311], "date": "2025-11-22"}, // Leer, Einbruch
