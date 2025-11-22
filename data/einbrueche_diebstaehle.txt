@@ -1573,3 +1573,4 @@
 //{"coords": [], "date": "2025-11-22"} // Schweinheimer Kirchl Jockgrim, Einbruch
 //{"coords": [], "date": "2025-11-22"} // Bankmitarbeitern-- Bremen, entwendet
 {"coords": [8.2869, 52.7303], "date": "2025-11-22"}, // Vechta, Diebstahl
+//{"coords": [], "date": "2025-11-22"} // Barbelroth, Einbruch
