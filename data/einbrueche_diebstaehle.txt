@@ -1579,3 +1579,4 @@
 {"coords": [8.4311, 49.3194], "date": "2025-11-22"}, // Gemeinschaftlicher Ladendiebstahl Speyer, Diebstahl
 {"coords": [7.7806, 53.5769], "date": "2025-11-22"}, // Wittmund, Diebstahl
 {"coords": [8.2, 53.0667], "date": "2025-11-22"}, // Wardenburg Delmenhorst, Einbrüche
+{"coords": [11.0299, 50.9848], "date": "2025-11-22"}, // Einkaufsfahrt Erfurt, Diebstahl
