@@ -1588,3 +1588,4 @@
 //{"coords": [], "date": "2025-11-22"} // Sessenhausen, gestohlen
 {"coords": [8.2869, 52.7303], "date": "2025-11-22"}, // Vechta, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2025-11-22"}, // Limburg, Einbrüche
+{"coords": [9.95, 52.15], "date": "2025-11-22"}, // Dunsen Hildesheim, Einbruch
