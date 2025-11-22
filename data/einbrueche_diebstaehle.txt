@@ -1568,3 +1568,6 @@
 //{"coords": [], "date": "2025-11-22"} // Herzfeld, Raub
 {"coords": [8.6306, 53.05], "date": "2025-11-22"}, // Hasportsee Delmenhorst, Raub
 {"coords": [7.4547, 53.2311], "date": "2025-11-22"}, // Leer, Einbruch
+{"coords": [6.8889, 49.9858], "date": "2025-11-22"}, // Rollators Wittlich, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2025-11-22"}, // Nordhorn, Einbruch
+//{"coords": [], "date": "2025-11-22"} // Schweinheimer Kirchl Jockgrim, Einbruch
