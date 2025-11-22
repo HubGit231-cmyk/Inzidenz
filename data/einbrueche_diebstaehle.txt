@@ -1583,3 +1583,4 @@
 {"coords": [7.8492, 48.1214], "date": "2025-11-22"}, // Emmendingen, Einbruch
 {"coords": [8.7758, 50.0106], "date": "2025-11-22"}, // Dietzenbach, Einbrecher
 //{"coords": [], "date": "2025-11-22"} // Straße, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-22"}, // Freiburg, Diebstahl
