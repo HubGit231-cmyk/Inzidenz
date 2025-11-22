@@ -1565,3 +1565,4 @@
 {"coords": [6.5492, 51.2631], "date": "2025-11-22"}, // Willich, Einbrecher
 {"coords": [10.9667, 50.8833], "date": "2025-11-22"}, // Zeugenaufruf Ichtershausen, Diebstahl
 {"coords": [9.1919, 48.8975], "date": "2025-11-22"}, // Reihenhaus Ludwigsburg, Einbruch
+//{"coords": [], "date": "2025-11-22"} // Herzfeld, Raub
