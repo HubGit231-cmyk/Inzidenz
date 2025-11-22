@@ -1576,3 +1576,6 @@
 //{"coords": [], "date": "2025-11-22"} // Barbelroth, Einbruch
 {"coords": [8.6944, 49.4092], "date": "2025-11-22"}, // Waffe Heidelberg, Diebstahl
 //{"coords": [], "date": "2025-11-22"} // Zeugenaufruf Frankfurt, Raub
+{"coords": [8.4311, 49.3194], "date": "2025-11-22"}, // Gemeinschaftlicher Ladendiebstahl Speyer, Diebstahl
+{"coords": [7.7806, 53.5769], "date": "2025-11-22"}, // Wittmund, Diebstahl
+{"coords": [8.2, 53.0667], "date": "2025-11-22"}, // Wardenburg Delmenhorst, Einbrüche
