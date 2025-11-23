@@ -1660,3 +1660,4 @@
 {"coords": [9.95, 52.15], "date": "2025-11-23"}, // Stadtgebiet Sarstedt Hildesheim, Einbrüche
 //{"coords": [], "date": "2025-11-23"} // Maschine Guckheim, Diebstahl
 {"coords": [8.4311, 49.3194], "date": "2025-11-23"}, // Einkaufsmarkt Speyer, Diebstähle
+//{"coords": [], "date": "2025-11-23"} // Ilvesheim, Raub
