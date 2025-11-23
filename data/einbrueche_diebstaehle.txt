@@ -1653,3 +1653,10 @@
 //{"coords": [], "date": "2025-11-23"} // Dieseldiebstahl Kurscheid, Diebstahl
 {"coords": [8.24, 50.0822], "date": "2025-11-23"}, // Wiesbaden, Einbrecher
 //{"coords": [], "date": "2025-11-23"} // Thiede, Einbruch
+{"coords": [8.0667, 50.3833], "date": "2025-11-23"}, // Limburg, Einbruch
+{"coords": [10.7183, 50.9489], "date": "2025-11-23"}, // Landkreis Gotha, Einbruch
+{"coords": [10.6833, 48.7833], "date": "2025-11-23"}, // Harburg, Einbrüche
+{"coords": [10.7183, 50.9489], "date": "2025-11-23"}, // Landkreis Gotha, entwendet
+{"coords": [9.95, 52.15], "date": "2025-11-23"}, // Stadtgebiet Sarstedt Hildesheim, Einbrüche
+//{"coords": [], "date": "2025-11-23"} // Maschine Guckheim, Diebstahl
+{"coords": [8.4311, 49.3194], "date": "2025-11-23"}, // Einkaufsmarkt Speyer, Diebstähle
