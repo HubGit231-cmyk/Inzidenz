@@ -1627,3 +1627,4 @@
 //{"coords": [], "date": "2025-11-23"} // Kein Ort gefunden, gestohlen
 {"coords": [7.2162, 51.4818], "date": "2025-11-23"}, // Zeugen Bochum, Diebstahl
 //{"coords": [], "date": "2025-11-23"} // Polizei Mettmann POL-ME, gestohlen
+{"coords": [11.0767, 49.4521], "date": "2025-11-23"}, // Nürnberg, Raub
