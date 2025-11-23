@@ -1626,3 +1626,4 @@
 {"coords": [8.5889, 52.9083], "date": "2025-11-23"}, // Harpstedt Delmenhorst, Einbruch
 //{"coords": [], "date": "2025-11-23"} // Kein Ort gefunden, gestohlen
 {"coords": [7.2162, 51.4818], "date": "2025-11-23"}, // Zeugen Bochum, Diebstahl
+//{"coords": [], "date": "2025-11-23"} // Polizei Mettmann POL-ME, gestohlen
