@@ -1651,3 +1651,5 @@
 {"coords": [6.8889, 49.9858], "date": "2025-11-23"}, // Zusammenhang Wittlich, Einbruch
 {"coords": [10.4, 53.25], "date": "2025-11-23"}, // Lüneburg, Einbruch
 //{"coords": [], "date": "2025-11-23"} // Dieseldiebstahl Kurscheid, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2025-11-23"}, // Wiesbaden, Einbrecher
+//{"coords": [], "date": "2025-11-23"} // Thiede, Einbruch
