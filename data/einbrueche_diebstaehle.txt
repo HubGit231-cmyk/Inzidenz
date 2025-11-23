@@ -1663,3 +1663,4 @@
 //{"coords": [], "date": "2025-11-23"} // Ilvesheim, Raub
 {"coords": [8.875, 53.05], "date": "2025-11-23"}, // Osterholz, Einbruch
 {"coords": [7.6158, 50.8767], "date": "2025-11-23"}, // Einsatz Waldbröl, Raub
+//{"coords": [], "date": "2025-11-23"} // Jährigen Gillenfeld, Diebstahl
