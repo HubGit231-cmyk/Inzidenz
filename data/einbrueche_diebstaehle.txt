@@ -1593,3 +1593,4 @@
 {"coords": [7.2197, 51.5428], "date": "2025-11-22"}, // Herne, Raub
 {"coords": [7.2162, 51.4818], "date": "2025-11-23"}, // Zeugen Bochum, Einbruch
 {"coords": [6.4833, 50.8], "date": "2025-11-23"}, // Düren, Dieb
+{"coords": [7.6889, 51.5347], "date": "2025-11-23"}, // Unna, Einbruch
