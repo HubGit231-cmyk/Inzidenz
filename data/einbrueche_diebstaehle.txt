@@ -1617,3 +1617,12 @@
 //{"coords": [], "date": "2025-11-23"} // Wohnmobil-- Bremen, gestohlen
 {"coords": [10.6944, 50.6111], "date": "2025-11-23"}, // Fahrzeugaufbruch Suhl, aufbruch
 {"coords": [10.6944, 50.6111], "date": "2025-11-23"}, // Einbruch Suhl, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-11-23"}, // Einkaufszentrum Ludwigshafen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-11-23"}, // Fahrerlaubnis Aalen, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-11-23"}, // Einbruchsdiebstähle Ludwigshafen, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-23"}, // Einbruch Aalen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-11-23"}, // Automaten Erfurt, eingebrochen
+{"coords": [10.0936, 48.8372], "date": "2025-11-23"}, // Straßenverkehrsgefährdung Aalen, Einbrüche
+{"coords": [8.5889, 52.9083], "date": "2025-11-23"}, // Harpstedt Delmenhorst, Einbruch
+//{"coords": [], "date": "2025-11-23"} // Kein Ort gefunden, gestohlen
+{"coords": [7.2162, 51.4818], "date": "2025-11-23"}, // Zeugen Bochum, Diebstahl
