@@ -1661,3 +1661,4 @@
 //{"coords": [], "date": "2025-11-23"} // Maschine Guckheim, Diebstahl
 {"coords": [8.4311, 49.3194], "date": "2025-11-23"}, // Einkaufsmarkt Speyer, Diebstähle
 //{"coords": [], "date": "2025-11-23"} // Ilvesheim, Raub
+{"coords": [8.875, 53.05], "date": "2025-11-23"}, // Osterholz, Einbruch
