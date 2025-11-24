@@ -1664,3 +1664,5 @@
 {"coords": [8.875, 53.05], "date": "2025-11-23"}, // Osterholz, Einbruch
 {"coords": [7.6158, 50.8767], "date": "2025-11-23"}, // Einsatz Waldbröl, Raub
 //{"coords": [], "date": "2025-11-23"} // Jährigen Gillenfeld, Diebstahl
+{"coords": [9.95, 52.15], "date": "2025-11-24"}, // Einfamilienhaus Hildesheim, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Personen Karlshausen, eigentumsdelikt
