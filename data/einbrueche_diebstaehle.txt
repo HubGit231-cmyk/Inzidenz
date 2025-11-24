@@ -1670,3 +1670,6 @@
 {"coords": [12.0799, 50.8772], "date": "2025-11-24"}, // Treppenhaus Gera, Einbruch
 {"coords": [12.1997, 50.6544], "date": "2025-11-24"}, // Garten Greiz, Einbruch
 {"coords": [12.4333, 50.985], "date": "2025-11-24"}, // Ladendiebstahl Supermarkt Altenburg, Diebstahl
+{"coords": [8.285, 51.1492], "date": "2025-11-24"}, // Bad Fredeburg Schmallenberg, Einbruch
+{"coords": [7.2908, 52.6906], "date": "2025-11-24"}, // Einfamilienhaus Meppen, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Kein Ort gefunden, Einbruch
