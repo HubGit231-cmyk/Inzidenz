@@ -1673,3 +1673,7 @@
 {"coords": [8.285, 51.1492], "date": "2025-11-24"}, // Bad Fredeburg Schmallenberg, Einbruch
 {"coords": [7.2908, 52.6906], "date": "2025-11-24"}, // Einfamilienhaus Meppen, Einbruch
 //{"coords": [], "date": "2025-11-24"} // Kein Ort gefunden, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-11-24"}, // Einbrüche Coesfeld, Einbrüche
+{"coords": [10.0936, 48.8372], "date": "2025-11-24"}, // Sonstiges Aalen, Einbruch
+{"coords": [8.1092, 51.5711], "date": "2025-11-24"}, // Tür Soest, aufbruch
+//{"coords": [], "date": "2025-11-24"} // Wohnhaus Rüthen, Einbruch
