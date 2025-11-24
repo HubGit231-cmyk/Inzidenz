@@ -1739,3 +1739,10 @@
 //{"coords": [], "date": "2025-11-24"} // Zeugenaufruf Oberasbach, Einbruch
 {"coords": [8.1528, 52.0403], "date": "2025-11-24"}, // Versmold Gütersloh, Einbrüche
 {"coords": [7.8508, 51.0281], "date": "2025-11-24"}, // Olpe, Diebstahl
+//{"coords": [], "date": "2025-11-24"} // Kreis, Einbruch
+{"coords": [10.7865, 52.4226], "date": "2025-11-24"}, // Bäckereifiliale Wolfsburg, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-11-24"}, // Reutlingen, Raub
+{"coords": [9.4108, 53.1111], "date": "2025-11-24"}, // Rotenburg, entwendet
+//{"coords": [], "date": "2025-11-24"} // Trunkenheitsfahrt Buchholz, gestohlen
+//{"coords": [], "date": "2025-11-24"} // POL-PDNR, Diebstahl
+{"coords": [9.1753, 47.6633], "date": "2025-11-24"}, // Konstanz, Einbruch
