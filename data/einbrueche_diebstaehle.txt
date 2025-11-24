@@ -1699,3 +1699,14 @@
 {"coords": [7.9833, 51.95], "date": "2025-11-24"}, // Lagerhalle Warendorf, Einbruch
 {"coords": [8.9519, 49.9667], "date": "2025-11-24"}, // Babenhausen, Einbruch
 //{"coords": [], "date": "2025-11-24"} // Sachschaden von rund, Einbruch
+{"coords": [9.1167, 50.85], "date": "2025-11-24"}, // Polizeidirektion Neustadt, Einbruch
+//{"coords": [], "date": "2025-11-24"} // In Halverde Hopsten, Dieb
+{"coords": [8.8678, 49.9228], "date": "2025-11-24"}, // Münster, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-11-24"}, // Warendorf, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Ltensteig, Einbruch
+{"coords": [7.8333, 51.7], "date": "2025-11-24"}, // Heessen, Einbrecher
+//{"coords": [], "date": "2025-11-24"} // Feuerwehrgerätehaus Rennerod Rennerod, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-11-24"}, // Zeugen Homberg, Diebstahl
+{"coords": [9.9916, 48.3984], "date": "2025-11-24"}, // Ulm, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-24"}, // Ulm, Dieb
+{"coords": [6.7735, 51.2277], "date": "2025-11-24"}, // Düsseldorf, Einbrecher
