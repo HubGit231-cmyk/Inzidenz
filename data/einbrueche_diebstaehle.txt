@@ -1710,3 +1710,11 @@
 {"coords": [9.9916, 48.3984], "date": "2025-11-24"}, // Ulm, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2025-11-24"}, // Ulm, Dieb
 {"coords": [6.7735, 51.2277], "date": "2025-11-24"}, // Düsseldorf, Einbrecher
+{"coords": [8.0472, 52.2799], "date": "2025-11-24"}, // Osnabrück, Einbrüche
+{"coords": [9.9158, 51.5413], "date": "2025-11-24"}, // Göttingen, Diebstahl
+{"coords": [6.6961, 50.8719], "date": "2025-11-24"}, // Zeugensuche Kerpen, entwendet
+{"coords": [9.1919, 48.8975], "date": "2025-11-24"}, // Ludwigsburg, Einbruch
+{"coords": [7.8333, 51.7], "date": "2025-11-24"}, // Heessen, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Einfamilienhaus Meinborn, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Lautzert, Diebstahl
+{"coords": [10.7865, 52.4226], "date": "2025-11-24"}, // Wolfsburg, Dieb
