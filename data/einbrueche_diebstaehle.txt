@@ -1681,3 +1681,7 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-24"}, // Aalen, Einbruch
 {"coords": [7.1675, 51.9436], "date": "2025-11-24"}, // Einbruch Coesfeld, Einbruch
 {"coords": [8.1092, 51.5711], "date": "2025-11-24"}, // Soest, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Lipperode, Einbruch
+{"coords": [7.1675, 51.9436], "date": "2025-11-24"}, // Coesfeld, entwendet
+{"coords": [8.7069, 49.5622], "date": "2025-11-24"}, // Zeugen Birkenau, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Kein Ort gefunden, Diebstahl
