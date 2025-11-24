@@ -1750,3 +1750,10 @@
 {"coords": [10.4, 53.25], "date": "2025-11-24"}, // Lüneburg, Einbruch
 //{"coords": [], "date": "2025-11-24"} // Personen Karlshausen, gestohlen
 {"coords": [9.2108, 49.1425], "date": "2025-11-24"}, // Handlungen Heilbronn, Einbrüche
+//{"coords": [], "date": "2025-11-24"} // Alfter, Einbruch
+{"coords": [10.5464, 52.4886], "date": "2025-11-24"}, // Gifhorn, Einbruch
+//{"coords": [], "date": "2025-11-24"} // Lippe, Dieb
+//{"coords": [], "date": "2025-11-24"} // Lippe, Diebstahl
+//{"coords": [], "date": "2025-11-24"} // Lippe, Einbrecher
+//{"coords": [], "date": "2025-11-24"} // Lippe, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-11-24"}, // Zuhause Ludwigsburg, Einbrüche
