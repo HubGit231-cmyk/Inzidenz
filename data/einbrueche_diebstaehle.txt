@@ -1832,3 +1832,6 @@
 //{"coords": [], "date": "2025-11-25"} // Wohnmobil Hadenfeld, Einbruch
 //{"coords": [], "date": "2025-11-25"} // Elsen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-25"}, // Unfälle Aalen, Diebstahl
+//{"coords": [], "date": "2025-11-25"} // Bergisch Gladbacher Stadtgebiet Bergisch Gladbach, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Baucontainer Birlenbach, Einbrüche
+//{"coords": [], "date": "2025-11-25"} // Vluyn, Diebstahl
