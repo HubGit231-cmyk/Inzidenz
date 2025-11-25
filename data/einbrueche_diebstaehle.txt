@@ -1871,3 +1871,7 @@
 //{"coords": [], "date": "2025-11-25"} // Nordwestmecklenburg auf, aufbrüche
 {"coords": [8.2036, 48.8572], "date": "2025-11-25"}, // Rastatt, Einbruch
 //{"coords": [], "date": "2025-11-25"} // Kreis, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2025-11-25"}, // Gaststätte Fulda, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Abtsteinach, Einbrecher
+//{"coords": [], "date": "2025-11-25"} // Wohnungseinbruch Meinerzhagen, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Bagger Landkreis Sömmerda, Dieb
