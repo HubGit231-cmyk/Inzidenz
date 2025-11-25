@@ -1883,3 +1883,7 @@
 //{"coords": [], "date": "2025-11-25"} // Baucontainer Werdohl, Einbruch
 {"coords": [7.8667, 51.2167], "date": "2025-11-25"}, // Taschendieben Plettenberg, Dieb
 {"coords": [7.2061, 53.3669], "date": "2025-11-25"}, // Emden, Diebstahl
+{"coords": [10.4, 53.25], "date": "2025-11-25"}, // Lüneburg, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Polizei Porta Westfalica, Einbruch
+{"coords": [7.0982, 50.7374], "date": "2025-11-25"}, // Bonn Bonn, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Kein Ort gefunden, Diebstahl
