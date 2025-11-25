@@ -1855,3 +1855,9 @@
 {"coords": [8.7167, 50.9], "date": "2025-11-25"}, // Wetter, Diebstahl
 {"coords": [7.0116, 51.4556], "date": "2025-11-25"}, // Raubstraftat Essen, Raub
 {"coords": [6.7735, 51.2277], "date": "2025-11-25"}, // Düsseldorf, Einbrecher
+{"coords": [7.7156, 52.2778], "date": "2025-11-25"}, // Frisörsalon Ibbenbüren, Einbruch
+{"coords": [6.9019, 50.8331], "date": "2025-11-25"}, // Zeugensuche Brühl, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-11-25"}, // Ulm, Dieb
+{"coords": [6.6717, 51.2614], "date": "2025-11-25"}, // Meerbusch, entwendet
+{"coords": [9.3833, 50.6333], "date": "2025-11-25"}, // Münzgeld Vogelsbergkreis, Diebstahl
+{"coords": [8.0167, 49.6667], "date": "2025-11-25"}, // Fliesen Kirchheimbolanden, Diebstahl
