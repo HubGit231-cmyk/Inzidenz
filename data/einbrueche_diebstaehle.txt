@@ -1907,3 +1907,12 @@
 {"coords": [8.4592, 49.6436], "date": "2025-11-25"}, // Bürstadt, entwendet
 {"coords": [6.85, 49.3], "date": "2025-11-25"}, // Bad Schwalbach, gestohlen
 //{"coords": [], "date": "2025-11-25"} // Höhe, Einbrüche
+{"coords": [9.375, 54.0208], "date": "2025-11-25"}, // Wacken, aufbrüche
+{"coords": [8.24, 50.0822], "date": "2025-11-25"}, // Unfall Wiesbaden, Einbrüche
+{"coords": [7.1833, 50.9], "date": "2025-11-25"}, // Rastanlage Rösrath, gestohlen
+{"coords": [13.0639, 53.3611], "date": "2025-11-25"}, // Euro Neustrelitz, stehlen
+{"coords": [7.9447, 48.4731], "date": "2025-11-25"}, // Offenburg, entwendet
+{"coords": [9.9833, 53.3833], "date": "2025-11-25"}, // Hittfeld, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2025-11-25"}, // Aalen, Diebstahl
+//{"coords": [], "date": "2025-11-25"} // Iggelheim, stehlen
+{"coords": [8.0667, 50.3833], "date": "2025-11-25"}, // Limburg, Einbrecher
