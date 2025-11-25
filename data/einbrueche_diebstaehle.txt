@@ -1923,3 +1923,4 @@
 //{"coords": [], "date": "2025-11-25"} // Zeugen Lachendorf, Raub
 {"coords": [6.5492, 51.2631], "date": "2025-11-25"}, // Willich, gestohlen
 {"coords": [6.5617, 51.3317], "date": "2025-11-25"}, // Krefeld, Einbruch
+{"coords": [13.0639, 53.3611], "date": "2025-11-25"}, // Neustrelitz, eingebrochen
