@@ -1837,3 +1837,13 @@
 //{"coords": [], "date": "2025-11-25"} // Vluyn, Diebstahl
 {"coords": [7.8, 51.4333], "date": "2025-11-25"}, // Blick Menden, stahl
 //{"coords": [], "date": "2025-11-25"} // Bergisch Gladbach, Diebstahl
+{"coords": [7.8208, 51.6803], "date": "2025-11-25"}, // Hamm, Räuber
+{"coords": [10.3333, 52.15], "date": "2025-11-25"}, // Salzgitter, Diebstahl
+{"coords": [8.5861, 52.1983], "date": "2025-11-25"}, // Zeugen Bünde, Diebstahl
+{"coords": [8.6944, 53.8619], "date": "2025-11-25"}, // Tageswohnungseinbruch Cuxhaven, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2025-11-25"}, // Diepholz, Diebstähle
+{"coords": [7.1856, 51.3994], "date": "2025-11-25"}, // Hattingen, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2025-11-25"}, // einem Supermarkt ist der Polizei Rotenburg ein schneller Fahndungserfolg gelungen. Die Beamten konnten alle Beschuldigten stellen und das Diebesgut sicherstellen. Nach bisherigem Ermittlungsstand wählte ein Zeuge den Polizeinotruf, nachdem er im, Diebstahl
+{"coords": [10.1228, 54.3233], "date": "2025-11-25"}, // Kiel, Raub
+//{"coords": [], "date": "2025-11-25"} // Lohmarer Einfamilienhaus Lohmar, Einbruch
+{"coords": [7.2431, 51.3464], "date": "2025-11-25"}, // Sprockhövel, Einbruch
