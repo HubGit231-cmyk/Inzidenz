@@ -1835,3 +1835,5 @@
 //{"coords": [], "date": "2025-11-25"} // Bergisch Gladbacher Stadtgebiet Bergisch Gladbach, Einbruch
 //{"coords": [], "date": "2025-11-25"} // Baucontainer Birlenbach, Einbrüche
 //{"coords": [], "date": "2025-11-25"} // Vluyn, Diebstahl
+{"coords": [7.8, 51.4333], "date": "2025-11-25"}, // Blick Menden, stahl
+//{"coords": [], "date": "2025-11-25"} // Bergisch Gladbach, Diebstahl
