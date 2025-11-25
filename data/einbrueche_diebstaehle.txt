@@ -1861,3 +1861,13 @@
 {"coords": [6.6717, 51.2614], "date": "2025-11-25"}, // Meerbusch, entwendet
 {"coords": [9.3833, 50.6333], "date": "2025-11-25"}, // Münzgeld Vogelsbergkreis, Diebstahl
 {"coords": [8.0167, 49.6667], "date": "2025-11-25"}, // Fliesen Kirchheimbolanden, Diebstahl
+{"coords": [8.1128, 49.1994], "date": "2025-11-25"}, // Wochenende Landau, Einbrüche
+//{"coords": [], "date": "2025-11-25"} // Rüsselsheim, Einbruch
+{"coords": [8.6167, 49.6833], "date": "2025-11-25"}, // Bensheim, Einbrüche
+{"coords": [11.5164, 51.0264], "date": "2025-11-25"}, // Apolda, Diebstahl
+{"coords": [9.2167, 48.4833], "date": "2025-11-25"}, // Reutlingen, Einbrüche
+{"coords": [11.1, 48.7167], "date": "2025-11-25"}, // Oberhausen Ein Dokument mehr, Einbruch
+{"coords": [8.0472, 52.2799], "date": "2025-11-25"}, // Zeugen Osnabrück, Raub
+//{"coords": [], "date": "2025-11-25"} // Nordwestmecklenburg auf, aufbrüche
+{"coords": [8.2036, 48.8572], "date": "2025-11-25"}, // Rastatt, Einbruch
+//{"coords": [], "date": "2025-11-25"} // Kreis, Einbruch
