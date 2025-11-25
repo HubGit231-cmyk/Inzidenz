@@ -1805,3 +1805,4 @@
 {"coords": [9.8372, 54.4714], "date": "2025-11-25"}, // Eckernförde Eckernförde, Einbruch
 //{"coords": [], "date": "2025-11-25"} // Baucontainer Emsbüren, Einbruch
 {"coords": [7.0667, 52.4333], "date": "2025-11-25"}, // Nordhorn, Einbruch
+{"coords": [7.4167, 52.6], "date": "2025-11-25"}, // Zeugen Bawinkel, Einbrüche
