@@ -2049,3 +2049,4 @@
 {"coords": [7.82, 47.99], "date": "2025-11-26"}, // Wohngebäude Freiburg, Einbruch
 //{"coords": [], "date": "2025-11-26"} // Ortsbereich Haßloch, Diebstahl
 //{"coords": [], "date": "2025-11-26"} // Niederfeld, Einbruch
+{"coords": [9.95, 52.15], "date": "2025-11-26"}, // Zeugenaufruf Hildesheim, Einbruch
