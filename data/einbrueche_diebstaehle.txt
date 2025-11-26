@@ -2019,3 +2019,11 @@
 {"coords": [8.4353, 49.4811], "date": "2025-11-26"}, // Wohnung Ludwigshafen, Einbruch
 {"coords": [8.1128, 49.1994], "date": "2025-11-26"}, // Wohnungen Landau, Einbrüche
 {"coords": [10.5464, 52.4886], "date": "2025-11-26"}, // Gifhorn, Diebstahl
+//{"coords": [], "date": "2025-11-26"} // Heek, entwendet
+//{"coords": [], "date": "2025-11-26"} // Baucontainer Gronau, Einbruch
+{"coords": [8.6944, 53.8619], "date": "2025-11-26"}, // Cuxhaven, Diebstahl
+{"coords": [6.8761, 50.8778], "date": "2025-11-26"}, // Zeugensuche Hürth, Raub
+//{"coords": [], "date": "2025-11-26"} // Wohnungseinbruch Dinslaken, Einbruch
+{"coords": [7.2, 51.6167], "date": "2025-11-26"}, // Recklinghausen, Einbruch
+{"coords": [7.4653, 51.5136], "date": "2025-11-26"}, // Dortmund, Raub
+{"coords": [6.6264, 51.4519], "date": "2025-11-26"}, // Tabakdiebstahl Moers, Diebstahl
