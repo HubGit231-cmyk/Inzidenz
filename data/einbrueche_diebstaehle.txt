@@ -2028,3 +2028,11 @@
 {"coords": [7.4653, 51.5136], "date": "2025-11-26"}, // Dortmund, Raub
 {"coords": [6.6264, 51.4519], "date": "2025-11-26"}, // Tabakdiebstahl Moers, Diebstahl
 {"coords": [9.5, 51.3167], "date": "2025-11-26"}, // Zeugen Kassel, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Höhe, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2025-11-26"}, // Ludwigshafen, Diebstahl
+{"coords": [7.7806, 53.5769], "date": "2025-11-26"}, // Landkreis Wittmund, Dieb
+//{"coords": [], "date": "2025-11-26"} // Weinsheim, Einbruch
+{"coords": [6.85, 49.3], "date": "2025-11-26"}, // Bad Schwalbach, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Hofheim, Einbrecher
+{"coords": [8.5833, 53.55], "date": "2025-11-26"}, // Mitte, Dieb
+{"coords": [8.4353, 49.4811], "date": "2025-11-26"}, // Fahrraddiebstahl Ludwigshafen, Diebstahl
