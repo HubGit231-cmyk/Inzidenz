@@ -1995,3 +1995,15 @@
 {"coords": [8.8678, 49.9228], "date": "2025-11-26"}, // Zeugen Münster, Einbruch
 //{"coords": [], "date": "2025-11-26"} // Einbrüche Hemer, Einbrüche
 //{"coords": [], "date": "2025-11-26"} // Spaichingen, eingebrochen
+{"coords": [10.7183, 50.9489], "date": "2025-11-26"}, // Gotha, Diebstahl
+{"coords": [10.5267, 52.2689], "date": "2025-11-26"}, // Braunschweig, Diebstahl
+{"coords": [11.0767, 49.4521], "date": "2025-11-26"}, // Nürnberg, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Kein Ort gefunden, Diebstahl
+{"coords": [7.7689, 49.4447], "date": "2025-11-26"}, // Kaiserslautern, Einbrecher
+{"coords": [7.1, 51.5167], "date": "2025-11-26"}, // Gelsenkirchen, Raub
+{"coords": [9.9916, 48.3984], "date": "2025-11-26"}, // Ulm, Einbruch
+{"coords": [7.7689, 49.4447], "date": "2025-11-26"}, // Kaiserslautern, Dieb
+{"coords": [8.4661, 49.4878], "date": "2025-11-26"}, // Zeugenaufruf Mannheim, Einbrecher
+//{"coords": [], "date": "2025-11-26"} // Einbrüchen Ellerau, Einbrüche
+//{"coords": [], "date": "2025-11-26"} // Lippe, eingebrochen
+//{"coords": [], "date": "2025-11-26"} // vor Taschendieben schützen kann mehr, Dieb
