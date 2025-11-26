@@ -2013,3 +2013,9 @@
 {"coords": [10.5267, 52.2689], "date": "2025-11-26"}, // Diebstahl Braunschweig, Diebstahl
 {"coords": [10.55, 49.15], "date": "2025-11-26"}, // Zeugenaufruf Bechhofen, Diebstahl
 {"coords": [7.2061, 53.3669], "date": "2025-11-26"}, // Emden, Diebstähle
+{"coords": [7.1508, 51.2562], "date": "2025-11-26"}, // Wuppertal, Dieb
+//{"coords": [], "date": "2025-11-26"} // Hedelfingen, eingebrochen
+{"coords": [7.3608, 49.2492], "date": "2025-11-26"}, // Zeugenaufruf Zweibrücken, Diebstähle
+{"coords": [8.4353, 49.4811], "date": "2025-11-26"}, // Wohnung Ludwigshafen, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2025-11-26"}, // Wohnungen Landau, Einbrüche
+{"coords": [10.5464, 52.4886], "date": "2025-11-26"}, // Gifhorn, Diebstahl
