@@ -1932,3 +1932,5 @@
 {"coords": [8.8431, 49.8978], "date": "2025-11-26"}, // Zeugenaufruf Dieburg, Dieb
 {"coords": [9.95, 52.15], "date": "2025-11-26"}, // Hildesheim, Einbruch
 {"coords": [8.9167, 50.1333], "date": "2025-11-26"}, // Tatverdächtigen Hanau, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-11-26"}, // Parkrempler Aalen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-11-26"}, // Wertstoffhof Erfurt, Diebstahl
