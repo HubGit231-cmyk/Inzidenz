@@ -2027,3 +2027,4 @@
 {"coords": [7.2, 51.6167], "date": "2025-11-26"}, // Recklinghausen, Einbruch
 {"coords": [7.4653, 51.5136], "date": "2025-11-26"}, // Dortmund, Raub
 {"coords": [6.6264, 51.4519], "date": "2025-11-26"}, // Tabakdiebstahl Moers, Diebstahl
+{"coords": [9.5, 51.3167], "date": "2025-11-26"}, // Zeugen Kassel, Einbruch
