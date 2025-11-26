@@ -1974,3 +1974,9 @@
 //{"coords": [], "date": "2025-11-26"} // Rödinghausen, Einbruch
 {"coords": [8.5833, 48.95], "date": "2025-11-26"}, // Remchingen, Einbrüche
 //{"coords": [], "date": "2025-11-26"} // Mehrfamilienhaus Asbach, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-26"}, // Freiburg, Raub
+{"coords": [6.3319, 51.5194], "date": "2025-11-26"}, // Geldern, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Hinweise Rheinberg, Einbruch
+{"coords": [10.4508, 50.7211], "date": "2025-11-26"}, // Schmalkalden, geklaut
+//{"coords": [], "date": "2025-11-26"} // Bodenseekreis, aufbrüche
+{"coords": [8.2869, 52.7303], "date": "2025-11-26"}, // Vechta, Diebstahl
