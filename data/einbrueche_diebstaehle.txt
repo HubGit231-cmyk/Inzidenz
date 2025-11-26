@@ -2045,3 +2045,5 @@
 {"coords": [10.7753, 49.7544], "date": "2025-11-26"}, // Zeugen Mühlhausen, Einbruch
 //{"coords": [], "date": "2025-11-26"} // Ost, Einbrecher
 {"coords": [9.2167, 48.4833], "date": "2025-11-26"}, // Verkehrsunfall Reutlingen, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-26"}, // Bäckerei Freiburg, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-26"}, // Wohngebäude Freiburg, Einbruch
