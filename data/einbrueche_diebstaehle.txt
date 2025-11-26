@@ -1949,3 +1949,6 @@
 //{"coords": [], "date": "2025-11-26"} // Pkw Fürthen, Diebstähle
 {"coords": [8.705, 48.895], "date": "2025-11-26"}, // Zeugen Pforzheim, Einbruch
 //{"coords": [], "date": "2025-11-26"} // Hövel Sundern, Einbruch
+{"coords": [10.4, 52.6833], "date": "2025-11-26"}, // Steinhorst, Einbruch
+{"coords": [7.1833, 50.9], "date": "2025-11-26"}, // Rösrath, Diebstahl
+{"coords": [8.1361, 53.3969], "date": "2025-11-26"}, // Varel Varel, Einbruch
