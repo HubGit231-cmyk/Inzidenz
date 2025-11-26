@@ -1988,3 +1988,10 @@
 //{"coords": [], "date": "2025-11-26"} // der Schulstraße und Wachsenburgstraße gewaltsam mehrere Kellerräume dortiger Mehrfamilienhäuser auf und entwendeten insgesamt vier Fahrräder. Beim Diebesgut handelt es sich um, Diebstähle
 {"coords": [7.82, 47.99], "date": "2025-11-26"}, // Gaststätte Freiburg, Einbruch
 {"coords": [7.82, 47.99], "date": "2025-11-26"}, // Freiburg, Einbrüche
+{"coords": [10.0831, 52.6247], "date": "2025-11-26"}, // Celle, Einbruch
+{"coords": [7.9447, 48.4731], "date": "2025-11-26"}, // Offenburg, Dieb
+//{"coords": [], "date": "2025-11-26"} // Bike Bad Langensalza, Dieb
+{"coords": [7.2931, 51.2861], "date": "2025-11-26"}, // Schmuck Schwelm, Einbruch
+{"coords": [8.8678, 49.9228], "date": "2025-11-26"}, // Zeugen Münster, Einbruch
+//{"coords": [], "date": "2025-11-26"} // Einbrüche Hemer, Einbrüche
+//{"coords": [], "date": "2025-11-26"} // Spaichingen, eingebrochen
