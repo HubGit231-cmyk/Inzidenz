@@ -2097,3 +2097,4 @@
 //{"coords": [], "date": "2025-11-27"} // Einbruchsversuch Hohenlohekreis, Einbruch
 //{"coords": [], "date": "2025-11-27"} // Schaumburg, Einbrüche
 {"coords": [6.7623, 51.4344], "date": "2025-11-27"}, // Zeugensuche Duisburg, Raub
+{"coords": [8.3708, 52.6078], "date": "2025-11-27"}, // Diepholz, Einbruch
