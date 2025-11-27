@@ -2074,3 +2074,4 @@
 //{"coords": [], "date": "2025-11-27"} // Lippe, eingebrochen
 //{"coords": [], "date": "2025-11-27"} // Lippe, Dieb
 {"coords": [6.2917, 51.7392], "date": "2025-11-27"}, // Einsatz Kalkar, Raub
+//{"coords": [], "date": "2025-11-27"} // Schmuck Rees, Einbruch
