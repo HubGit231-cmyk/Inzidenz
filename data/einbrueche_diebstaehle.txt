@@ -2114,3 +2114,12 @@
 {"coords": [7.5314, 52.5536], "date": "2025-11-27"}, // Lengerich, gestohlen
 {"coords": [9.6775, 50.5528], "date": "2025-11-27"}, // Landkreis Fulda Fulda, Einbruch
 {"coords": [7.2197, 51.5428], "date": "2025-11-27"}, // Pkw Herne, Diebstahl
+{"coords": [9.0, 50.7333], "date": "2025-11-27"}, // Zeugen Homberg, Einbruch
+{"coords": [9.2108, 49.1425], "date": "2025-11-27"}, // Widerstand Heilbronn, Einbrüche
+{"coords": [11.0299, 50.9848], "date": "2025-11-27"}, // Erfurt, Dieb
+{"coords": [11.0299, 50.9848], "date": "2025-11-27"}, // Erfurt, Raub
+//{"coords": [], "date": "2025-11-27"} // Bremerhaven, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-11-27"}, // Ludwigshafen, Einbruch
+//{"coords": [], "date": "2025-11-27"} // Kein Ort gefunden, Einbruch
+//{"coords": [], "date": "2025-11-27"} // die Hauptstraße aus. Ein, entwendet
+{"coords": [8.2869, 52.7303], "date": "2025-11-27"}, // Vechta, Diebstahl
