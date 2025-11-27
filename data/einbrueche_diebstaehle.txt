@@ -2059,3 +2059,13 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-27"}, // Einbrüche Aalen, Einbruch
 {"coords": [7.3333, 51.4333], "date": "2025-11-27"}, // Witten, gestohlen
 {"coords": [10.0936, 48.8372], "date": "2025-11-27"}, // Sonstiges Aalen, Diebstahl
+{"coords": [8.8431, 49.8978], "date": "2025-11-27"}, // Dieburg, Dieb
+//{"coords": [], "date": "2025-11-27"} // Altenhagen, Diebstahl
+{"coords": [8.5833, 53.55], "date": "2025-11-27"}, // Mitte, stahl
+{"coords": [8.1075, 53.5219], "date": "2025-11-27"}, // Zeugen Wilhelmshaven, Raub
+{"coords": [9.4764, 53.6008], "date": "2025-11-27"}, // Buxtehuder Einfamilienhaus Stade, Einbrecher
+{"coords": [8.6031, 49.8056], "date": "2025-11-27"}, // Auto Pfungstadt, Einbruch
+{"coords": [7.6333, 51.2167], "date": "2025-11-27"}, // Lüdenscheid, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2025-11-27"}, // Einfamilienhaus Greiz, Einbruch
+{"coords": [10.0, 51.7064], "date": "2025-11-27"}, // Seniorin Northeim, stehlen
+{"coords": [10.0936, 48.8372], "date": "2025-11-27"}, // Unfall Aalen, Einbrüche
