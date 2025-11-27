@@ -2138,3 +2138,6 @@
 {"coords": [10.4, 53.25], "date": "2025-11-27"}, // Lüneburg, Diebstahl
 //{"coords": [], "date": "2025-11-27"} // Giessen, Dieb
 {"coords": [7.8847, 50.7778], "date": "2025-11-27"}, // Alsdorf, Raub
+{"coords": [10.0936, 48.8372], "date": "2025-11-27"}, // Verkehrsunfälle Aalen, Einbruch
+//{"coords": [], "date": "2025-11-27"} // Bad Oeynhausen, aufbruch
+{"coords": [6.85, 49.3], "date": "2025-11-27"}, // Polizeibeamter Bad Schwalbach, Einbrecher
