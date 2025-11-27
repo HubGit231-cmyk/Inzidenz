@@ -2129,3 +2129,12 @@
 //{"coords": [], "date": "2025-11-27"} // Kreis, gestohlen
 {"coords": [7.9833, 51.95], "date": "2025-11-27"}, // Parallelweg Warendorf, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2025-11-27"}, // Zeugen Nordhausen, Diebstahl
+{"coords": [8.0667, 50.3833], "date": "2025-11-27"}, // Limburg, Einbruch
+{"coords": [8.6306, 53.05], "date": "2025-11-27"}, // Lemwerder Delmenhorst, aufbruch
+{"coords": [8.24, 50.0822], "date": "2025-11-27"}, // Wiesbaden, Einbrüche
+{"coords": [9.2167, 48.4833], "date": "2025-11-27"}, // Reutlingen, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-11-27"}, // Baucontainer Aalen, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-11-27"}, // Recklinghausen, Einbrüche
+{"coords": [10.4, 53.25], "date": "2025-11-27"}, // Lüneburg, Diebstahl
+//{"coords": [], "date": "2025-11-27"} // Giessen, Dieb
+{"coords": [7.8847, 50.7778], "date": "2025-11-27"}, // Alsdorf, Raub
