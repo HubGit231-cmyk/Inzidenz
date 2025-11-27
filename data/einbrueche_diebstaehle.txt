@@ -2051,3 +2051,11 @@
 //{"coords": [], "date": "2025-11-26"} // Niederfeld, Einbruch
 {"coords": [9.95, 52.15], "date": "2025-11-26"}, // Zeugenaufruf Hildesheim, Einbruch
 {"coords": [7.6308, 47.8081], "date": "2025-11-27"}, // Euro Müllheim, Diebstahl
+{"coords": [7.3625, 51.2981], "date": "2025-11-27"}, // Whiskyflaschen Ennepetal, aufbrüche
+//{"coords": [], "date": "2025-11-27"} // Erdungskabel Twist, Diebstahl
+{"coords": [7.4044, 53.0772], "date": "2025-11-27"}, // Zeugen Papenburg, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-11-27"}, // Hinweise Nordhorn, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2025-11-27"}, // Forstmulchers Haren, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-11-27"}, // Einbrüche Aalen, Einbruch
+{"coords": [7.3333, 51.4333], "date": "2025-11-27"}, // Witten, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2025-11-27"}, // Sonstiges Aalen, Diebstahl
