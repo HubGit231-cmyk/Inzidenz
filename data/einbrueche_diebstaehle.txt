@@ -2154,3 +2154,4 @@
 {"coords": [7.82, 47.99], "date": "2025-11-27"}, // Freiburg, entwendet
 {"coords": [7.82, 47.99], "date": "2025-11-27"}, // Kleinkrafträdern Freiburg, Diebstahl
 {"coords": [8.5889, 52.9083], "date": "2025-11-27"}, // Harpstedt, Dieb
+//{"coords": [], "date": "2025-11-27"} // Wohnung Forstmehren, Raub
