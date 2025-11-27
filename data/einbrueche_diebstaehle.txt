@@ -2150,3 +2150,6 @@
 {"coords": [8.7667, 50.1], "date": "2025-11-27"}, // Kreis Offenbach, Einbrecher
 {"coords": [7.82, 47.99], "date": "2025-11-27"}, // Freiburg, gestohlen
 {"coords": [7.82, 47.99], "date": "2025-11-27"}, // Wohnhaus Freiburg, Einbruch
+//{"coords": [], "date": "2025-11-27"} // Kevelaer, entwendet
+{"coords": [7.82, 47.99], "date": "2025-11-27"}, // Freiburg, entwendet
+{"coords": [7.82, 47.99], "date": "2025-11-27"}, // Kleinkrafträdern Freiburg, Diebstahl
