@@ -2144,3 +2144,7 @@
 {"coords": [9.8, 53.6592], "date": "2025-11-27"}, // Zeugen Pinneberg, Einbruch
 {"coords": [11.0767, 49.4521], "date": "2025-11-27"}, // Festnahme Nürnberg, Raub
 {"coords": [8.2869, 52.7303], "date": "2025-11-27"}, // Vechta, Dieb
+{"coords": [9.2167, 48.4833], "date": "2025-11-27"}, // Fahrzeugteilen Reutlingen, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2025-11-27"}, // Nordhausen, Diebstahl
+{"coords": [9.3833, 50.6333], "date": "2025-11-27"}, // Wohnhaus Vogelsbergkreis, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-11-27"}, // Kreis Offenbach, Einbrecher
