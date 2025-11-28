@@ -2245,3 +2245,16 @@
 //{"coords": [], "date": "2025-11-28"} // Rohbau Giessen, Einbruch
 {"coords": [9.4108, 53.1111], "date": "2025-11-28"}, // Rotenburg, Diebstahl
 {"coords": [8.8678, 49.9228], "date": "2025-11-28"}, // Zeugen Münster, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Gelmer, Einbruch
+{"coords": [6.85, 49.3], "date": "2025-11-28"}, // Schmuck Bad Schwalbach, klau
+{"coords": [8.24, 50.0822], "date": "2025-11-28"}, // Wiesbaden, gestohlen
+{"coords": [8.6944, 49.4092], "date": "2025-11-28"}, // Zeugenaufruf Heidelberg, Einbruch
+{"coords": [7.3333, 51.4333], "date": "2025-11-28"}, // Witten, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Kein Ort gefunden, Räuber
+{"coords": [7.82, 47.99], "date": "2025-11-28"}, // Freiburg, Diebstahl
+{"coords": [9.2108, 49.1425], "date": "2025-11-28"}, // Heilbronn, Einbrüche
+{"coords": [9.6106, 47.7828], "date": "2025-11-28"}, // Landkreis Ravensburg Landkreis Ravensburg, eingebrochen
+{"coords": [7.82, 47.99], "date": "2025-11-28"}, // Tageswohnungseinbruch Freiburg, Einbruch
+{"coords": [9.5, 51.3167], "date": "2025-11-28"}, // Kassel, gestohlen
+{"coords": [6.7872, 50.6606], "date": "2025-11-28"}, // Widerstand Euskirchen, Diebstahl
+{"coords": [9.9937, 53.5511], "date": "2025-11-28"}, // Hamburg, Dieb
