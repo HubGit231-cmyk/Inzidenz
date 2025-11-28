@@ -2232,3 +2232,8 @@
 {"coords": [9.9333, 52.9667], "date": "2025-11-28"}, // Heidekreis, Einbruch
 //{"coords": [], "date": "2025-11-28"} // Bürocontainer Katzweiler, Einbruch
 {"coords": [7.7689, 49.4447], "date": "2025-11-28"}, // Wohnungseinbruch Kaiserslautern, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-11-28"}, // Kreis Offenbach, Einbruch
+{"coords": [8.8731, 51.275], "date": "2025-11-28"}, // Wohnhaus Korbach, Einbrecher
+{"coords": [10.0831, 52.6247], "date": "2025-11-28"}, // Gewahrsam Celle, Diebstahl
+{"coords": [7.2162, 51.4818], "date": "2025-11-28"}, // Bochum, Raub
+{"coords": [11.4012, 53.6355], "date": "2025-11-28"}, // Schwerin, Raub
