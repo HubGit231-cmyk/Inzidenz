@@ -2180,3 +2180,16 @@
 {"coords": [8.2146, 53.1434], "date": "2025-11-28"}, // Alexanderstraße Oldenburg, Einbruch
 {"coords": [7.2, 51.6167], "date": "2025-11-28"}, // Recklinghausen, Raub
 //{"coords": [], "date": "2025-11-28"} // Ingelheim Ingelheim, Einbruch
+{"coords": [7.85, 51.6333], "date": "2025-11-28"}, // Rhynern, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-11-28"}, // Imbiss Warendorf, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Maxdorf, Diebstahl
+{"coords": [10.6866, 53.8655], "date": "2025-11-28"}, // Lübeck, Diebstahl
+{"coords": [8.1361, 53.3969], "date": "2025-11-28"}, // Fenster Varel, Einbruch
+{"coords": [8.45, 50.0167], "date": "2025-11-28"}, // Raunheim, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2025-11-28"}, // Kellerabteile Coesfeld, Einbrüche
+{"coords": [6.6833, 51.2], "date": "2025-11-28"}, // Bargeld Neuss, Dieb
+//{"coords": [], "date": "2025-11-28"} // Weimarer Land, Einbrecher
+{"coords": [7.9833, 51.95], "date": "2025-11-28"}, // Wohnhaus Warendorf, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Bergneustadt, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Gummersbach, Dieb
+{"coords": [7.1675, 51.9436], "date": "2025-11-28"}, // Einbruch Coesfeld, Einbruch
