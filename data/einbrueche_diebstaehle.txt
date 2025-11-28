@@ -2237,3 +2237,9 @@
 {"coords": [10.0831, 52.6247], "date": "2025-11-28"}, // Gewahrsam Celle, Diebstahl
 {"coords": [7.2162, 51.4818], "date": "2025-11-28"}, // Bochum, Raub
 {"coords": [11.4012, 53.6355], "date": "2025-11-28"}, // Schwerin, Raub
+{"coords": [13.6906, 53.8564], "date": "2025-11-28"}, // Anklam Anklam, Diebstahl
+{"coords": [8.4353, 49.4811], "date": "2025-11-28"}, // Ludwigshafen, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Kreis, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Vimbuch, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-11-28"}, // Ludwigshafen, Raub
+//{"coords": [], "date": "2025-11-28"} // Rohbau Giessen, Einbruch
