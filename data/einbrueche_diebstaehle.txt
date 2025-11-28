@@ -2193,3 +2193,14 @@
 //{"coords": [], "date": "2025-11-28"} // Bergneustadt, Einbruch
 //{"coords": [], "date": "2025-11-28"} // Gummersbach, Dieb
 {"coords": [7.1675, 51.9436], "date": "2025-11-28"}, // Einbruch Coesfeld, Einbruch
+//{"coords": [], "date": "2025-11-28"} // dem Kreisgebiet, Einbrüche
+//{"coords": [], "date": "2025-11-28"} // Neuhausen, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Wohnhaus Wiernsheim, Einbrecher
+{"coords": [8.6306, 53.05], "date": "2025-11-28"}, // Tatverdächtigen Delmenhorst, Diebstahl
+//{"coords": [], "date": "2025-11-28"} // Golf Salzkotten, Einbruch
+//{"coords": [], "date": "2025-11-28"} // Gröpelingen-- Bremen, Einbrecher
+{"coords": [9.0, 50.7333], "date": "2025-11-28"}, // Zeugen Homberg, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2025-11-28"}, // Ludwigsburg, stahl
+//{"coords": [], "date": "2025-11-28"} // Lippe, Einbruch
+{"coords": [10.6833, 48.7833], "date": "2025-11-28"}, // Landkreis Harburg, Einbrüche
+{"coords": [8.5331, 52.021], "date": "2025-11-28"}, // Bielefeld, entwendet
