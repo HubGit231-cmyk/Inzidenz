@@ -2176,3 +2176,5 @@
 {"coords": [7.7156, 52.2778], "date": "2025-11-28"}, // Einfamilienhaus Ibbenbüren, Einbruch
 {"coords": [7.6333, 51.2167], "date": "2025-11-28"}, // Lüdenscheid, Einbruch
 //{"coords": [], "date": "2025-11-28"} // Gustavsburg, Einbruch
+{"coords": [9.4764, 53.6008], "date": "2025-11-28"}, // Stade Stade, Einbrecher
+{"coords": [8.2146, 53.1434], "date": "2025-11-28"}, // Alexanderstraße Oldenburg, Einbruch
