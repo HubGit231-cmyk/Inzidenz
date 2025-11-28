@@ -2273,3 +2273,4 @@
 {"coords": [9.1919, 48.8975], "date": "2025-11-28"}, // Baucontainer Ludwigsburg, Einbrüche
 {"coords": [9.1919, 48.8975], "date": "2025-11-28"}, // Zeugen Ludwigsburg, gestohlen
 {"coords": [10.7956, 51.5019], "date": "2025-11-28"}, // Gasflaschenautomat Nordhausen, Diebstahl
+{"coords": [9.732, 52.3759], "date": "2025-11-28"}, // Hannover, gestohlen
