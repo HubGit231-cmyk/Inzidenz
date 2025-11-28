@@ -2266,3 +2266,10 @@
 {"coords": [10.7956, 51.5019], "date": "2025-11-28"}, // Nordhausen, entwendet
 {"coords": [10.135, 51.3783], "date": "2025-11-28"}, // Heilbad Heiligenstadt, Diebstahl
 //{"coords": [], "date": "2025-11-28"} // Feuerbach, Dieb
+//{"coords": [], "date": "2025-11-28"} // Linienbus Bremerhaven, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2025-11-28"}, // Lagerräume Coesfeld, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-11-28"}, // Zeugenaufruf Freiburg, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2025-11-28"}, // Einbrecher Coesfeld, Einbrecher
+{"coords": [9.1919, 48.8975], "date": "2025-11-28"}, // Baucontainer Ludwigsburg, Einbrüche
+{"coords": [9.1919, 48.8975], "date": "2025-11-28"}, // Zeugen Ludwigsburg, gestohlen
+{"coords": [10.7956, 51.5019], "date": "2025-11-28"}, // Gasflaschenautomat Nordhausen, Diebstahl
