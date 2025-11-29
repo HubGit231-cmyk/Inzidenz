@@ -2313,3 +2313,4 @@
 {"coords": [6.6833, 51.2], "date": "2025-11-29"}, // Mithilfe Neuss, Raub
 //{"coords": [], "date": "2025-11-29"} // Kapelle Ürzig, Diebstahl
 {"coords": [7.2197, 51.5428], "date": "2025-11-29"}, // Herne, entwendet
+//{"coords": [], "date": "2025-11-29"} // Zeugenaufruf Dahn, Diebstahl
