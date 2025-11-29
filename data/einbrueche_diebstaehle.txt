@@ -2302,3 +2302,4 @@
 {"coords": [7.6889, 51.5347], "date": "2025-11-29"}, // Unna, Einbruch
 {"coords": [8.4311, 49.3194], "date": "2025-11-29"}, // Kiosk Speyer, Einbruch
 {"coords": [8.0667, 50.3833], "date": "2025-11-29"}, // Limburg, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-11-29"}, // Oldenburg, Einbruch
