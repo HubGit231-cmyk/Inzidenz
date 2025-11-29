@@ -2285,3 +2285,5 @@
 {"coords": [7.3608, 49.2492], "date": "2025-11-29"}, // Zweibrücken Zweibrücken, Diebstahl
 //{"coords": [], "date": "2025-11-29"} // Personenschaden Brilon, Einbruch
 {"coords": [7.4547, 53.2311], "date": "2025-11-29"}, // Leer, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2025-11-29"}, // Vechta, Diebstahl
+{"coords": [11.0299, 50.9848], "date": "2025-11-29"}, // Zeugenaufruf Erfurt, gestohlen
