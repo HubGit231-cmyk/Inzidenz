@@ -2309,3 +2309,4 @@
 //{"coords": [], "date": "2025-11-29"} // Einkaufsmarkt, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-29"}, // Gebäudebrand Aalen, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-11-29"}, // Einbrüche Aalen, Einbrüche
+{"coords": [10.7956, 51.5019], "date": "2025-11-29"}, // Nordhausen, gestohlen
