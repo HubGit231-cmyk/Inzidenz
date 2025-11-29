@@ -2295,3 +2295,9 @@
 //{"coords": [], "date": "2025-11-29"} // Pfingstweide, Einbruch
 {"coords": [7.6889, 51.5347], "date": "2025-11-29"}, // Unna, Raub
 //{"coords": [], "date": "2025-11-29"} // Gartenstadt, Einbruch
+//{"coords": [], "date": "2025-11-29"} // Stockach, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2025-11-29"}, // Unna, stahl
+//{"coords": [], "date": "2025-11-29"} // Hofheim, Einbruch
+//{"coords": [], "date": "2025-11-29"} // Kamen, Diebstahl
+{"coords": [7.6889, 51.5347], "date": "2025-11-29"}, // Unna, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2025-11-29"}, // Kiosk Speyer, Einbruch
