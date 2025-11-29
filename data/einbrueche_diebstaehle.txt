@@ -2282,3 +2282,6 @@
 //{"coords": [], "date": "2025-11-29"} // Geräteunterstand Brilon, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2025-11-29"}, // Vechta, Einbruch
 {"coords": [8.5833, 53.55], "date": "2025-11-29"}, // Mitte, Dieb
+{"coords": [7.3608, 49.2492], "date": "2025-11-29"}, // Zweibrücken Zweibrücken, Diebstahl
+//{"coords": [], "date": "2025-11-29"} // Personenschaden Brilon, Einbruch
+{"coords": [7.4547, 53.2311], "date": "2025-11-29"}, // Leer, Einbruch
