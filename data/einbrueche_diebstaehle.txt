@@ -2277,3 +2277,7 @@
 {"coords": [9.2167, 48.4833], "date": "2025-11-28"}, // Diebstahl Reutlingen, Diebstahl
 {"coords": [8.2711, 50.0], "date": "2025-11-29"}, // Mainz, gestohlen
 {"coords": [9.95, 52.15], "date": "2025-11-29"}, // Zeugenaufruf Hildesheim, Diebstahl
+//{"coords": [], "date": "2025-11-29"} // Neheim, Einbruch
+{"coords": [9.8667, 51.8167], "date": "2025-11-29"}, // Wohnungseinbruchdiebstahl Einbeck, Einbruch
+//{"coords": [], "date": "2025-11-29"} // Geräteunterstand Brilon, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2025-11-29"}, // Vechta, Einbruch
