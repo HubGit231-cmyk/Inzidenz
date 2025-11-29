@@ -2281,3 +2281,4 @@
 {"coords": [9.8667, 51.8167], "date": "2025-11-29"}, // Wohnungseinbruchdiebstahl Einbeck, Einbruch
 //{"coords": [], "date": "2025-11-29"} // Geräteunterstand Brilon, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2025-11-29"}, // Vechta, Einbruch
+{"coords": [8.5833, 53.55], "date": "2025-11-29"}, // Mitte, Dieb
