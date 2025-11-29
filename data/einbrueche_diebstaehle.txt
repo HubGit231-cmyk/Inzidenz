@@ -2311,3 +2311,4 @@
 {"coords": [10.0936, 48.8372], "date": "2025-11-29"}, // Einbrüche Aalen, Einbrüche
 {"coords": [10.7956, 51.5019], "date": "2025-11-29"}, // Nordhausen, gestohlen
 {"coords": [6.6833, 51.2], "date": "2025-11-29"}, // Mithilfe Neuss, Raub
+//{"coords": [], "date": "2025-11-29"} // Kapelle Ürzig, Diebstahl
