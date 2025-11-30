@@ -2345,3 +2345,8 @@
 {"coords": [11.3239, 50.9795], "date": "2025-11-30"}, // Weimarer Drogeriemarkt Weimar, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2025-11-30"}, // Haft Augsburg, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2025-11-30"}, // Taschendiebstahl Augsburg, Diebstahl
+{"coords": [7.3778, 51.0194], "date": "2025-11-30"}, // Lindlarer Industriegebiet Lindlar, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2025-11-30"}, // Landau, Diebstahl
+//{"coords": [], "date": "2025-11-30"} // dem Kreisgebiet, Einbrüche
+{"coords": [7.7806, 53.5769], "date": "2025-11-30"}, // Wittmund, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2025-11-30"}, // Einbruch Polizeiinspektion Heidekreis, Einbruch
