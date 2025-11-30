@@ -2335,3 +2335,7 @@
 {"coords": [8.6306, 53.05], "date": "2025-11-30"}, // Vereinsheim Delmenhorst, Einbruch
 //{"coords": [], "date": "2025-11-30"} // Harbeck, Einbruch
 {"coords": [8.6306, 53.05], "date": "2025-11-30"}, // Ladendiebstahl Delmenhorst, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2025-11-30"}, // Landkreis Gotha, entwendet
+{"coords": [11.5862, 50.9271], "date": "2025-11-30"}, // Goethestraße Jena, Diebstahl
+{"coords": [10.7183, 50.9489], "date": "2025-11-30"}, // Landkreis Gotha, Diebstähle
+{"coords": [11.5862, 50.9271], "date": "2025-11-30"}, // Baustelle Jena, Diebstahl
