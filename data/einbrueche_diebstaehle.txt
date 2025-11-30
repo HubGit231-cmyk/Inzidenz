@@ -2366,3 +2366,4 @@
 {"coords": [8.4353, 49.4811], "date": "2025-11-30"}, // Baustelle Ludwigshafen, Diebstahl
 {"coords": [10.7956, 51.5019], "date": "2025-11-30"}, // Nordhausen, Diebstahl
 //{"coords": [], "date": "2025-11-30"} // Gewerbegebiet Puderbach, Einbrüche
+{"coords": [8.0667, 50.3833], "date": "2025-11-30"}, // Limburg, Diebstahl
