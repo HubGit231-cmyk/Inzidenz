@@ -2356,3 +2356,4 @@
 {"coords": [8.6306, 53.05], "date": "2025-11-30"}, // Handtaschendiebstahl Delmenhorst, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2025-11-30"}, // Handtasche Delmenhorst, Diebstahl
 {"coords": [8.6306, 53.05], "date": "2025-11-30"}, // Kirche Delmenhorst, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-11-30"}, // Kraftfahrzeugen Ludwigshafen, Diebstahl
