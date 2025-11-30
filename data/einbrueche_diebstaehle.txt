@@ -2344,3 +2344,4 @@
 {"coords": [8.0472, 52.2799], "date": "2025-11-30"}, // Zeugen Osnabrück, Einbruch
 {"coords": [11.3239, 50.9795], "date": "2025-11-30"}, // Weimarer Drogeriemarkt Weimar, Diebstahl
 {"coords": [10.8978, 48.3705], "date": "2025-11-30"}, // Haft Augsburg, Diebstahl
+{"coords": [10.8978, 48.3705], "date": "2025-11-30"}, // Taschendiebstahl Augsburg, Diebstahl
