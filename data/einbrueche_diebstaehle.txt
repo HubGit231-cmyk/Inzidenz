@@ -2334,3 +2334,4 @@
 {"coords": [7.4547, 53.2311], "date": "2025-11-30"}, // Leer, Einbruch
 {"coords": [8.6306, 53.05], "date": "2025-11-30"}, // Vereinsheim Delmenhorst, Einbruch
 //{"coords": [], "date": "2025-11-30"} // Harbeck, Einbruch
+{"coords": [8.6306, 53.05], "date": "2025-11-30"}, // Ladendiebstahl Delmenhorst, Diebstahl
