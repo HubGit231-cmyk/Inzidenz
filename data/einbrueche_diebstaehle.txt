@@ -2371,3 +2371,4 @@
 //{"coords": [], "date": "2025-11-30"} // Bad Gandersheim Bad Gandersheim, Diebstahl
 {"coords": [7.5, 50.5], "date": "2025-11-30"}, // Kennzeichendiebstahl Rengsdorf, Diebstahl
 {"coords": [6.8167, 49.55], "date": "2025-11-30"}, // Weihnachtsbeleuchtung Weiskirchen, Diebstahl
+//{"coords": [], "date": "2025-12-01"} // Wirges, entwendet
