@@ -2319,3 +2319,8 @@
 {"coords": [11.0299, 50.9848], "date": "2025-11-30"}, // Erfurt, Diebstahl
 {"coords": [10.6944, 50.6111], "date": "2025-11-30"}, // Gartenlaube Suhl, Einbruch
 //{"coords": [], "date": "2025-11-30"} // Kein Ort gefunden, Einbruch
+//{"coords": [], "date": "2025-11-30"} // Wohnhaus Lippe, Einbruch
+{"coords": [7.6889, 51.5347], "date": "2025-11-30"}, // Unna, Einbruch
+//{"coords": [], "date": "2025-11-30"} // Einfamilienhaus Lippe, Einbruch
+{"coords": [7.5658, 51.4458], "date": "2025-11-30"}, // Schwerte, Einbruch
+//{"coords": [], "date": "2025-11-30"} // Hübingen, Diebstahl
