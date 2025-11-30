@@ -2314,3 +2314,6 @@
 //{"coords": [], "date": "2025-11-29"} // Kapelle Ürzig, Diebstahl
 {"coords": [7.2197, 51.5428], "date": "2025-11-29"}, // Herne, entwendet
 //{"coords": [], "date": "2025-11-29"} // Zeugenaufruf Dahn, Diebstahl
+//{"coords": [], "date": "2025-11-30"} // POL-PDNR, Diebstahl
+{"coords": [7.2197, 51.5428], "date": "2025-11-30"}, // Herne, Raub
+{"coords": [11.0299, 50.9848], "date": "2025-11-30"}, // Erfurt, Diebstahl
