@@ -2325,3 +2325,6 @@
 {"coords": [7.5658, 51.4458], "date": "2025-11-30"}, // Schwerte, Einbruch
 //{"coords": [], "date": "2025-11-30"} // Hübingen, Diebstahl
 {"coords": [7.6, 49.2], "date": "2025-11-30"}, // Kennzeichens Pirmasens, Diebstahl
+//{"coords": [], "date": "2025-11-30"} // Wilsum, Einbruch
+{"coords": [8.2869, 52.7303], "date": "2025-11-30"}, // Vechta, Einbruch
+{"coords": [8.4353, 49.4811], "date": "2025-11-30"}, // Einfamilienhaus Ludwigshafen, Einbruch
