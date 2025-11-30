@@ -2328,3 +2328,7 @@
 //{"coords": [], "date": "2025-11-30"} // Wilsum, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2025-11-30"}, // Vechta, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2025-11-30"}, // Einfamilienhaus Ludwigshafen, Einbruch
+//{"coords": [], "date": "2025-11-30"} // Maximiliansau, Einbruch
+//{"coords": [], "date": "2025-11-30"} // Tat Rüthen, Einbruch
+//{"coords": [], "date": "2025-11-30"} // Widerstand Hofheim, Einbruch
+{"coords": [7.4547, 53.2311], "date": "2025-11-30"}, // Leer, Einbruch
