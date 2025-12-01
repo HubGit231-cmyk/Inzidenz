@@ -2381,3 +2381,10 @@
 //{"coords": [], "date": "2025-12-01"} // Mehrparteienhaus Geeste, Einbruch
 {"coords": [7.6331, 52.9928], "date": "2025-12-01"}, // Weihnachtsmarkt Esterwegen, Einbruch
 //{"coords": [], "date": "2025-12-01"} // Bürogebäude Schapen, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Brensbach, Einbruch
+{"coords": [8.875, 53.05], "date": "2025-12-01"}, // Osterholz, gestohlen
+{"coords": [10.0936, 48.8372], "date": "2025-12-01"}, // Einbrüche Aalen, Einbrüche
+{"coords": [8.1092, 51.5711], "date": "2025-12-01"}, // Soest, Einbrecher
+//{"coords": [], "date": "2025-12-01"} // Geldbörse Uersfeld, Diebstahl
+//{"coords": [], "date": "2025-12-01"} // Ahütte, Diebstahl
+//{"coords": [], "date": "2025-12-01"} // Hainburg, Dieb
