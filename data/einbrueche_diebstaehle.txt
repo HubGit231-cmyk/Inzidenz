@@ -2478,3 +2478,9 @@
 {"coords": [10.8978, 48.3705], "date": "2025-12-01"}, // Einbrüchen Augsburg, Einbruch
 {"coords": [9.984, 54.0714], "date": "2025-12-01"}, // Neumünster, Einbruch
 {"coords": [9.4108, 53.1111], "date": "2025-12-01"}, // Rotenburg, Diebstahl
+//{"coords": [], "date": "2025-12-01"} // Lissingen, Diebstahl
+{"coords": [7.0982, 50.7374], "date": "2025-12-01"}, // Vorsicht Bonn, Diebstähle
+{"coords": [12.0333, 49.8667], "date": "2025-12-01"}, // eigenem Haus beraubt, Raub
+//{"coords": [], "date": "2025-12-01"} // Ulzburg, Diebstahl
+{"coords": [7.1675, 51.9436], "date": "2025-12-01"}, // Einbruch Coesfeld, Einbruch
+{"coords": [8.4661, 49.4878], "date": "2025-12-01"}, // Zeugenaufruf Mannheim, eingebrochen
