@@ -2503,3 +2503,4 @@
 {"coords": [8.4353, 49.4811], "date": "2025-12-01"}, // Ludwigshafen, Diebstahl
 {"coords": [9.6536, 53.7547], "date": "2025-12-01"}, // Zeugen Elmshorn, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2025-12-01"}, // Wohnhaus Ludwigshafen, Einbruch
+{"coords": [9.2167, 48.4833], "date": "2025-12-01"}, // Verkehrsunfälle Reutlingen, Einbrüche
