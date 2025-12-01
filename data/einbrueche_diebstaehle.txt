@@ -2424,3 +2424,9 @@
 {"coords": [7.85, 51.6333], "date": "2025-12-01"}, // Rhynern, gestohlen
 {"coords": [10.6944, 50.6111], "date": "2025-12-01"}, // Suhl, Diebstahl
 {"coords": [10.7333, 50.65], "date": "2025-12-01"}, // Mehlis, entwendet
+//{"coords": [], "date": "2025-12-01"} // Wohnhaus Ochtrup, Einbruch
+{"coords": [9.1919, 48.8975], "date": "2025-12-01"}, // Wochenende Ludwigsburg, Einbrüche
+//{"coords": [], "date": "2025-12-01"} // Rüsselsheim, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Unzhurst, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Pelkum, Einbruch
+{"coords": [10.7542, 50.5106], "date": "2025-12-01"}, // Wohnung Schleusingen, Einbruch
