@@ -2458,3 +2458,8 @@
 //{"coords": [], "date": "2025-12-01"} // Eck, Einbruch
 //{"coords": [], "date": "2025-12-01"} // Schwenningen, Einbruch
 //{"coords": [], "date": "2025-12-01"} // Trossingen, entwendet
+{"coords": [9.9937, 53.5511], "date": "2025-12-01"}, // Wohnungseinbrecherinnen Hamburg, Einbrecher
+{"coords": [9.9333, 52.9667], "date": "2025-12-01"}, // Heidekreis, Dieb
+{"coords": [7.6333, 51.2167], "date": "2025-12-01"}, // Lüdenscheid, gestohlen
+{"coords": [8.3708, 52.6078], "date": "2025-12-01"}, // Diepholz, Diebstahl
+{"coords": [7.9833, 51.95], "date": "2025-12-01"}, // Jugendzentrum Warendorf, Einbruch
