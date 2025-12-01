@@ -2388,3 +2388,6 @@
 //{"coords": [], "date": "2025-12-01"} // Geldbörse Uersfeld, Diebstahl
 //{"coords": [], "date": "2025-12-01"} // Ahütte, Diebstahl
 //{"coords": [], "date": "2025-12-01"} // Hainburg, Dieb
+{"coords": [12.4333, 50.985], "date": "2025-12-01"}, // Gartenlaube Altenburg, Einbruch
+//{"coords": [], "date": "2025-12-01"} // Ratzeburg, Einbrüche
+{"coords": [8.3667, 51.45], "date": "2025-12-01"}, // Friseursalon Warstein, Einbruch
