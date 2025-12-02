@@ -2593,3 +2593,8 @@
 {"coords": [6.7623, 51.4344], "date": "2025-12-02"}, // Mitarbeiter Duisburg, Diebstahl
 {"coords": [6.3917, 51.2556], "date": "2025-12-02"}, // Viersen, Einbruch
 //{"coords": [], "date": "2025-12-02"} // Wekeln, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Merbeck, Einbrüche
+//{"coords": [], "date": "2025-12-02"} // Übach, gestohlen
+//{"coords": [], "date": "2025-12-02"} // Palenberg, entwendet
+//{"coords": [], "date": "2025-12-02"} // Waldfeucht, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Kirchhoven, Einbruch
