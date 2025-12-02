@@ -2598,3 +2598,13 @@
 //{"coords": [], "date": "2025-12-02"} // Palenberg, entwendet
 //{"coords": [], "date": "2025-12-02"} // Waldfeucht, Einbruch
 //{"coords": [], "date": "2025-12-02"} // Kirchhoven, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Kreis, Einbrüche
+//{"coords": [], "date": "2025-12-02"} // der Rosenhofstraße auf den Leim. Wie die, Dieb
+{"coords": [7.7689, 49.4447], "date": "2025-12-02"}, // Geldbeutel Kaiserslautern, Dieb
+{"coords": [6.85, 49.3], "date": "2025-12-02"}, // Bad Schwalbach, Einbrüche
+//{"coords": [], "date": "2025-12-02"} // Ratzeburg, Einbrüche
+//{"coords": [], "date": "2025-12-02"} // Kassiererin Zülpich, Dieb
+{"coords": [9.9333, 52.9667], "date": "2025-12-02"}, // Heidekreis, entwendet
+{"coords": [6.9194, 51.9944], "date": "2025-12-02"}, // Transporter Stadtlohn, Einbrecher
+{"coords": [6.9194, 51.9944], "date": "2025-12-02"}, // Stadtlohn, Einbrecher
+{"coords": [6.9019, 50.8331], "date": "2025-12-02"}, // Brühl, Dieb
