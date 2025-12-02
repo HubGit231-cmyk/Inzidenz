@@ -2608,3 +2608,4 @@
 {"coords": [6.9194, 51.9944], "date": "2025-12-02"}, // Transporter Stadtlohn, Einbrecher
 {"coords": [6.9194, 51.9944], "date": "2025-12-02"}, // Stadtlohn, Einbrecher
 {"coords": [6.9019, 50.8331], "date": "2025-12-02"}, // Brühl, Dieb
+{"coords": [9.1919, 48.8975], "date": "2025-12-02"}, // Ludwigsburg, Einbruch
