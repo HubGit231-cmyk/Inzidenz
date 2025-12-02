@@ -2574,3 +2574,13 @@
 {"coords": [7.6333, 51.2167], "date": "2025-12-02"}, // Diebe Lüdenscheid, Einbruch
 //{"coords": [], "date": "2025-12-02"} // Gaststätte Hemer, Einbruch
 {"coords": [9.9916, 48.3984], "date": "2025-12-02"}, // Ulm, Raub
+{"coords": [6.5617, 51.3317], "date": "2025-12-02"}, // Krefeld, Einbruch
+{"coords": [7.1, 51.5167], "date": "2025-12-02"}, // Zeugen Gelsenkirchen, gestohlen
+{"coords": [8.4311, 49.3194], "date": "2025-12-02"}, // Speyer, Einbruch
+{"coords": [8.4311, 49.3194], "date": "2025-12-02"}, // Speyer, Diebstahl
+//{"coords": [], "date": "2025-12-02"} // Bräunlingen, Einbruch
+{"coords": [8.7667, 50.1], "date": "2025-12-02"}, // Kreis Offenbach, gestohlen
+{"coords": [10.0528, 51.1889], "date": "2025-12-02"}, // Eschwege, Raub
+//{"coords": [], "date": "2025-12-02"} // Kreis, Einbruch
+{"coords": [9.0, 50.7333], "date": "2025-12-02"}, // Willingshausen Homberg, aufbrüche
+//{"coords": [], "date": "2025-12-02"} // Schlaf Bremerhaven, Einbrecher
