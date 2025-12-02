@@ -2588,3 +2588,8 @@
 {"coords": [8.9667, 52.3833], "date": "2025-12-02"}, // Einbrecher Petershagen, Einbrecher
 {"coords": [9.6775, 50.5528], "date": "2025-12-02"}, // Fulda, Einbruch
 {"coords": [10.7865, 52.4226], "date": "2025-12-02"}, // Wohnung Wolfsburg, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Campingplatz Brüggen, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Neersen, Einbruch
+{"coords": [6.7623, 51.4344], "date": "2025-12-02"}, // Mitarbeiter Duisburg, Diebstahl
+{"coords": [6.3917, 51.2556], "date": "2025-12-02"}, // Viersen, Einbruch
+//{"coords": [], "date": "2025-12-02"} // Wekeln, Einbruch
