@@ -2630,3 +2630,16 @@
 {"coords": [7.2197, 51.5428], "date": "2025-12-03"}, // Zeugenhinweise Herne, Raub
 {"coords": [6.9486, 49.6561], "date": "2025-12-03"}, // Hermeskeil Hermeskeil, Einbruch
 {"coords": [8.8333, 50.15], "date": "2025-12-03"}, // Maintal, Dieb
+{"coords": [6.6178, 51.6589], "date": "2025-12-03"}, // Wesel, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Zeugen Giessen, gestohlen
+{"coords": [7.4044, 53.0772], "date": "2025-12-03"}, // Einfamilienhaus Papenburg, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-12-03"}, // Lingen, Dieb
+//{"coords": [], "date": "2025-12-03"} // Baustelle Lünne, Einbruch
+{"coords": [7.4667, 52.3667], "date": "2025-12-03"}, // Container Spelle, Einbruch
+{"coords": [8.35, 51.6667], "date": "2025-12-03"}, // Schwerpunkteinsatz Lippstadt, Diebstahl
+{"coords": [7.0667, 52.4333], "date": "2025-12-03"}, // Nordhorn, gestohlen
+{"coords": [8.3539, 49.5342], "date": "2025-12-03"}, // Frankenthal, Diebstahl
+{"coords": [7.1333, 52.5333], "date": "2025-12-03"}, // Baustelle Wietmarschen, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-12-03"}, // Baustelle Lingen, Einbruch
+{"coords": [7.3194, 52.5236], "date": "2025-12-03"}, // Baucontainer Lingen, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-12-03"}, // Nordhorn, Diebstahl
