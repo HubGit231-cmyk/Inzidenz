@@ -2720,3 +2720,4 @@
 //{"coords": [], "date": "2025-12-03"} // Kreis, Raub
 //{"coords": [], "date": "2025-12-03"} // Kein Ort gefunden, Diebstahl
 //{"coords": [], "date": "2025-12-03"} // einem Supermarkt in der Schäferdelle in Winnweiler zu einem Taschendiebstahl. Eine, Diebstahl
+{"coords": [7.825, 50.4358], "date": "2025-12-03"}, // Westerburg Montabaur, aufbruch
