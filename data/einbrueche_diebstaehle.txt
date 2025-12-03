@@ -2694,3 +2694,13 @@
 {"coords": [6.6393, 49.7556], "date": "2025-12-03"}, // Trier, Diebstähle
 //{"coords": [], "date": "2025-12-03"} // Lippe, Dieb
 {"coords": [9.1919, 48.8975], "date": "2025-12-03"}, // Geldabheben Ludwigsburg, Dieb
+//{"coords": [], "date": "2025-12-03"} // Spendensammlung Frankfurt, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-03"}, // Aalen, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Unfälle Hofheim, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-12-03"}, // Einbrüchen Recklinghausen, Einbruch
+{"coords": [7.82, 47.99], "date": "2025-12-03"}, // Handtaschenraub Freiburg, Raub
+{"coords": [8.3833, 51.9], "date": "2025-12-03"}, // Zeugen Gütersloh, Diebstähle
+{"coords": [8.285, 51.1492], "date": "2025-12-03"}, // Bad Fredeburg Schmallenberg, Diebstahl
+{"coords": [8.24, 50.0822], "date": "2025-12-03"}, // Fahrzeugdiebstähle Wiesbaden, Einbrüche
+//{"coords": [], "date": "2025-12-03"} // Diebesgut Minden, Dieb
+{"coords": [9.8, 53.6592], "date": "2025-12-03"}, // Zeugenhinweise Pinneberg, Einbruch
