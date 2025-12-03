@@ -2655,3 +2655,10 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-03"}, // Einbruch Aalen, Einbruch
 //{"coords": [], "date": "2025-12-03"} // Wiblingwerde, Einbruch
 {"coords": [8.1075, 53.5219], "date": "2025-12-03"}, // Wilhelmshaven, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Kreis, Einbrecher
+//{"coords": [], "date": "2025-12-03"} // Tiefgarage gestohlen, gestohlen
+{"coords": [6.6833, 51.2], "date": "2025-12-03"}, // Hubschrauber Neuss, Einbruch
+{"coords": [8.2146, 53.1434], "date": "2025-12-03"}, // Oldenburg, Raub
+{"coords": [11.8103, 50.5786], "date": "2025-12-03"}, // Schleiz, Dieb
+{"coords": [7.6333, 51.2167], "date": "2025-12-03"}, // Einbrüche Lüdenscheid, Einbrüche
+//{"coords": [], "date": "2025-12-03"} // Gummersbach, gestohlen
