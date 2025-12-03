@@ -2662,3 +2662,8 @@
 {"coords": [11.8103, 50.5786], "date": "2025-12-03"}, // Schleiz, Dieb
 {"coords": [7.6333, 51.2167], "date": "2025-12-03"}, // Einbrüche Lüdenscheid, Einbrüche
 //{"coords": [], "date": "2025-12-03"} // Gummersbach, gestohlen
+{"coords": [7.0042, 51.9542], "date": "2025-12-03"}, // Kupferdiebstahl Gescher, Diebstahl
+{"coords": [8.9, 50.25], "date": "2025-12-03"}, // Nidderau, Einbruch
+//{"coords": [], "date": "2025-12-03"} // Hüthum, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2025-12-03"}, // Emden, Diebstahl
+//{"coords": [], "date": "2025-12-03"} // Pedelec Herford, Diebstahl
