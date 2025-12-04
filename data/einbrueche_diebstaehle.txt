@@ -2847,3 +2847,4 @@
 {"coords": [8.6306, 53.05], "date": "2025-12-04"}, // Delmenhorst, Diebstahl
 {"coords": [9.732, 52.3759], "date": "2025-12-04"}, // Jährigen Hannover, Diebstahl
 //{"coords": [], "date": "2025-12-04"} // Verletzten Lichtenborn, Raub
+{"coords": [7.3608, 49.2492], "date": "2025-12-04"}, // Zweibrücken, Einbruch
