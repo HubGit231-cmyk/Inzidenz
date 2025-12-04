@@ -2820,3 +2820,12 @@
 //{"coords": [], "date": "2025-12-04"} // Unterbruch, Einbruch
 {"coords": [7.2061, 53.3669], "date": "2025-12-04"}, // Emden, Diebstahl
 {"coords": [8.4043, 49.014], "date": "2025-12-04"}, // Mehrfamilienhaus Karlsruhe, Einbruch
+{"coords": [9.4108, 53.1111], "date": "2025-12-04"}, // Rotenburg, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Giessen, geklaut
+{"coords": [7.6889, 51.5347], "date": "2025-12-04"}, // Tankstelle Unna, Räuber
+{"coords": [9.36, 52.1039], "date": "2025-12-04"}, // Hameln, Einbrüche
+{"coords": [12.9667, 53.2833], "date": "2025-12-04"}, // Euro Gesamtschaden Wesenberg, eingebrochen
+//{"coords": [], "date": "2025-12-04"} // Kreis, Einbrüche
+{"coords": [10.4, 53.25], "date": "2025-12-04"}, // Lüneburg, Diebstahl
+{"coords": [11.5164, 51.0264], "date": "2025-12-04"}, // Apolda, Diebstahl
+{"coords": [9.0958, 54.1958], "date": "2025-12-04"}, // Heide, gestohlen
