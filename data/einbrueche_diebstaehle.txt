@@ -2829,3 +2829,5 @@
 {"coords": [10.4, 53.25], "date": "2025-12-04"}, // Lüneburg, Diebstahl
 {"coords": [11.5164, 51.0264], "date": "2025-12-04"}, // Apolda, Diebstahl
 {"coords": [9.0958, 54.1958], "date": "2025-12-04"}, // Heide, gestohlen
+{"coords": [7.7806, 53.5769], "date": "2025-12-04"}, // Wittmund, Diebstähle
+{"coords": [8.6306, 53.05], "date": "2025-12-04"}, // Delmenhorst, Einbruch
