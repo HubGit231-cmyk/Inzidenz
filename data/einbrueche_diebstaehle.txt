@@ -2739,3 +2739,15 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-04"}, // Unfall Aalen, Einbruch
 {"coords": [9.5167, 54.2167], "date": "2025-12-04"}, // Hamdorf gesucht Hamdorf, Diebstahl
 {"coords": [9.8333, 53.95], "date": "2025-12-04"}, // Erpressung Hagen, Räuber
+{"coords": [8.8678, 49.9228], "date": "2025-12-04"}, // Zeugen Münster, Einbruch
+{"coords": [11.3239, 50.9795], "date": "2025-12-04"}, // Weimar, gestohlen
+{"coords": [11.3239, 50.9795], "date": "2025-12-04"}, // Weimar, Diebstahl
+//{"coords": [], "date": "2025-12-04"} // Kreis, Diebstahl
+{"coords": [11.5862, 50.9271], "date": "2025-12-04"}, // Jena, Diebstahl
+{"coords": [9.95, 52.15], "date": "2025-12-04"}, // Haft Hildesheim, Diebstahl
+//{"coords": [], "date": "2025-12-04"} // Zeugen Linnich, Einbruch
+{"coords": [9.36, 52.1039], "date": "2025-12-04"}, // Zeugen Hameln, Diebstahl
+{"coords": [8.1075, 53.5219], "date": "2025-12-04"}, // Wilhelmshaven, Diebstahl
+//{"coords": [], "date": "2025-12-04"} // Einfamilienhaus Altendiez, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-12-04"}, // Zweifamilienhaus Warendorf, Einbruch
+{"coords": [10.0936, 48.8372], "date": "2025-12-04"}, // Einbruch Aalen, Einbruch
