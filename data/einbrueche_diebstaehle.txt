@@ -2753,3 +2753,20 @@
 {"coords": [10.0936, 48.8372], "date": "2025-12-04"}, // Einbruch Aalen, Einbruch
 //{"coords": [], "date": "2025-12-04"} // Ottersweier, Einbruch
 //{"coords": [], "date": "2025-12-04"} // Lahr, Einbruch
+{"coords": [7.1833, 50.9], "date": "2025-12-04"}, // Hoffnungsthaler Erdgeschosswohnung Rösrath, Einbruch
+{"coords": [9.9916, 48.3984], "date": "2025-12-04"}, // Ulm, aufbruch
+//{"coords": [], "date": "2025-12-04"} // Nähe Herdecke, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2025-12-04"}, // Auto Fulda, Diebstahl
+//{"coords": [], "date": "2025-12-04"} // Herdecke, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Fahndungsfoto-- Bremen, entwendet
+{"coords": [7.1856, 51.3994], "date": "2025-12-04"}, // Hattingen, gestohlen
+{"coords": [9.6667, 54.2333], "date": "2025-12-04"}, // Tankstelle in Jevenstedt gesucht Jevenstedt, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Grimmenthal, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Werkstatt BAD DÜRKHEIM, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2025-12-04"}, // Hattingen, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Wohnung BAD DÜRKHEIM, Einbruch
+{"coords": [10.9167, 50.4167], "date": "2025-12-04"}, // Eisfeld, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Einbruchsdiebstahl Weyerbusch, Einbruch
+{"coords": [7.1856, 51.3994], "date": "2025-12-04"}, // Wertgegenständen Hattingen, Einbruch
+{"coords": [7.3392, 51.3197], "date": "2025-12-04"}, // Gevelsberg, Einbruch
+{"coords": [8.1128, 49.1994], "date": "2025-12-04"}, // Polizeidirektion Landau POL-PDLD, Einbruch
