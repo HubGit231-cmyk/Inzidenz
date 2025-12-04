@@ -2731,3 +2731,11 @@
 {"coords": [7.1333, 52.5333], "date": "2025-12-04"}, // Baucontainern Wietmarschen, aufbruch
 {"coords": [8.7667, 50.1], "date": "2025-12-04"}, // Offenbach, aufbruch
 {"coords": [7.0667, 52.4333], "date": "2025-12-04"}, // Mehrfamilienhaus Nordhorn, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Neheim, Einbruch
+{"coords": [8.2833, 51.35], "date": "2025-12-04"}, // Meschede Meschede, Einbruch
+{"coords": [8.35, 51.6667], "date": "2025-12-04"}, // Zeugen Lippstadt, Einbruch
+{"coords": [12.1997, 50.6544], "date": "2025-12-04"}, // Seelingstädt Greiz, Einbruch
+{"coords": [10.5722, 51.4403], "date": "2025-12-04"}, // Handtaschendiebstahl Bleicherode, Diebstahl
+{"coords": [10.0936, 48.8372], "date": "2025-12-04"}, // Unfall Aalen, Einbruch
+{"coords": [9.5167, 54.2167], "date": "2025-12-04"}, // Hamdorf gesucht Hamdorf, Diebstahl
+{"coords": [9.8333, 53.95], "date": "2025-12-04"}, // Erpressung Hagen, Räuber
