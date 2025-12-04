@@ -2795,3 +2795,8 @@
 {"coords": [9.2167, 48.4833], "date": "2025-12-04"}, // Arbeitsunfall Reutlingen, Einbrüche
 {"coords": [9.9158, 51.5413], "date": "2025-12-04"}, // Hinweise Göttingen, Einbruch
 {"coords": [10.6944, 50.6111], "date": "2025-12-04"}, // Suhl, geklaut
+{"coords": [6.3319, 51.5194], "date": "2025-12-04"}, // Geldern, Diebstahl
+{"coords": [9.1919, 48.8975], "date": "2025-12-04"}, // Wohnhäuser Ludwigsburg, Einbrüche
+//{"coords": [], "date": "2025-12-04"} // Kein Ort gefunden, Diebstahl
+//{"coords": [], "date": "2025-12-04"} // Friedrichstraße, Einbrüche
+//{"coords": [], "date": "2025-12-04"} // dem Kreisgebiet, Einbrüche
