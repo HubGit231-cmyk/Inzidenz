@@ -2800,3 +2800,10 @@
 //{"coords": [], "date": "2025-12-04"} // Kein Ort gefunden, Diebstahl
 //{"coords": [], "date": "2025-12-04"} // Friedrichstraße, Einbrüche
 //{"coords": [], "date": "2025-12-04"} // dem Kreisgebiet, Einbrüche
+//{"coords": [], "date": "2025-12-04"} // Versuchter Einbruch Uslar, Einbruch
+{"coords": [6.85, 49.3], "date": "2025-12-04"}, // Kreuzungsbereich Bad Schwalbach, Einbrecher
+//{"coords": [], "date": "2025-12-04"} // Seniorin Minden, stehlen
+//{"coords": [], "date": "2025-12-04"} // Wachtendonk, stehlen
+//{"coords": [], "date": "2025-12-04"} // Schwarzwald, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Kreuztal, Einbruch
+{"coords": [8.3708, 52.6078], "date": "2025-12-04"}, // Diepholz, Einbruch
