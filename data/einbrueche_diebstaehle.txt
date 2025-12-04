@@ -2816,3 +2816,7 @@
 {"coords": [8.4043, 49.014], "date": "2025-12-04"}, // Zeugen Karlsruhe, Einbruch
 {"coords": [7.0116, 51.4556], "date": "2025-12-04"}, // Essen, Raub
 {"coords": [10.135, 51.3783], "date": "2025-12-04"}, // Heiligenstadt, Diebstahl
+{"coords": [10.4278, 51.9042], "date": "2025-12-04"}, // Goslar, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Unterbruch, Einbruch
+{"coords": [7.2061, 53.3669], "date": "2025-12-04"}, // Emden, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2025-12-04"}, // Mehrfamilienhaus Karlsruhe, Einbruch
