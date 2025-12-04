@@ -2812,3 +2812,7 @@
 //{"coords": [], "date": "2025-12-04"} // Baustelle Eichsfeld, Diebstahl
 {"coords": [11.0299, 50.9848], "date": "2025-12-04"}, // Erfurt, Diebstahl
 //{"coords": [], "date": "2025-12-04"} // Tapetenrollen Sömmerda, Einbruch
+//{"coords": [], "date": "2025-12-04"} // Nieukerk, Diebstahl
+{"coords": [8.4043, 49.014], "date": "2025-12-04"}, // Zeugen Karlsruhe, Einbruch
+{"coords": [7.0116, 51.4556], "date": "2025-12-04"}, // Essen, Raub
+{"coords": [10.135, 51.3783], "date": "2025-12-04"}, // Heiligenstadt, Diebstahl
