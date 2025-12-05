@@ -2938,3 +2938,4 @@
 {"coords": [7.1, 51.5167], "date": "2025-12-05"}, // Gelsenkirchen Gelsenkirchen, Diebstahl
 {"coords": [9.95, 52.15], "date": "2025-12-05"}, // Drispenstedt Hildesheim, Einbruch
 //{"coords": [], "date": "2025-12-05"} // Medienvertreter Ratzeburg, Einbruch
+//{"coords": [], "date": "2025-12-05"} // Zeugen Meldorf, Einbruch
