@@ -2966,3 +2966,4 @@
 {"coords": [7.3333, 49.3167], "date": "2025-12-05"}, // Homburg, Raub
 {"coords": [8.5331, 52.021], "date": "2025-12-05"}, // Geschäftshaus Bielefeld, Einbrecher
 //{"coords": [], "date": "2025-12-05"} // Bad Dürrheim, Einbrüche
+//{"coords": [], "date": "2025-12-05"} // Gondorf Polizei Brodenbach, Diebstahl
