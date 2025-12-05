@@ -2942,3 +2942,18 @@
 //{"coords": [], "date": "2025-12-05"} // POL-SI, Dieb
 {"coords": [8.24, 50.0822], "date": "2025-12-05"}, // Wiesbaden, Diebstahl
 {"coords": [8.0472, 52.2799], "date": "2025-12-05"}, // Zeugen Osnabrück, Einbruch
+//{"coords": [], "date": "2025-12-05"} // Einbrüche Giessen, Einbrüche
+//{"coords": [], "date": "2025-12-05"} // Schiefbahn, Einbruch
+{"coords": [7.8208, 51.6803], "date": "2025-12-05"}, // Hamm, Einbruch
+{"coords": [7.1, 51.5167], "date": "2025-12-05"}, // Zeugen Gelsenkirchen, Diebstahl
+//{"coords": [], "date": "2025-12-05"} // Neersen, Einbruch
+//{"coords": [], "date": "2025-12-05"} // Nohn Nohn, Diebstahl
+{"coords": [7.2, 51.6167], "date": "2025-12-05"}, // Hinweise Recklinghausen, Einbruch
+{"coords": [9.9158, 51.5413], "date": "2025-12-05"}, // Hinweise Göttingen, Einbruch
+//{"coords": [], "date": "2025-12-05"} // Höhe, Einbrecher
+//{"coords": [], "date": "2025-12-05"} // Grabschmuck Helferskirchen, Diebstahl
+{"coords": [9.9158, 51.5413], "date": "2025-12-05"}, // Zeugen Göttingen, Einbruch
+{"coords": [11.0299, 50.9848], "date": "2025-12-05"}, // Mehrfamilienhaus Erfurt, Dieb
+{"coords": [9.9158, 51.5413], "date": "2025-12-05"}, // Hinweise Göttingen, Diebstahl
+{"coords": [9.9333, 52.9667], "date": "2025-12-05"}, // Unfall Heidekreis, Einbruch
+{"coords": [11.9833, 49.4833], "date": "2025-12-05"}, // Freudenberg, Einbruch
