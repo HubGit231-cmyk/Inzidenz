@@ -2939,3 +2939,6 @@
 {"coords": [9.95, 52.15], "date": "2025-12-05"}, // Drispenstedt Hildesheim, Einbruch
 //{"coords": [], "date": "2025-12-05"} // Medienvertreter Ratzeburg, Einbruch
 //{"coords": [], "date": "2025-12-05"} // Zeugen Meldorf, Einbruch
+//{"coords": [], "date": "2025-12-05"} // POL-SI, Dieb
+{"coords": [8.24, 50.0822], "date": "2025-12-05"}, // Wiesbaden, Diebstahl
+{"coords": [8.0472, 52.2799], "date": "2025-12-05"}, // Zeugen Osnabrück, Einbruch
