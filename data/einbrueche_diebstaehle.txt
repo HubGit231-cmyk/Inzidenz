@@ -2911,3 +2911,12 @@
 {"coords": [8.2146, 53.1434], "date": "2025-12-05"}, // Einbrüchen Oldenburg, Einbruch
 {"coords": [9.4764, 53.6008], "date": "2025-12-05"}, // Zeugen Stade, Einbrecher
 {"coords": [10.0528, 51.1889], "date": "2025-12-05"}, // Eschwege, Dieb
+//{"coords": [], "date": "2025-12-05"} // dem Kreisgebiet, Einbrüche
+{"coords": [6.2917, 51.7392], "date": "2025-12-05"}, // Zeugen Kalkar, Einbruch
+{"coords": [7.2931, 51.2861], "date": "2025-12-05"}, // Fenster Schwelm, Einbruch
+{"coords": [7.3333, 51.4333], "date": "2025-12-05"}, // Witten, Einbruch
+//{"coords": [], "date": "2025-12-05"} // Eggesin, entwendet
+{"coords": [8.3708, 52.6078], "date": "2025-12-05"}, // Diepholz, Einbruch
+{"coords": [9.6775, 50.5528], "date": "2025-12-05"}, // Fahrraddiebstahl Fulda, Diebstahl
+//{"coords": [], "date": "2025-12-05"} // Kreis, gestohlen
+{"coords": [7.1, 51.5167], "date": "2025-12-05"}, // Gelsenkirchen, Raub
