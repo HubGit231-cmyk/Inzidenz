@@ -2875,3 +2875,6 @@
 {"coords": [10.7333, 50.65], "date": "2025-12-05"}, // Mehlis, Einbruch
 {"coords": [10.0936, 48.8372], "date": "2025-12-05"}, // Sonstiges Aalen, Einbrüche
 {"coords": [8.3833, 51.9], "date": "2025-12-05"}, // Schuleinbruch Gütersloh, Einbruch
+//{"coords": [], "date": "2025-12-05"} // Sundern Sundern, Einbruch
+{"coords": [7.8508, 51.0281], "date": "2025-12-05"}, // Fahrzeugen Olpe, Diebstähle
+//{"coords": [], "date": "2025-12-05"} // Vierhausen, Einbruch
