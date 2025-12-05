@@ -2848,3 +2848,13 @@
 {"coords": [9.732, 52.3759], "date": "2025-12-04"}, // Jährigen Hannover, Diebstahl
 //{"coords": [], "date": "2025-12-04"} // Verletzten Lichtenborn, Raub
 {"coords": [7.3608, 49.2492], "date": "2025-12-04"}, // Zweibrücken, Einbruch
+//{"coords": [], "date": "2025-12-05"} // Mühltal, Einbruch
+{"coords": [8.7197, 49.5358], "date": "2025-12-05"}, // Wohnhaus Gorxheimertal, Einbruch
+//{"coords": [], "date": "2025-12-05"} // Crumbach, Einbrüche
+{"coords": [7.4667, 52.3667], "date": "2025-12-05"}, // Einfamilienhaus Spelle, Einbruch
+{"coords": [7.2417, 52.7922], "date": "2025-12-05"}, // Wohnhaus Haren, Einbruch
+{"coords": [6.9667, 52.5], "date": "2025-12-05"}, // Baucontainer Neuenhaus, Einbruch
+{"coords": [7.0667, 52.4333], "date": "2025-12-05"}, // Baustellen Nordhorn, Einbrüche
+{"coords": [12.0799, 50.8772], "date": "2025-12-05"}, // Gera, gestohlen
+{"coords": [7.1333, 52.5333], "date": "2025-12-05"}, // Baucontainer Wietmarschen, Einbruch
+{"coords": [12.4333, 50.985], "date": "2025-12-05"}, // Altenburg, Diebstahl
