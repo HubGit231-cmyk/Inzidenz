@@ -2969,3 +2969,5 @@
 //{"coords": [], "date": "2025-12-05"} // Gondorf Polizei Brodenbach, Diebstahl
 {"coords": [10.1228, 54.3233], "date": "2025-12-05"}, // Zeugen Kiel, Raub
 {"coords": [9.1167, 50.85], "date": "2025-12-05"}, // der Calenberger Neustadt, stehlen
+{"coords": [7.82, 47.99], "date": "2025-12-05"}, // Industriegebiet Freiburg, Einbrüche
+{"coords": [7.82, 47.99], "date": "2025-12-05"}, // Einfamilienhaus Freiburg, Einbruch
