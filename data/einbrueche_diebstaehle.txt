@@ -2904,3 +2904,5 @@
 //{"coords": [], "date": "2025-12-05"} // Saerbeck, Einbruch
 {"coords": [7.9833, 51.95], "date": "2025-12-05"}, // Bauhof Warendorf, Einbruch
 //{"coords": [], "date": "2025-12-05"} // Dinslaken, entwendet
+{"coords": [11.5419, 49.7564], "date": "2025-12-05"}, // Pegnitz, Einbrecher
+{"coords": [9.3833, 50.6333], "date": "2025-12-05"}, // Anhänger Vogelsbergkreis, Einbruch
