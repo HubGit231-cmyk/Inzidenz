@@ -2958,3 +2958,10 @@
 {"coords": [9.9333, 52.9667], "date": "2025-12-05"}, // Unfall Heidekreis, Einbruch
 {"coords": [11.9833, 49.4833], "date": "2025-12-05"}, // Freudenberg, Einbruch
 {"coords": [8.4353, 49.4811], "date": "2025-12-05"}, // Ludwigshafen, entwendet
+{"coords": [8.4661, 49.4878], "date": "2025-12-05"}, // Zeugenaufruf Mannheim, gestohlen
+//{"coords": [], "date": "2025-12-05"} // Weinstraße, aufbruch
+//{"coords": [], "date": "2025-12-05"} // Kreis Plön, Einbruch
+{"coords": [9.4667, 53.95], "date": "2025-12-05"}, // Hessisch Oldendorf, Diebstahl
+{"coords": [7.2564, 49.2378], "date": "2025-12-05"}, // Kraftfahrzeug Blieskastel, Diebstahl
+{"coords": [7.3333, 49.3167], "date": "2025-12-05"}, // Homburg, Raub
+{"coords": [8.5331, 52.021], "date": "2025-12-05"}, // Geschäftshaus Bielefeld, Einbrecher
