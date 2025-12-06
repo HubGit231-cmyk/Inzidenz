@@ -3001,3 +3001,7 @@
 //{"coords": [], "date": "2025-12-06"} // Sprintern Frankfurt, Einbruch
 {"coords": [10.7956, 51.5019], "date": "2025-12-06"}, // Fahrzeugteilen Nordhausen, Diebstahl
 {"coords": [8.0667, 50.3833], "date": "2025-12-06"}, // Limburg, Einbruch
+//{"coords": [], "date": "2025-12-06"} // Niederhövels Wissen, Einbrüche
+{"coords": [7.2061, 53.3669], "date": "2025-12-06"}, // Emden, Räuber
+//{"coords": [], "date": "2025-12-06"} // Zeugensuche Wissen, Einbrüche
+{"coords": [8.6306, 53.05], "date": "2025-12-06"}, // Delmenhorst, Einbruch
