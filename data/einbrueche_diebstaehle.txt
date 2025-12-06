@@ -3015,3 +3015,4 @@
 //{"coords": [], "date": "2025-12-06"} // Verkehrsunfallflucht Hofheim, Einbruch
 {"coords": [8.875, 53.05], "date": "2025-12-06"}, // Osterholz, Einbrüche
 {"coords": [8.2146, 53.1434], "date": "2025-12-06"}, // Oldenburg, Diebstahl
+//{"coords": [], "date": "2025-12-06"} // Einfamilienhaus Herford, Einbruch
