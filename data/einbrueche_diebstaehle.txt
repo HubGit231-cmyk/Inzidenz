@@ -2997,3 +2997,4 @@
 //{"coords": [], "date": "2025-12-06"} // Firmengebäude Twist, Einbruch
 {"coords": [8.4661, 49.4878], "date": "2025-12-06"}, // Zeugenaufruf Mannheim, Räuber
 {"coords": [10.0936, 48.8372], "date": "2025-12-06"}, // Polizeihubschrauber Aalen, Einbrecher
+{"coords": [8.1092, 51.5711], "date": "2025-12-06"}, // Automatendiebstahl Soest Deiringsen, Diebstahl
