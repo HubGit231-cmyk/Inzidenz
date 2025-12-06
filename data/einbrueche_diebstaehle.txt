@@ -2989,3 +2989,8 @@
 {"coords": [7.9833, 51.95], "date": "2025-12-06"}, // Person Warendorf, Raub
 {"coords": [8.4661, 49.4878], "date": "2025-12-06"}, // Mannheim, Diebstahl
 {"coords": [8.6944, 49.4092], "date": "2025-12-06"}, // Heidelberg, Diebstahl
+{"coords": [7.3194, 52.5236], "date": "2025-12-06"}, // Lingen, Dieb
+{"coords": [7.0667, 52.4333], "date": "2025-12-06"}, // Nordhorn, entwendet
+{"coords": [7.3194, 52.5236], "date": "2025-12-06"}, // Lingen, Diebstahl
+{"coords": [7.3608, 49.2492], "date": "2025-12-06"}, // Kraftfahrzeugdiebstahl Zweibrücken, Diebstahl
+{"coords": [7.3608, 49.2492], "date": "2025-12-06"}, // Einbruchsdiebstahl Zweibrücken, Einbruch
