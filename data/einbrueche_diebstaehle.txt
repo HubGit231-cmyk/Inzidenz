@@ -2985,3 +2985,7 @@
 //{"coords": [], "date": "2025-12-06"} // Kamen Kamen, Einbruch
 {"coords": [8.2869, 52.7303], "date": "2025-12-06"}, // Vechta, Diebstahl
 {"coords": [10.3333, 52.15], "date": "2025-12-06"}, // Thiede Salzgitter, Diebstahl
+{"coords": [10.7956, 51.5019], "date": "2025-12-06"}, // Bildungseinrichtung Nordhausen, Einbruch
+{"coords": [7.9833, 51.95], "date": "2025-12-06"}, // Person Warendorf, Raub
+{"coords": [8.4661, 49.4878], "date": "2025-12-06"}, // Mannheim, Diebstahl
+{"coords": [8.6944, 49.4092], "date": "2025-12-06"}, // Heidelberg, Diebstahl
